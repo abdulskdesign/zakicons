@@ -1,0 +1,26 @@
+{
+  "viewBox": "0 0 24 24",
+  "canvasSize": 24,
+  "defaultStrokeWidth": 2,
+  "defaultStrokeLinecap": "round",
+  "defaultStrokeLinejoin": "round",
+  "defaultStroke": "currentColor",
+  "defaultFill": "none",
+  "style": "outline",
+  "allowedTags": [
+    "svg",
+    "path",
+    "circle",
+    "rect",
+    "line",
+    "polyline",
+    "polygon"
+  ],
+  "forbiddenAttributes": [
+    "id",
+    "class",
+    "style",
+    "data-name",
+    "xmlns:xlink"
+  ]
+}

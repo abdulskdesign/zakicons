@@ -1,0 +1,19 @@
+{
+  "name": "@zak-icons/css",
+  "version": "1.0.0",
+  "description": "ZAK Icons CSS distribution – SVG mask based icons for plain HTML/CSS usage.",
+  "main": "dist/zak-icons.css",
+  "types": "dist/zak-icons.css",
+  "files": ["dist"],
+  "scripts": {
+    "build": "node generate-css.js",
+    "prepare": "npm run build"
+  },
+  "keywords": ["icons","zak","css","svg","mask"],
+  "author": "ZAK Icons Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zak-icons/zakicons.git"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "/page": "app/page.js",
+  "/icons/page": "app/icons/page.js",
+  "/icons/[icon]/page": "app/icons/[icon]/page.js",
+  "/docs/page": "app/docs/page.js",
+  "/docs/flutter/page": "app/docs/flutter/page.js",
+  "/docs/react/page": "app/docs/react/page.js",
+  "/docs/css/page": "app/docs/css/page.js",
+  "/docs/blazor/page": "app/docs/blazor/page.js"
+}

@@ -1,0 +1,6444 @@
+[
+  {
+    "name": "accessibility",
+    "title": "Accessibility Figure",
+    "category": "accessibility",
+    "tags": [
+      "a11y",
+      "inclusion",
+      "universal design",
+      "assistive",
+      "accessibility"
+    ],
+    "aliases": [
+      "a11y person",
+      "universal access"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "activity",
+    "title": "Activity Pulse",
+    "category": "analytics",
+    "tags": [
+      "ecg",
+      "heartbeat",
+      "vital",
+      "monitoring",
+      "realtime",
+      "analytics",
+      "activity"
+    ],
+    "aliases": [
+      "realtime pulse",
+      "ecg trace"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "activity-square",
+    "title": "Vitality Monitor",
+    "category": "health",
+    "tags": [
+      "telemetry",
+      "cardiac tracker",
+      "health widget",
+      "health",
+      "activity",
+      "square"
+    ],
+    "aliases": [
+      "cardiac widget",
+      "ecg box"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "alert-circle",
+    "title": "Alert Circle",
+    "category": "actions",
+    "tags": [
+      "warning",
+      "caution",
+      "danger",
+      "exclamation",
+      "actions",
+      "alert",
+      "circle"
+    ],
+    "aliases": [
+      "warning circle",
+      "exclamation round"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "alert-triangle",
+    "title": "Alert Triangle",
+    "category": "actions",
+    "tags": [
+      "warning",
+      "hazard",
+      "danger",
+      "caution",
+      "actions",
+      "alert",
+      "triangle"
+    ],
+    "aliases": [
+      "hazard triangle",
+      "caution warning"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "anchor",
+    "title": "Anchor",
+    "category": "navigation",
+    "tags": [
+      "marine",
+      "harbor",
+      "berth",
+      "nautical",
+      "security",
+      "navigation",
+      "anchor"
+    ],
+    "aliases": [
+      "ship anchor",
+      "nautical moor"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "anchor-dock",
+    "title": "Berth Moor",
+    "category": "logistics",
+    "tags": [
+      "docking",
+      "berth",
+      "mooring",
+      "pier",
+      "seaport",
+      "logistics",
+      "anchor",
+      "dock"
+    ],
+    "aliases": [
+      "ship moor",
+      "pier berth"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "apple",
+    "title": "Fresh Apple",
+    "category": "food",
+    "tags": [
+      "fruit",
+      "healthy",
+      "diet",
+      "nutrition",
+      "snack",
+      "food",
+      "apple"
+    ],
+    "aliases": [
+      "fresh fruit",
+      "apple nutrition"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "arrow-down",
+    "title": "Arrow Down",
+    "category": "arrows",
+    "tags": [
+      "south",
+      "bottom",
+      "lower",
+      "direction",
+      "arrows",
+      "arrow",
+      "down"
+    ],
+    "aliases": [
+      "down arrow",
+      "downward"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "arrow-down-left",
+    "title": "Arrow Down Left",
+    "category": "arrows",
+    "tags": [
+      "southwest",
+      "diagonal",
+      "direction",
+      "arrows",
+      "arrow",
+      "down",
+      "left"
+    ],
+    "aliases": [
+      "diagonal down left"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "arrow-down-right",
+    "title": "Arrow Down Right",
+    "category": "arrows",
+    "tags": [
+      "southeast",
+      "diagonal",
+      "direction",
+      "arrows",
+      "arrow",
+      "down",
+      "right"
+    ],
+    "aliases": [
+      "diagonal down right"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "arrow-down-to-dot",
+    "title": "Arrow Down To Dot",
+    "category": "arrows",
+    "tags": [
+      "drop point",
+      "destination",
+      "pin down",
+      "arrows",
+      "arrow",
+      "down",
+      "to",
+      "dot"
+    ],
+    "aliases": [
+      "drop to dot",
+      "point down"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "arrow-left",
+    "title": "Arrow Left",
+    "category": "arrows",
+    "tags": [
+      "back",
+      "west",
+      "previous",
+      "direction",
+      "arrows",
+      "arrow",
+      "left"
+    ],
+    "aliases": [
+      "back arrow",
+      "leftward"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "arrow-left-right",
+    "title": "Arrow Left Right",
+    "category": "arrows",
+    "tags": [
+      "horizontal",
+      "bidirectional",
+      "swap",
+      "exchange",
+      "arrows",
+      "arrow",
+      "left",
+      "right"
+    ],
+    "aliases": [
+      "bidirectional arrow",
+      "horizontal exchange"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "arrow-right",
+    "title": "Arrow Right",
+    "category": "arrows",
+    "tags": [
+      "forward",
+      "east",
+      "next",
+      "direction",
+      "arrows",
+      "arrow",
+      "right"
+    ],
+    "aliases": [
+      "forward arrow",
+      "rightward"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "arrow-up",
+    "title": "Arrow Up",
+    "category": "arrows",
+    "tags": [
+      "north",
+      "top",
+      "higher",
+      "direction",
+      "arrows",
+      "arrow",
+      "up"
+    ],
+    "aliases": [
+      "up arrow",
+      "upward"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "arrow-up-down",
+    "title": "Arrow Up Down",
+    "category": "arrows",
+    "tags": [
+      "vertical",
+      "bidirectional",
+      "height",
+      "sort vertical",
+      "arrows",
+      "arrow",
+      "up",
+      "down"
+    ],
+    "aliases": [
+      "vertical exchange",
+      "up down arrow"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "arrow-up-from-dot",
+    "title": "Arrow Up From Dot",
+    "category": "arrows",
+    "tags": [
+      "origin point",
+      "launch",
+      "source",
+      "arrows",
+      "arrow",
+      "up",
+      "from",
+      "dot"
+    ],
+    "aliases": [
+      "launch from dot",
+      "point up"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "arrow-up-left",
+    "title": "Arrow Up Left",
+    "category": "arrows",
+    "tags": [
+      "northwest",
+      "diagonal",
+      "direction",
+      "arrows",
+      "arrow",
+      "up",
+      "left"
+    ],
+    "aliases": [
+      "diagonal up left"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "arrow-up-right",
+    "title": "Arrow Up Right",
+    "category": "arrows",
+    "tags": [
+      "northeast",
+      "diagonal",
+      "external",
+      "export",
+      "arrows",
+      "arrow",
+      "up",
+      "right"
+    ],
+    "aliases": [
+      "diagonal up right"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "at-sign",
+    "title": "At Sign Mention",
+    "category": "communication",
+    "tags": [
+      "mention",
+      "email symbol",
+      "user tag",
+      "communication",
+      "at",
+      "sign"
+    ],
+    "aliases": [
+      "mention sign",
+      "email symbol"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "atom",
+    "title": "Quantum Atom",
+    "category": "ai",
+    "tags": [
+      "physics",
+      "science",
+      "core",
+      "orbit",
+      "quantum",
+      "ai",
+      "atom"
+    ],
+    "aliases": [
+      "science atom",
+      "quantum orbit"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "award",
+    "title": "Award Ribbon",
+    "category": "business",
+    "tags": [
+      "trophy",
+      "medal",
+      "achievement",
+      "first place",
+      "winner",
+      "business",
+      "award"
+    ],
+    "aliases": [
+      "medal ribbon",
+      "achievement badge"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "badge-check",
+    "title": "Verified Badge",
+    "category": "users",
+    "tags": [
+      "official",
+      "rosette",
+      "certified",
+      "trusted",
+      "users",
+      "badge",
+      "check"
+    ],
+    "aliases": [
+      "trust badge",
+      "verification ribbon"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "badge-percent",
+    "title": "Discount Badge",
+    "category": "business",
+    "tags": [
+      "promotion",
+      "coupon",
+      "offer",
+      "deal",
+      "business",
+      "badge",
+      "percent"
+    ],
+    "aliases": [
+      "deal badge",
+      "promo badge"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "banknote",
+    "title": "Banknote",
+    "category": "finance",
+    "tags": [
+      "currency",
+      "cash",
+      "dollar",
+      "bill",
+      "paper money",
+      "finance",
+      "banknote"
+    ],
+    "aliases": [
+      "cash note",
+      "currency bill"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "bar-chart-2",
+    "title": "Bar Chart",
+    "category": "analytics",
+    "tags": [
+      "metrics",
+      "stats",
+      "graph",
+      "performance",
+      "kpi",
+      "analytics",
+      "bar",
+      "chart",
+      "2"
+    ],
+    "aliases": [
+      "vertical bar chart",
+      "stats graph"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "barcode",
+    "title": "Barcode",
+    "category": "commerce",
+    "tags": [
+      "sku",
+      "upc",
+      "product code",
+      "scan",
+      "commerce",
+      "barcode"
+    ],
+    "aliases": [
+      "upc barcode",
+      "product code"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "barcode-scanner",
+    "title": "Barcode Scanner",
+    "category": "logistics",
+    "tags": [
+      "pda",
+      "terminal",
+      "scan",
+      "inventory",
+      "rfid",
+      "logistics",
+      "barcode",
+      "scanner"
+    ],
+    "aliases": [
+      "rfid reader",
+      "inventory gun"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "battery-charging",
+    "title": "Battery Charging",
+    "category": "devices",
+    "tags": [
+      "power",
+      "energy",
+      "recharge",
+      "electricity",
+      "level",
+      "devices",
+      "battery",
+      "charging"
+    ],
+    "aliases": [
+      "charging battery",
+      "energy cell"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "bell",
+    "title": "Notification Bell",
+    "category": "communication",
+    "tags": [
+      "alert",
+      "chime",
+      "reminder",
+      "alarm",
+      "updates",
+      "communication",
+      "bell"
+    ],
+    "aliases": [
+      "alert chime",
+      "notification ringer"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "bell-off",
+    "title": "Bell Mute",
+    "category": "communication",
+    "tags": [
+      "silent",
+      "do not disturb",
+      "mute alerts",
+      "quiet",
+      "communication",
+      "bell",
+      "off"
+    ],
+    "aliases": [
+      "mute bell",
+      "dnd alert"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "bike",
+    "title": "Bicycle",
+    "category": "transportation",
+    "tags": [
+      "cycling",
+      "eco",
+      "commute",
+      "pedal",
+      "two wheels",
+      "transportation",
+      "bike"
+    ],
+    "aliases": [
+      "commuter bike",
+      "cycling vehicle"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "blind",
+    "title": "Visual Assist",
+    "category": "accessibility",
+    "tags": [
+      "vision impaired",
+      "braille",
+      "blind cane",
+      "assistive",
+      "accessibility",
+      "blind"
+    ],
+    "aliases": [
+      "vision assist",
+      "walking cane"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "bluetooth",
+    "title": "Bluetooth",
+    "category": "devices",
+    "tags": [
+      "wireless",
+      "pairing",
+      "connect",
+      "rf",
+      "devices",
+      "bluetooth"
+    ],
+    "aliases": [
+      "bluetooth pair",
+      "wireless connection"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "bookmark",
+    "title": "Bookmark",
+    "category": "actions",
+    "tags": [
+      "save",
+      "read later",
+      "favorite",
+      "marker",
+      "actions",
+      "bookmark"
+    ],
+    "aliases": [
+      "ribbon bookmark",
+      "save marker"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "bot",
+    "title": "AI Bot",
+    "category": "ai",
+    "tags": [
+      "robot",
+      "agent",
+      "assistant",
+      "automation",
+      "android",
+      "ai",
+      "bot"
+    ],
+    "aliases": [
+      "robot agent",
+      "ai assistant"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "box-alert",
+    "title": "Damaged Cargo",
+    "category": "logistics",
+    "tags": [
+      "cargo exception",
+      "incident",
+      "fragile issue",
+      "warning",
+      "logistics",
+      "box",
+      "alert"
+    ],
+    "aliases": [
+      "package exception",
+      "cargo alert"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "box-check",
+    "title": "Delivered Box",
+    "category": "logistics",
+    "tags": [
+      "order fulfilled",
+      "delivered",
+      "package done",
+      "logistics",
+      "box",
+      "check"
+    ],
+    "aliases": [
+      "order verified",
+      "box delivered"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "brain",
+    "title": "Neural Brain",
+    "category": "ai",
+    "tags": [
+      "deep learning",
+      "cognition",
+      "llm",
+      "neural network",
+      "mind",
+      "ai",
+      "brain"
+    ],
+    "aliases": [
+      "neural network",
+      "llm cognition"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "briefcase",
+    "title": "Briefcase",
+    "category": "business",
+    "tags": [
+      "work",
+      "career",
+      "job",
+      "portfolio",
+      "corporate",
+      "business",
+      "briefcase"
+    ],
+    "aliases": [
+      "attache case",
+      "business bag"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "bug",
+    "title": "Bug",
+    "category": "development",
+    "tags": [
+      "defect",
+      "issue",
+      "debugger",
+      "glitch",
+      "error",
+      "development",
+      "bug"
+    ],
+    "aliases": [
+      "software bug",
+      "glitch insect"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "building",
+    "title": "Corporate Building",
+    "category": "business",
+    "tags": [
+      "headquarters",
+      "office",
+      "company",
+      "firm",
+      "skyline",
+      "business",
+      "building"
+    ],
+    "aliases": [
+      "office building",
+      "headquarters"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "bus",
+    "title": "Transit Bus",
+    "category": "transportation",
+    "tags": [
+      "public transit",
+      "commute",
+      "coach",
+      "shuttle",
+      "transportation",
+      "bus"
+    ],
+    "aliases": [
+      "transit bus",
+      "commuter coach"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "cake",
+    "title": "Birthday Cake",
+    "category": "food",
+    "tags": [
+      "celebration",
+      "dessert",
+      "party",
+      "candles",
+      "sweet",
+      "food",
+      "cake"
+    ],
+    "aliases": [
+      "party cake",
+      "dessert candles"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "calculator",
+    "title": "Calculator",
+    "category": "finance",
+    "tags": [
+      "accounting",
+      "math",
+      "computation",
+      "tax",
+      "estimate",
+      "finance",
+      "calculator"
+    ],
+    "aliases": [
+      "accounting calc",
+      "number pad"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "calendar",
+    "title": "Calendar",
+    "category": "calendar",
+    "tags": [
+      "date",
+      "month",
+      "schedule",
+      "planner",
+      "event",
+      "calendar"
+    ],
+    "aliases": [
+      "calendar planner",
+      "monthly schedule"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "calendar-check",
+    "title": "Calendar Confirmed",
+    "category": "calendar",
+    "tags": [
+      "scheduled",
+      "booked",
+      "meeting confirmed",
+      "calendar",
+      "check"
+    ],
+    "aliases": [
+      "confirmed booking",
+      "scheduled check"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "calendar-days",
+    "title": "Calendar Grid",
+    "category": "calendar",
+    "tags": [
+      "days",
+      "timetable",
+      "appointments",
+      "dates",
+      "calendar"
+    ],
+    "aliases": [
+      "calendar view",
+      "days matrix"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "camera",
+    "title": "Camera",
+    "category": "media",
+    "tags": [
+      "photo",
+      "picture",
+      "snapshot",
+      "lens",
+      "media",
+      "camera"
+    ],
+    "aliases": [
+      "photo camera",
+      "snapshot lens"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "car",
+    "title": "Automobile Car",
+    "category": "transportation",
+    "tags": [
+      "vehicle",
+      "automobile",
+      "drive",
+      "road",
+      "taxi",
+      "transportation",
+      "car"
+    ],
+    "aliases": [
+      "automobile",
+      "passenger car"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "cargo",
+    "title": "Cargo",
+    "category": "logistics",
+    "tags": [
+      "freight",
+      "boxes",
+      "goods",
+      "shipment",
+      "inventory",
+      "logistics",
+      "cargo"
+    ],
+    "aliases": [
+      "freight goods",
+      "cargo load"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "cargo-hold",
+    "title": "Cargo Hold Bay",
+    "category": "logistics",
+    "tags": [
+      "vessel hold",
+      "bulk cargo",
+      "stowage",
+      "maritime",
+      "logistics",
+      "cargo",
+      "hold"
+    ],
+    "aliases": [
+      "stowage hold",
+      "ship bay"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "cast",
+    "title": "Screen Cast",
+    "category": "media",
+    "tags": [
+      "chromecast",
+      "airplay",
+      "stream",
+      "broadcast display",
+      "media",
+      "cast"
+    ],
+    "aliases": [
+      "chromecast",
+      "wireless display"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "check",
+    "title": "Check",
+    "category": "actions",
+    "tags": [
+      "tick",
+      "confirm",
+      "done",
+      "ok",
+      "success",
+      "actions",
+      "check"
+    ],
+    "aliases": [
+      "checkmark",
+      "tick"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "check-circle",
+    "title": "Check Circle",
+    "category": "actions",
+    "tags": [
+      "success",
+      "approved",
+      "completed",
+      "verified",
+      "actions",
+      "check",
+      "circle"
+    ],
+    "aliases": [
+      "verified circle",
+      "success badge"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "check-square",
+    "title": "Checkbox Checked",
+    "category": "system",
+    "tags": [
+      "checkbox",
+      "tick",
+      "form",
+      "select",
+      "system",
+      "check",
+      "square"
+    ],
+    "aliases": [
+      "checked box",
+      "form check"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "chevron-down",
+    "title": "Chevron Down",
+    "category": "arrows",
+    "tags": [
+      "bottom",
+      "down",
+      "dropdown",
+      "navigation",
+      "arrows",
+      "chevron"
+    ],
+    "aliases": [
+      "angle down",
+      "caret down"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "chevron-left",
+    "title": "Chevron Left",
+    "category": "arrows",
+    "tags": [
+      "back",
+      "left",
+      "expand",
+      "navigation",
+      "arrows",
+      "chevron"
+    ],
+    "aliases": [
+      "angle left",
+      "caret left"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "chevron-right",
+    "title": "Chevron Right",
+    "category": "arrows",
+    "tags": [
+      "forward",
+      "right",
+      "expand",
+      "navigation",
+      "arrows",
+      "chevron"
+    ],
+    "aliases": [
+      "angle right",
+      "caret right"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "chevron-up",
+    "title": "Chevron Up",
+    "category": "arrows",
+    "tags": [
+      "top",
+      "up",
+      "collapse",
+      "navigation",
+      "arrows",
+      "chevron"
+    ],
+    "aliases": [
+      "angle up",
+      "caret up"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "chevrons-down",
+    "title": "Chevrons Down",
+    "category": "arrows",
+    "tags": [
+      "scroll to bottom",
+      "double arrow",
+      "arrows",
+      "chevrons",
+      "down"
+    ],
+    "aliases": [
+      "double chevron down"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "chevrons-left",
+    "title": "Chevrons Left",
+    "category": "arrows",
+    "tags": [
+      "rewind",
+      "first",
+      "double arrow",
+      "arrows",
+      "chevrons",
+      "left"
+    ],
+    "aliases": [
+      "double chevron left"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "chevrons-right",
+    "title": "Chevrons Right",
+    "category": "arrows",
+    "tags": [
+      "fast forward",
+      "last",
+      "double arrow",
+      "arrows",
+      "chevrons",
+      "right"
+    ],
+    "aliases": [
+      "double chevron right"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "chevrons-up",
+    "title": "Chevrons Up",
+    "category": "arrows",
+    "tags": [
+      "scroll to top",
+      "double arrow",
+      "arrows",
+      "chevrons",
+      "up"
+    ],
+    "aliases": [
+      "double chevron up"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "circuit-board",
+    "title": "AI Circuit",
+    "category": "ai",
+    "tags": [
+      "electronics",
+      "silicon",
+      "hardware logic",
+      "pcb",
+      "ai",
+      "circuit",
+      "board"
+    ],
+    "aliases": [
+      "pcb circuit",
+      "chip trace"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "clipboard",
+    "title": "Clipboard",
+    "category": "files",
+    "tags": [
+      "task",
+      "checklist",
+      "survey",
+      "inspection",
+      "board",
+      "files",
+      "clipboard"
+    ],
+    "aliases": [
+      "task clipboard",
+      "holding board"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "clipboard-check",
+    "title": "Clipboard Check",
+    "category": "files",
+    "tags": [
+      "completed tasks",
+      "audit done",
+      "verified checklist",
+      "files",
+      "clipboard",
+      "check"
+    ],
+    "aliases": [
+      "audit clipboard",
+      "done checklist"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "clock",
+    "title": "Clock",
+    "category": "calendar",
+    "tags": [
+      "time",
+      "hours",
+      "watch",
+      "alarm",
+      "schedule",
+      "calendar",
+      "clock"
+    ],
+    "aliases": [
+      "analog clock",
+      "hours watch"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "cloud",
+    "title": "Cloud",
+    "category": "cloud",
+    "tags": [
+      "serverless",
+      "storage",
+      "hosting",
+      "aws",
+      "azure",
+      "cloud"
+    ],
+    "aliases": [
+      "cloud network",
+      "hosted cloud"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "cloud-cog",
+    "title": "Cloud Configuration",
+    "category": "cloud",
+    "tags": [
+      "devops",
+      "cloud ops",
+      "infrastructure",
+      "iac",
+      "cloud",
+      "cog"
+    ],
+    "aliases": [
+      "cloud settings",
+      "iac ops"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "cloud-download",
+    "title": "Cloud Download",
+    "category": "cloud",
+    "tags": [
+      "restore",
+      "sync from cloud",
+      "pull files",
+      "cloud",
+      "download"
+    ],
+    "aliases": [
+      "fetch cloud",
+      "cloud restore"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "cloud-fog",
+    "title": "Misty Fog",
+    "category": "weather",
+    "tags": [
+      "haze",
+      "mist",
+      "smog",
+      "visibility low",
+      "weather",
+      "cloud",
+      "fog"
+    ],
+    "aliases": [
+      "fog cloud",
+      "mist haze"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "cloud-lightning",
+    "title": "Thunderstorm",
+    "category": "weather",
+    "tags": [
+      "thunder",
+      "storm",
+      "flash",
+      "tempest",
+      "weather",
+      "cloud",
+      "lightning"
+    ],
+    "aliases": [
+      "thunderstorm",
+      "lightning cloud"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "cloud-rain",
+    "title": "Rain Shower",
+    "category": "weather",
+    "tags": [
+      "precipitation",
+      "drops",
+      "storm",
+      "wet",
+      "weather",
+      "cloud",
+      "rain"
+    ],
+    "aliases": [
+      "rain cloud",
+      "precipitation"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "cloud-upload",
+    "title": "Cloud Upload",
+    "category": "cloud",
+    "tags": [
+      "backup",
+      "sync to cloud",
+      "push to host",
+      "cloud",
+      "upload"
+    ],
+    "aliases": [
+      "backup cloud",
+      "push online"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "code",
+    "title": "Code",
+    "category": "development",
+    "tags": [
+      "brackets",
+      "html",
+      "syntax",
+      "source",
+      "programming",
+      "development",
+      "code"
+    ],
+    "aliases": [
+      "code tags",
+      "angle brackets"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "code-xml",
+    "title": "Code XML / JSX",
+    "category": "development",
+    "tags": [
+      "tags",
+      "jsx",
+      "components",
+      "markup",
+      "development",
+      "code",
+      "xml"
+    ],
+    "aliases": [
+      "xml tags",
+      "jsx component"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "coffee",
+    "title": "Coffee Cup",
+    "category": "food",
+    "tags": [
+      "espresso",
+      "tea",
+      "cafe",
+      "hot drink",
+      "break",
+      "food",
+      "coffee"
+    ],
+    "aliases": [
+      "coffee mug",
+      "hot espresso"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "coins",
+    "title": "Coins",
+    "category": "finance",
+    "tags": [
+      "gold",
+      "change",
+      "currency",
+      "tokens",
+      "cents",
+      "finance",
+      "coins"
+    ],
+    "aliases": [
+      "coin stack",
+      "cash change"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "compass",
+    "title": "Compass",
+    "category": "navigation",
+    "tags": [
+      "direction",
+      "orientation",
+      "north",
+      "safari",
+      "explore",
+      "navigation",
+      "compass"
+    ],
+    "aliases": [
+      "magnetic compass",
+      "explorer direction"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "contact",
+    "title": "Address Book Contact",
+    "category": "users",
+    "tags": [
+      "rolodex",
+      "directory",
+      "vcard",
+      "identity",
+      "users",
+      "contact"
+    ],
+    "aliases": [
+      "rolodex contact",
+      "address card"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "container",
+    "title": "Container",
+    "category": "logistics",
+    "tags": [
+      "shipping",
+      "freight",
+      "cargo",
+      "intermodal",
+      "box",
+      "steel",
+      "logistics",
+      "container"
+    ],
+    "aliases": [
+      "shipping container",
+      "freight box"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "container-refrigerated",
+    "title": "Reefer Cold Container",
+    "category": "logistics",
+    "tags": [
+      "cold chain",
+      "perishable",
+      "temperature controlled",
+      "ice",
+      "logistics",
+      "container",
+      "refrigerated"
+    ],
+    "aliases": [
+      "reefer unit",
+      "cold container"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "container-stacked",
+    "title": "Stacked Containers",
+    "category": "logistics",
+    "tags": [
+      "yard",
+      "terminal",
+      "storage stack",
+      "teu",
+      "logistics",
+      "container",
+      "stacked"
+    ],
+    "aliases": [
+      "container yard",
+      "teu stack"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "conveyor",
+    "title": "Conveyor Belt",
+    "category": "logistics",
+    "tags": [
+      "assembly",
+      "sorting",
+      "automation",
+      "facility",
+      "line",
+      "logistics",
+      "conveyor"
+    ],
+    "aliases": [
+      "sorting line",
+      "assembly conveyor"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "conveyor-box",
+    "title": "Conveyor Moving Box",
+    "category": "logistics",
+    "tags": [
+      "sorting",
+      "assembly",
+      "automation line",
+      "packaging",
+      "logistics",
+      "conveyor",
+      "box"
+    ],
+    "aliases": [
+      "moving parcel",
+      "conveyor line"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "copy",
+    "title": "Copy",
+    "category": "actions",
+    "tags": [
+      "duplicate",
+      "clone",
+      "clipboard",
+      "replicate",
+      "actions",
+      "copy"
+    ],
+    "aliases": [
+      "duplicate",
+      "clipboard copy"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "corner-up-left",
+    "title": "Corner Up Left",
+    "category": "arrows",
+    "tags": [
+      "reply",
+      "turn",
+      "return",
+      "direction",
+      "arrows",
+      "corner",
+      "up",
+      "left"
+    ],
+    "aliases": [
+      "turn left",
+      "reply arrow"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "corner-up-right",
+    "title": "Corner Up Right",
+    "category": "arrows",
+    "tags": [
+      "forward",
+      "turn",
+      "direction",
+      "arrows",
+      "corner",
+      "up",
+      "right"
+    ],
+    "aliases": [
+      "turn right",
+      "forward arrow"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "cpu",
+    "title": "Processor CPU",
+    "category": "devices",
+    "tags": [
+      "chip",
+      "microprocessor",
+      "silicon",
+      "hardware",
+      "soc",
+      "devices",
+      "cpu"
+    ],
+    "aliases": [
+      "microchip",
+      "silicon cpu"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "crane",
+    "title": "Port Crane",
+    "category": "logistics",
+    "tags": [
+      "hoist",
+      "lifting",
+      "heavy",
+      "container crane",
+      "docks",
+      "logistics",
+      "crane"
+    ],
+    "aliases": [
+      "gantry crane",
+      "container lift"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "crane-arm",
+    "title": "Crane Jib Arm",
+    "category": "logistics",
+    "tags": [
+      "heavy lift",
+      "boom crane",
+      "rigging",
+      "logistics",
+      "crane",
+      "arm"
+    ],
+    "aliases": [
+      "crane boom",
+      "lifting jib"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "credit-card",
+    "title": "Credit Card",
+    "category": "commerce",
+    "tags": [
+      "payment",
+      "visa",
+      "mastercard",
+      "debit",
+      "banking",
+      "commerce",
+      "credit",
+      "card"
+    ],
+    "aliases": [
+      "bank card",
+      "payment swipe"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "cross",
+    "title": "First Aid Cross",
+    "category": "health",
+    "tags": [
+      "hospital",
+      "clinic",
+      "emergency",
+      "medical center",
+      "health",
+      "cross"
+    ],
+    "aliases": [
+      "medical cross",
+      "first aid symbol"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "crosshair",
+    "title": "Crosshair",
+    "category": "navigation",
+    "tags": [
+      "target",
+      "aim",
+      "focus",
+      "precise",
+      "locate",
+      "navigation",
+      "crosshair"
+    ],
+    "aliases": [
+      "target aim",
+      "precision reticle"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "crown",
+    "title": "Crown Royalty",
+    "category": "users",
+    "tags": [
+      "vip",
+      "premium",
+      "admin",
+      "owner",
+      "tier",
+      "pro",
+      "users",
+      "crown"
+    ],
+    "aliases": [
+      "vip crown",
+      "king tier"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "cup-soda",
+    "title": "Cold Beverage",
+    "category": "food",
+    "tags": [
+      "drink",
+      "juice",
+      "straw",
+      "refreshment",
+      "soda",
+      "food",
+      "cup"
+    ],
+    "aliases": [
+      "cold drink",
+      "soda cup"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "customs",
+    "title": "Customs",
+    "category": "logistics",
+    "tags": [
+      "border",
+      "clearance",
+      "inspection",
+      "declaration",
+      "duty",
+      "logistics",
+      "customs"
+    ],
+    "aliases": [
+      "customs clearance",
+      "border control"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "customs-stamp",
+    "title": "Customs Clearance Stamp",
+    "category": "logistics",
+    "tags": [
+      "border stamp",
+      "duty approved",
+      "customs entry",
+      "logistics",
+      "customs",
+      "stamp"
+    ],
+    "aliases": [
+      "official stamp",
+      "duty seal"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "database",
+    "title": "Database",
+    "category": "development",
+    "tags": [
+      "sql",
+      "storage",
+      "table",
+      "postgres",
+      "data warehouse",
+      "development",
+      "database"
+    ],
+    "aliases": [
+      "database cylinder",
+      "sql store"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "delivery",
+    "title": "Express Delivery",
+    "category": "logistics",
+    "tags": [
+      "fast shipping",
+      "courier",
+      "express",
+      "rush",
+      "dispatch",
+      "logistics",
+      "delivery"
+    ],
+    "aliases": [
+      "express courier",
+      "rush delivery"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "disc",
+    "title": "Audio Disc",
+    "category": "media",
+    "tags": [
+      "cd",
+      "dvd",
+      "vinyl",
+      "album",
+      "record",
+      "media",
+      "disc"
+    ],
+    "aliases": [
+      "compact disc",
+      "vinyl album"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "dispatch",
+    "title": "Dispatch",
+    "category": "logistics",
+    "tags": [
+      "fleet",
+      "send",
+      "outbound",
+      "transit",
+      "courier",
+      "logistics",
+      "dispatch"
+    ],
+    "aliases": [
+      "outbound dispatch",
+      "fleet control"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "dna",
+    "title": "DNA Double Helix",
+    "category": "health",
+    "tags": [
+      "genetics",
+      "biology",
+      "genome",
+      "medical science",
+      "health",
+      "dna"
+    ],
+    "aliases": [
+      "double helix",
+      "genetic code"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "dollar-sign",
+    "title": "Dollar",
+    "category": "finance",
+    "tags": [
+      "usd",
+      "money",
+      "currency",
+      "wealth",
+      "payment",
+      "finance",
+      "dollar",
+      "sign"
+    ],
+    "aliases": [
+      "dollar sign",
+      "usd currency"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "dolly",
+    "title": "Hand Truck Dolly",
+    "category": "logistics",
+    "tags": [
+      "hand truck",
+      "porter",
+      "moving",
+      "cart",
+      "warehouse",
+      "logistics",
+      "dolly"
+    ],
+    "aliases": [
+      "hand truck",
+      "sack barrow"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "download",
+    "title": "Download",
+    "category": "actions",
+    "tags": [
+      "save",
+      "export",
+      "receive",
+      "fetch",
+      "actions",
+      "download"
+    ],
+    "aliases": [
+      "save file",
+      "fetch download"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "droplet",
+    "title": "Liquid Droplet",
+    "category": "health",
+    "tags": [
+      "water",
+      "blood",
+      "fluid",
+      "hydration",
+      "moisture",
+      "health",
+      "droplet"
+    ],
+    "aliases": [
+      "water drop",
+      "fluid bead"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "ear",
+    "title": "Hearing Assist",
+    "category": "accessibility",
+    "tags": [
+      "audio",
+      "hearing aid",
+      "deaf",
+      "sound",
+      "accessibility",
+      "ear"
+    ],
+    "aliases": [
+      "hearing assist",
+      "ear accessibility"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "edit",
+    "title": "Edit",
+    "category": "actions",
+    "tags": [
+      "pencil",
+      "modify",
+      "write",
+      "update",
+      "draft",
+      "actions",
+      "edit"
+    ],
+    "aliases": [
+      "pencil edit",
+      "modify button"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "equipment",
+    "title": "Industrial Equipment",
+    "category": "logistics",
+    "tags": [
+      "machinery",
+      "tools",
+      "rig",
+      "maintenance",
+      "gear",
+      "logistics",
+      "equipment"
+    ],
+    "aliases": [
+      "machinery",
+      "heavy equipment"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "expand",
+    "title": "Expand Diagonal",
+    "category": "arrows",
+    "tags": [
+      "outward",
+      "spread",
+      "enlarge",
+      "arrows",
+      "expand"
+    ],
+    "aliases": [
+      "expand diagonal",
+      "spread out"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "external-link",
+    "title": "External Link",
+    "category": "actions",
+    "tags": [
+      "open",
+      "new tab",
+      "outbound",
+      "redirect",
+      "actions",
+      "external",
+      "link"
+    ],
+    "aliases": [
+      "new window",
+      "open outside"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "eye",
+    "title": "Eye",
+    "category": "actions",
+    "tags": [
+      "view",
+      "see",
+      "show",
+      "preview",
+      "visible",
+      "actions",
+      "eye"
+    ],
+    "aliases": [
+      "visibility on",
+      "show preview"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "eye-off",
+    "title": "Eye Off",
+    "category": "actions",
+    "tags": [
+      "hide",
+      "hidden",
+      "private",
+      "invisible",
+      "conceal",
+      "actions",
+      "eye",
+      "off"
+    ],
+    "aliases": [
+      "visibility off",
+      "hide content"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "fast-forward",
+    "title": "Fast Forward",
+    "category": "media",
+    "tags": [
+      "speed up",
+      "advance",
+      "audio skip",
+      "media",
+      "fast",
+      "forward"
+    ],
+    "aliases": [
+      "media fast forward",
+      "double play"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "file",
+    "title": "File",
+    "category": "files",
+    "tags": [
+      "document",
+      "sheet",
+      "page",
+      "blank",
+      "files",
+      "file"
+    ],
+    "aliases": [
+      "document",
+      "blank file"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "file-archive",
+    "title": "Zip Archive File",
+    "category": "files",
+    "tags": [
+      "compressed",
+      "zip",
+      "tar",
+      "gzip",
+      "bundle",
+      "files",
+      "file",
+      "archive"
+    ],
+    "aliases": [
+      "zip file",
+      "compressed archive"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "file-check",
+    "title": "File Verified",
+    "category": "files",
+    "tags": [
+      "approved document",
+      "signed",
+      "certified",
+      "compliance",
+      "files",
+      "file",
+      "check"
+    ],
+    "aliases": [
+      "verified file",
+      "signed doc"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "file-code",
+    "title": "File Code",
+    "category": "files",
+    "tags": [
+      "source code",
+      "script",
+      "program",
+      "developer",
+      "html",
+      "files",
+      "file",
+      "code"
+    ],
+    "aliases": [
+      "code file",
+      "source script"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "file-minus",
+    "title": "File Remove",
+    "category": "files",
+    "tags": [
+      "delete document",
+      "exclude",
+      "drop sheet",
+      "files",
+      "file",
+      "minus"
+    ],
+    "aliases": [
+      "remove document",
+      "subtract file"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "file-plus",
+    "title": "File Add",
+    "category": "files",
+    "tags": [
+      "create document",
+      "new sheet",
+      "draft",
+      "files",
+      "file",
+      "plus"
+    ],
+    "aliases": [
+      "new file",
+      "add document"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "file-signature",
+    "title": "Signed Document",
+    "category": "files",
+    "tags": [
+      "esign",
+      "contract",
+      "legal",
+      "docusign",
+      "approval",
+      "files",
+      "file",
+      "signature"
+    ],
+    "aliases": [
+      "contract signature",
+      "legal doc"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "file-spreadsheet",
+    "title": "Spreadsheet File",
+    "category": "files",
+    "tags": [
+      "excel",
+      "csv",
+      "sheets",
+      "data table",
+      "calc",
+      "files",
+      "file",
+      "spreadsheet"
+    ],
+    "aliases": [
+      "excel sheet",
+      "csv data"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "file-text",
+    "title": "File Text",
+    "category": "files",
+    "tags": [
+      "document",
+      "article",
+      "report",
+      "notes",
+      "contract",
+      "files",
+      "file",
+      "text"
+    ],
+    "aliases": [
+      "text document",
+      "article sheet"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "film",
+    "title": "Film Strip",
+    "category": "media",
+    "tags": [
+      "cinema",
+      "motion picture",
+      "reel",
+      "production",
+      "media",
+      "film"
+    ],
+    "aliases": [
+      "movie film",
+      "cinema strip"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "filter",
+    "title": "Filter",
+    "category": "actions",
+    "tags": [
+      "funnel",
+      "refine",
+      "sort",
+      "parameters",
+      "actions",
+      "filter"
+    ],
+    "aliases": [
+      "funnel sort",
+      "refine query"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "fingerprint",
+    "title": "Fingerprint",
+    "category": "security",
+    "tags": [
+      "biometrics",
+      "identity",
+      "touch id",
+      "authentication",
+      "security",
+      "fingerprint"
+    ],
+    "aliases": [
+      "biometric scan",
+      "touch id"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "flag",
+    "title": "Flag",
+    "category": "navigation",
+    "tags": [
+      "checkpoint",
+      "marker",
+      "milestone",
+      "goal",
+      "country",
+      "navigation",
+      "flag"
+    ],
+    "aliases": [
+      "waypoint flag",
+      "banner"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "fleet",
+    "title": "Fleet Dispatch",
+    "category": "logistics",
+    "tags": [
+      "vehicles",
+      "trucks",
+      "convoy",
+      "fleet tracking",
+      "dispatch",
+      "logistics",
+      "fleet"
+    ],
+    "aliases": [
+      "fleet convoy",
+      "truck fleet"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "folder",
+    "title": "Folder",
+    "category": "folders",
+    "tags": [
+      "directory",
+      "archive",
+      "storage",
+      "group",
+      "folders",
+      "folder"
+    ],
+    "aliases": [
+      "directory",
+      "folder container"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "folder-check",
+    "title": "Folder Verified",
+    "category": "folders",
+    "tags": [
+      "approved folder",
+      "synchronized",
+      "ready",
+      "folders",
+      "folder",
+      "check"
+    ],
+    "aliases": [
+      "verified directory",
+      "synced folder"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "folder-lock",
+    "title": "Folder Secured",
+    "category": "folders",
+    "tags": [
+      "encrypted directory",
+      "confidential",
+      "private folder",
+      "folders",
+      "folder",
+      "lock"
+    ],
+    "aliases": [
+      "protected folder",
+      "encrypted directory"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "folder-minus",
+    "title": "Folder Remove",
+    "category": "folders",
+    "tags": [
+      "delete folder",
+      "remove directory",
+      "folders",
+      "folder",
+      "minus"
+    ],
+    "aliases": [
+      "remove folder",
+      "delete directory"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "folder-open",
+    "title": "Folder Open",
+    "category": "folders",
+    "tags": [
+      "expanded",
+      "active directory",
+      "browse",
+      "folders",
+      "folder",
+      "open"
+    ],
+    "aliases": [
+      "open folder",
+      "browse directory"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "folder-plus",
+    "title": "Folder Add",
+    "category": "folders",
+    "tags": [
+      "new folder",
+      "create directory",
+      "organize",
+      "folders",
+      "folder",
+      "plus"
+    ],
+    "aliases": [
+      "create folder",
+      "add directory"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "forklift",
+    "title": "Forklift",
+    "category": "logistics",
+    "tags": [
+      "warehouse",
+      "equipment",
+      "lifting",
+      "loader",
+      "pallet jack",
+      "logistics",
+      "forklift"
+    ],
+    "aliases": [
+      "fork truck",
+      "warehouse loader"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "freight",
+    "title": "Freight Transport",
+    "category": "logistics",
+    "tags": [
+      "bulk",
+      "cargo",
+      "commercial",
+      "logistics",
+      "freight"
+    ],
+    "aliases": [
+      "heavy freight",
+      "bulk shipment"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "fuel",
+    "title": "Fuel Pump",
+    "category": "transportation",
+    "tags": [
+      "gas",
+      "petrol",
+      "diesel",
+      "station",
+      "charge",
+      "transportation",
+      "fuel"
+    ],
+    "aliases": [
+      "gas pump",
+      "fuel station"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "funnel",
+    "title": "Conversion Funnel",
+    "category": "analytics",
+    "tags": [
+      "conversion",
+      "pipeline",
+      "stages",
+      "drop-off",
+      "analytics",
+      "funnel"
+    ],
+    "aliases": [
+      "marketing funnel",
+      "sales pipeline"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "gate",
+    "title": "Gate",
+    "category": "logistics",
+    "tags": [
+      "security",
+      "barrier",
+      "entry",
+      "checkpoint",
+      "access",
+      "toll",
+      "logistics",
+      "gate"
+    ],
+    "aliases": [
+      "entry gate",
+      "toll barrier"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "gauge",
+    "title": "Metric Gauge",
+    "category": "analytics",
+    "tags": [
+      "dashboard meter",
+      "speed",
+      "pressure",
+      "dial",
+      "analytics",
+      "gauge"
+    ],
+    "aliases": [
+      "dashboard meter",
+      "dial gauge"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "gauge-speed",
+    "title": "Transit Speed",
+    "category": "logistics",
+    "tags": [
+      "velocity",
+      "odometer",
+      "speedometer",
+      "kpi",
+      "dispatch rate",
+      "logistics",
+      "gauge",
+      "speed"
+    ],
+    "aliases": [
+      "speedometer",
+      "transit gauge"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "gift",
+    "title": "Gift",
+    "category": "commerce",
+    "tags": [
+      "present",
+      "reward",
+      "bonus",
+      "loyalty",
+      "package",
+      "commerce",
+      "gift"
+    ],
+    "aliases": [
+      "gift box",
+      "present reward"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "git-branch",
+    "title": "Git Branch",
+    "category": "development",
+    "tags": [
+      "vcs",
+      "fork",
+      "version control",
+      "merge line",
+      "development",
+      "git",
+      "branch"
+    ],
+    "aliases": [
+      "version branch",
+      "fork tree"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "git-commit",
+    "title": "Git Commit",
+    "category": "development",
+    "tags": [
+      "snapshot",
+      "revision",
+      "hash",
+      "git node",
+      "development",
+      "git",
+      "commit"
+    ],
+    "aliases": [
+      "git revision",
+      "commit node"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "git-merge",
+    "title": "Git Merge",
+    "category": "development",
+    "tags": [
+      "rebase",
+      "integration",
+      "branch join",
+      "vcs",
+      "development",
+      "git",
+      "merge"
+    ],
+    "aliases": [
+      "branch merge",
+      "code integration"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "git-pull-request",
+    "title": "Git Pull Request",
+    "category": "development",
+    "tags": [
+      "pr",
+      "merge",
+      "review",
+      "github",
+      "vcs",
+      "development",
+      "git",
+      "pull",
+      "request"
+    ],
+    "aliases": [
+      "pull request",
+      "merge request"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "globe",
+    "title": "Globe",
+    "category": "navigation",
+    "tags": [
+      "earth",
+      "world",
+      "international",
+      "planet",
+      "web",
+      "navigation",
+      "globe"
+    ],
+    "aliases": [
+      "worldwide",
+      "earth sphere"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "grid",
+    "title": "Grid View",
+    "category": "system",
+    "tags": [
+      "layout",
+      "cards",
+      "blocks",
+      "matrix",
+      "system",
+      "grid"
+    ],
+    "aliases": [
+      "card layout",
+      "matrix view"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "hard-drive",
+    "title": "Hard Drive",
+    "category": "devices",
+    "tags": [
+      "hdd",
+      "ssd",
+      "disk",
+      "storage unit",
+      "devices",
+      "hard",
+      "drive"
+    ],
+    "aliases": [
+      "disk storage",
+      "external hdd"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "headphones",
+    "title": "Headphones",
+    "category": "devices",
+    "tags": [
+      "audio",
+      "headset",
+      "listen",
+      "earphones",
+      "music",
+      "devices",
+      "headphones"
+    ],
+    "aliases": [
+      "sound headset",
+      "earphones"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "heart",
+    "title": "Heart",
+    "category": "actions",
+    "tags": [
+      "love",
+      "favorite",
+      "like",
+      "health",
+      "wishlist",
+      "actions",
+      "heart"
+    ],
+    "aliases": [
+      "love like",
+      "favorite heart"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "heart-pulse",
+    "title": "Heart Pulse",
+    "category": "health",
+    "tags": [
+      "medical",
+      "cardio",
+      "vitality",
+      "ecg",
+      "healthcare",
+      "health",
+      "heart",
+      "pulse"
+    ],
+    "aliases": [
+      "cardiac pulse",
+      "vital heartbeat"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "help-circle",
+    "title": "Help Circle",
+    "category": "actions",
+    "tags": [
+      "question",
+      "support",
+      "faq",
+      "assistance",
+      "actions",
+      "help",
+      "circle"
+    ],
+    "aliases": [
+      "question mark",
+      "faq support"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "hotel",
+    "title": "Hotel Stay",
+    "category": "travel",
+    "tags": [
+      "accommodation",
+      "hospitality",
+      "lodging",
+      "resort",
+      "travel",
+      "hotel"
+    ],
+    "aliases": [
+      "hotel building",
+      "hospitality lodge"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "hourglass",
+    "title": "Hourglass",
+    "category": "calendar",
+    "tags": [
+      "waiting",
+      "sand",
+      "duration",
+      "pending",
+      "expire",
+      "calendar",
+      "hourglass"
+    ],
+    "aliases": [
+      "sand timer",
+      "hourglass pending"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "hub",
+    "title": "Distribution Hub",
+    "category": "logistics",
+    "tags": [
+      "central",
+      "node",
+      "network",
+      "transfer",
+      "nexus",
+      "logistics",
+      "hub"
+    ],
+    "aliases": [
+      "transfer hub",
+      "central depot"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "id-card",
+    "title": "ID Card Badge",
+    "category": "users",
+    "tags": [
+      "credential",
+      "license",
+      "badge",
+      "identification",
+      "pass",
+      "users",
+      "id",
+      "card"
+    ],
+    "aliases": [
+      "identity pass",
+      "employee badge"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "image",
+    "title": "Image",
+    "category": "media",
+    "tags": [
+      "photo",
+      "picture",
+      "gallery",
+      "graphic",
+      "wallpaper",
+      "media",
+      "image"
+    ],
+    "aliases": [
+      "gallery photo",
+      "picture card"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "inbox",
+    "title": "Inbox",
+    "category": "communication",
+    "tags": [
+      "mail container",
+      "incoming",
+      "archive",
+      "tray",
+      "communication",
+      "inbox"
+    ],
+    "aliases": [
+      "mail tray",
+      "incoming box"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "info",
+    "title": "Info",
+    "category": "actions",
+    "tags": [
+      "information",
+      "help",
+      "details",
+      "about",
+      "actions",
+      "info"
+    ],
+    "aliases": [
+      "info icon",
+      "information circle"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "inspection",
+    "title": "Inspection",
+    "category": "logistics",
+    "tags": [
+      "audit",
+      "verify",
+      "quality",
+      "check",
+      "assessment",
+      "logistics",
+      "inspection"
+    ],
+    "aliases": [
+      "quality check",
+      "cargo inspection"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "invoice",
+    "title": "Logistics Invoice",
+    "category": "logistics",
+    "tags": [
+      "billing",
+      "waybill",
+      "bill of lading",
+      "payment",
+      "customs doc",
+      "logistics",
+      "invoice"
+    ],
+    "aliases": [
+      "bill of lading",
+      "waybill"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "key",
+    "title": "Access Key",
+    "category": "security",
+    "tags": [
+      "credential",
+      "token",
+      "auth",
+      "secret",
+      "unlock",
+      "security",
+      "key"
+    ],
+    "aliases": [
+      "auth key",
+      "secret token"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "keyboard",
+    "title": "Keyboard",
+    "category": "devices",
+    "tags": [
+      "type",
+      "input",
+      "keys",
+      "hardware",
+      "qwerty",
+      "devices",
+      "keyboard"
+    ],
+    "aliases": [
+      "typing keyboard",
+      "input board"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "landmark",
+    "title": "Bank Landmark",
+    "category": "finance",
+    "tags": [
+      "institution",
+      "federal",
+      "court",
+      "treasury",
+      "finance",
+      "landmark"
+    ],
+    "aliases": [
+      "bank building",
+      "federal treasury"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "laptop",
+    "title": "Laptop",
+    "category": "devices",
+    "tags": [
+      "computer",
+      "notebook",
+      "portable",
+      "screen",
+      "macbook",
+      "devices",
+      "laptop"
+    ],
+    "aliases": [
+      "notebook computer",
+      "laptop screen"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "layers",
+    "title": "Map Layers",
+    "category": "navigation",
+    "tags": [
+      "gis",
+      "stack",
+      "levels",
+      "overlay",
+      "terrain",
+      "navigation",
+      "layers"
+    ],
+    "aliases": [
+      "gis layers",
+      "stack overlay"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "layers-system",
+    "title": "Stack Layers",
+    "category": "system",
+    "tags": [
+      "depth",
+      "arrangement",
+      "z-index",
+      "components",
+      "system",
+      "layers"
+    ],
+    "aliases": [
+      "component layers",
+      "depth stack"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "layout",
+    "title": "Layout Panels",
+    "category": "system",
+    "tags": [
+      "wireframe",
+      "dashboard layout",
+      "ui sections",
+      "system",
+      "layout"
+    ],
+    "aliases": [
+      "page layout",
+      "split panels"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "lightbulb",
+    "title": "Insight Idea",
+    "category": "ai",
+    "tags": [
+      "creativity",
+      "solution",
+      "inspiration",
+      "concept",
+      "bright",
+      "ai",
+      "lightbulb"
+    ],
+    "aliases": [
+      "idea bulb",
+      "smart insight"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "line-chart",
+    "title": "Line Chart",
+    "category": "analytics",
+    "tags": [
+      "trend",
+      "forecast",
+      "growth",
+      "timeseries",
+      "analytics",
+      "line",
+      "chart"
+    ],
+    "aliases": [
+      "trend chart",
+      "timeseries graph"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "link",
+    "title": "Link",
+    "category": "actions",
+    "tags": [
+      "chain",
+      "url",
+      "hyperlink",
+      "attach",
+      "actions",
+      "link"
+    ],
+    "aliases": [
+      "chain link",
+      "url anchor"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "list",
+    "title": "List View",
+    "category": "system",
+    "tags": [
+      "rows",
+      "lines",
+      "order",
+      "bullet",
+      "system",
+      "list"
+    ],
+    "aliases": [
+      "row view",
+      "bulleted list"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "loader",
+    "title": "Loader",
+    "category": "system",
+    "tags": [
+      "spinner",
+      "loading",
+      "progress",
+      "waiting",
+      "system",
+      "loader"
+    ],
+    "aliases": [
+      "activity spinner",
+      "busy indicator"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "locate",
+    "title": "Locate",
+    "category": "navigation",
+    "tags": [
+      "current location",
+      "gps",
+      "find me",
+      "position",
+      "navigation",
+      "locate"
+    ],
+    "aliases": [
+      "my location",
+      "geolocate"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "lock",
+    "title": "Lock",
+    "category": "actions",
+    "tags": [
+      "security",
+      "protect",
+      "private",
+      "password",
+      "closed",
+      "actions",
+      "lock"
+    ],
+    "aliases": [
+      "padlock closed",
+      "secure lock"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "log-in",
+    "title": "Log In",
+    "category": "system",
+    "tags": [
+      "sign in",
+      "enter",
+      "portal",
+      "access",
+      "system",
+      "log",
+      "in"
+    ],
+    "aliases": [
+      "sign in",
+      "authenticate"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "log-out",
+    "title": "Log Out",
+    "category": "system",
+    "tags": [
+      "sign out",
+      "leave",
+      "exit",
+      "disconnect",
+      "system",
+      "log",
+      "out"
+    ],
+    "aliases": [
+      "sign out",
+      "session terminate"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "luggage",
+    "title": "Luggage Suitcase",
+    "category": "travel",
+    "tags": [
+      "baggage",
+      "traveler",
+      "vacation",
+      "trip",
+      "packing",
+      "travel",
+      "luggage"
+    ],
+    "aliases": [
+      "travel suitcase",
+      "baggage trolley"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "mail",
+    "title": "Mail",
+    "category": "communication",
+    "tags": [
+      "email",
+      "message",
+      "letter",
+      "inbox",
+      "correspondence",
+      "communication",
+      "mail"
+    ],
+    "aliases": [
+      "envelope",
+      "email inbox"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "map",
+    "title": "Map",
+    "category": "navigation",
+    "tags": [
+      "cartography",
+      "geography",
+      "plan",
+      "territory",
+      "streets",
+      "navigation",
+      "map"
+    ],
+    "aliases": [
+      "folded map",
+      "atlas"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "map-pin",
+    "title": "Map Pin",
+    "category": "navigation",
+    "tags": [
+      "location",
+      "marker",
+      "place",
+      "geo",
+      "gps",
+      "navigation",
+      "map",
+      "pin"
+    ],
+    "aliases": [
+      "location pin",
+      "geo marker"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "maximize-2",
+    "title": "Maximize",
+    "category": "arrows",
+    "tags": [
+      "fullscreen",
+      "expand",
+      "grow",
+      "enlarge",
+      "arrows",
+      "maximize",
+      "2"
+    ],
+    "aliases": [
+      "fullscreen",
+      "expand window"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "menu",
+    "title": "Menu",
+    "category": "system",
+    "tags": [
+      "hamburger",
+      "navigation",
+      "drawer",
+      "bars",
+      "system",
+      "menu"
+    ],
+    "aliases": [
+      "hamburger menu",
+      "drawer toggle"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "message-circle",
+    "title": "Message Circle",
+    "category": "communication",
+    "tags": [
+      "chat",
+      "conversation",
+      "round bubble",
+      "sms",
+      "communication",
+      "message",
+      "circle"
+    ],
+    "aliases": [
+      "round chat",
+      "speech bubble"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "message-square",
+    "title": "Message Square",
+    "category": "communication",
+    "tags": [
+      "chat",
+      "comment",
+      "discussion",
+      "bubble",
+      "feedback",
+      "communication",
+      "message",
+      "square"
+    ],
+    "aliases": [
+      "chat bubble",
+      "comment box"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "mic",
+    "title": "Microphone",
+    "category": "media",
+    "tags": [
+      "record",
+      "voice",
+      "podcast",
+      "speech",
+      "audio input",
+      "media",
+      "mic"
+    ],
+    "aliases": [
+      "voice mic",
+      "speech input"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "milestone",
+    "title": "Milestone",
+    "category": "navigation",
+    "tags": [
+      "progress",
+      "marker",
+      "distance",
+      "kilometer",
+      "target",
+      "navigation",
+      "milestone"
+    ],
+    "aliases": [
+      "distance marker",
+      "checkpoint stone"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "minimize-2",
+    "title": "Minimize",
+    "category": "arrows",
+    "tags": [
+      "exit fullscreen",
+      "shrink",
+      "reduce",
+      "arrows",
+      "minimize",
+      "2"
+    ],
+    "aliases": [
+      "exit fullscreen",
+      "contract"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "minus",
+    "title": "Minus",
+    "category": "actions",
+    "tags": [
+      "remove",
+      "delete",
+      "subtract",
+      "less",
+      "actions",
+      "minus"
+    ],
+    "aliases": [
+      "dash",
+      "subtract sign"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "monitor",
+    "title": "Monitor Screen",
+    "category": "devices",
+    "tags": [
+      "desktop",
+      "display",
+      "tv",
+      "workstation",
+      "devices",
+      "monitor"
+    ],
+    "aliases": [
+      "desktop display",
+      "computer screen"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "moon-theme",
+    "title": "Dark Theme",
+    "category": "system",
+    "tags": [
+      "mode",
+      "night",
+      "dark",
+      "theme",
+      "system",
+      "moon"
+    ],
+    "aliases": [
+      "dark mode",
+      "night toggle"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "more-horizontal",
+    "title": "More Horizontal",
+    "category": "system",
+    "tags": [
+      "dots",
+      "options",
+      "actions",
+      "ellipsis",
+      "system",
+      "more",
+      "horizontal"
+    ],
+    "aliases": [
+      "horizontal dots",
+      "three dots"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "more-vertical",
+    "title": "More Vertical",
+    "category": "system",
+    "tags": [
+      "dots",
+      "options",
+      "actions",
+      "kebab",
+      "system",
+      "more",
+      "vertical"
+    ],
+    "aliases": [
+      "vertical dots",
+      "kebab menu"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "mountain",
+    "title": "Mountain Range",
+    "category": "travel",
+    "tags": [
+      "summit",
+      "peak",
+      "alpine",
+      "hike",
+      "nature",
+      "travel",
+      "mountain"
+    ],
+    "aliases": [
+      "alpine peak",
+      "summit crest"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "mouse",
+    "title": "Computer Mouse",
+    "category": "devices",
+    "tags": [
+      "pointer",
+      "click",
+      "peripheral",
+      "hardware",
+      "devices",
+      "mouse"
+    ],
+    "aliases": [
+      "optical mouse",
+      "cursor clicker"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "move",
+    "title": "Move Directional",
+    "category": "arrows",
+    "tags": [
+      "drag",
+      "position",
+      "pan",
+      "arrows",
+      "move"
+    ],
+    "aliases": [
+      "drag handle",
+      "crosshair move"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "music",
+    "title": "Music Note",
+    "category": "media",
+    "tags": [
+      "sound",
+      "audio",
+      "song",
+      "tune",
+      "melody",
+      "media",
+      "music"
+    ],
+    "aliases": [
+      "quarter note",
+      "melody sound"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "navigation-arrow",
+    "title": "Navigation Arrow",
+    "category": "navigation",
+    "tags": [
+      "gps",
+      "route",
+      "heading",
+      "guide",
+      "compass needle",
+      "navigation",
+      "arrow"
+    ],
+    "aliases": [
+      "compass arrow",
+      "heading indicator"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "network",
+    "title": "Network Tree",
+    "category": "cloud",
+    "tags": [
+      "lan",
+      "wan",
+      "nodes",
+      "topology",
+      "mesh",
+      "cloud",
+      "network"
+    ],
+    "aliases": [
+      "network topology",
+      "lan tree"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "operations",
+    "title": "Operations Hub",
+    "category": "logistics",
+    "tags": [
+      "management",
+      "control",
+      "monitoring",
+      "dispatch",
+      "workflow",
+      "logistics",
+      "operations"
+    ],
+    "aliases": [
+      "command center",
+      "dispatch hub"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "package",
+    "title": "Package",
+    "category": "logistics",
+    "tags": [
+      "box",
+      "parcel",
+      "delivery",
+      "shipping",
+      "goods",
+      "logistics",
+      "package"
+    ],
+    "aliases": [
+      "delivery parcel",
+      "carton box"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "package-search",
+    "title": "Package Search",
+    "category": "logistics",
+    "tags": [
+      "track and trace",
+      "find package",
+      "locate shipment",
+      "logistics",
+      "package",
+      "search"
+    ],
+    "aliases": [
+      "shipment finder",
+      "parcel lookup"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "pallet",
+    "title": "Pallet",
+    "category": "logistics",
+    "tags": [
+      "storage",
+      "skid",
+      "handling",
+      "forklift",
+      "rack",
+      "logistics",
+      "pallet"
+    ],
+    "aliases": [
+      "wooden pallet",
+      "skid"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "pallet-truck",
+    "title": "Pallet Jack",
+    "category": "logistics",
+    "tags": [
+      "pump truck",
+      "warehouse jack",
+      "manual lift",
+      "logistics",
+      "pallet",
+      "truck"
+    ],
+    "aliases": [
+      "pump truck",
+      "hand pallet"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "parcel-fast",
+    "title": "Same Day Parcel",
+    "category": "logistics",
+    "tags": [
+      "rush delivery",
+      "express box",
+      "speed shipment",
+      "logistics",
+      "parcel",
+      "fast"
+    ],
+    "aliases": [
+      "express parcel",
+      "fast box"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "passkey",
+    "title": "Passkey Security",
+    "category": "security",
+    "tags": [
+      "fido",
+      "webauthn",
+      "passwordless",
+      "credential",
+      "security",
+      "passkey"
+    ],
+    "aliases": [
+      "fido key",
+      "webauthn passkey"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "pause",
+    "title": "Pause",
+    "category": "media",
+    "tags": [
+      "hold",
+      "freeze",
+      "break",
+      "halt",
+      "media",
+      "pause"
+    ],
+    "aliases": [
+      "pause bars",
+      "hold media"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "percent",
+    "title": "Percent",
+    "category": "finance",
+    "tags": [
+      "rate",
+      "interest",
+      "commission",
+      "discount",
+      "ratio",
+      "finance",
+      "percent"
+    ],
+    "aliases": [
+      "percentage",
+      "ratio sign"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "phone",
+    "title": "Phone",
+    "category": "communication",
+    "tags": [
+      "call",
+      "telephone",
+      "mobile",
+      "support",
+      "hotline",
+      "communication",
+      "phone"
+    ],
+    "aliases": [
+      "telephone",
+      "hotline call"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "phone-call",
+    "title": "Phone Call Active",
+    "category": "communication",
+    "tags": [
+      "ringing",
+      "incoming",
+      "answering",
+      "dialing",
+      "communication",
+      "phone",
+      "call"
+    ],
+    "aliases": [
+      "active phone",
+      "ringing handset"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "pie-chart",
+    "title": "Pie Chart",
+    "category": "analytics",
+    "tags": [
+      "proportions",
+      "breakdown",
+      "segment",
+      "division",
+      "analytics",
+      "pie",
+      "chart"
+    ],
+    "aliases": [
+      "segment chart",
+      "pie breakdown"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "pie-chart-slice",
+    "title": "Pie Segment",
+    "category": "analytics",
+    "tags": [
+      "analytics",
+      "percentage",
+      "slice",
+      "portion",
+      "pie",
+      "chart"
+    ],
+    "aliases": [
+      "pie slice",
+      "stat wedge"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "piggy-bank",
+    "title": "Piggy Bank",
+    "category": "finance",
+    "tags": [
+      "savings",
+      "deposit",
+      "money box",
+      "interest",
+      "finance",
+      "piggy",
+      "bank"
+    ],
+    "aliases": [
+      "savings pig",
+      "money box"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "pill",
+    "title": "Pill Medicine",
+    "category": "health",
+    "tags": [
+      "pharmacy",
+      "capsule",
+      "drug",
+      "tablet",
+      "treatment",
+      "health",
+      "pill"
+    ],
+    "aliases": [
+      "medicine capsule",
+      "pharma pill"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "pizza",
+    "title": "Pizza Slice",
+    "category": "food",
+    "tags": [
+      "fast food",
+      "snack",
+      "cheese",
+      "italian",
+      "meal",
+      "food",
+      "pizza"
+    ],
+    "aliases": [
+      "pizza slice",
+      "cheese pizza"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "plane",
+    "title": "Airplane Flight",
+    "category": "transportation",
+    "tags": [
+      "aviation",
+      "travel",
+      "flight",
+      "aerospace",
+      "trip",
+      "transportation",
+      "plane"
+    ],
+    "aliases": [
+      "aeroplane",
+      "flight travel"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "plane-landing",
+    "title": "Flight Arrival",
+    "category": "transportation",
+    "tags": [
+      "landing",
+      "arrive",
+      "descend",
+      "touchdown",
+      "transportation",
+      "plane"
+    ],
+    "aliases": [
+      "flight landing",
+      "arrival plane"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "plane-takeoff",
+    "title": "Flight Departure",
+    "category": "transportation",
+    "tags": [
+      "takeoff",
+      "depart",
+      "ascend",
+      "flight start",
+      "transportation",
+      "plane"
+    ],
+    "aliases": [
+      "flight takeoff",
+      "departure plane"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "play",
+    "title": "Play",
+    "category": "media",
+    "tags": [
+      "start",
+      "video",
+      "audio",
+      "stream",
+      "resume",
+      "media",
+      "play"
+    ],
+    "aliases": [
+      "play triangle",
+      "start media"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "plus",
+    "title": "Plus",
+    "category": "actions",
+    "tags": [
+      "add",
+      "create",
+      "new",
+      "more",
+      "actions",
+      "plus"
+    ],
+    "aliases": [
+      "add symbol",
+      "plus sign"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "port",
+    "title": "Port",
+    "category": "logistics",
+    "tags": [
+      "harbor",
+      "dock",
+      "terminal",
+      "maritime",
+      "quay",
+      "logistics",
+      "port"
+    ],
+    "aliases": [
+      "sea port",
+      "shipping terminal"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "power",
+    "title": "Power",
+    "category": "system",
+    "tags": [
+      "on",
+      "off",
+      "shutdown",
+      "switch",
+      "reboot",
+      "system",
+      "power"
+    ],
+    "aliases": [
+      "power button",
+      "turn off"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "power-off",
+    "title": "Power Off",
+    "category": "system",
+    "tags": [
+      "disconnected",
+      "offline",
+      "deactivated",
+      "system",
+      "power",
+      "off"
+    ],
+    "aliases": [
+      "power disabled",
+      "kill switch"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "presentation",
+    "title": "Presentation Board",
+    "category": "business",
+    "tags": [
+      "pitch",
+      "deck",
+      "meeting",
+      "briefing",
+      "slides",
+      "business",
+      "presentation"
+    ],
+    "aliases": [
+      "whiteboard",
+      "presentation chart"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "printer",
+    "title": "Printer",
+    "category": "devices",
+    "tags": [
+      "paper",
+      "print",
+      "document output",
+      "fax",
+      "devices",
+      "printer"
+    ],
+    "aliases": [
+      "paper printer",
+      "office print"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "qr-code",
+    "title": "QR Code",
+    "category": "commerce",
+    "tags": [
+      "matrix",
+      "scan",
+      "quick response",
+      "mobile pay",
+      "commerce",
+      "qr",
+      "code"
+    ],
+    "aliases": [
+      "quick response code",
+      "scan square"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "radio-button",
+    "title": "Radio Selected",
+    "category": "system",
+    "tags": [
+      "form radio",
+      "choice",
+      "single select",
+      "system",
+      "radio",
+      "button"
+    ],
+    "aliases": [
+      "radio choice",
+      "selected dot"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "rail",
+    "title": "Freight Rail",
+    "category": "logistics",
+    "tags": [
+      "train",
+      "tracks",
+      "railway",
+      "intermodal",
+      "transport",
+      "logistics",
+      "rail"
+    ],
+    "aliases": [
+      "rail transport",
+      "freight tracks"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "receipt",
+    "title": "Receipt",
+    "category": "commerce",
+    "tags": [
+      "bill",
+      "transaction",
+      "proof",
+      "payment slip",
+      "commerce",
+      "receipt"
+    ],
+    "aliases": [
+      "sales receipt",
+      "invoice slip"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "refresh-ccw",
+    "title": "Refresh Counter-Clockwise",
+    "category": "arrows",
+    "tags": [
+      "reload",
+      "undo",
+      "cycle",
+      "reverse",
+      "arrows",
+      "refresh",
+      "ccw"
+    ],
+    "aliases": [
+      "undo reload",
+      "sync ccw"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "refresh-cw",
+    "title": "Refresh Clockwise",
+    "category": "arrows",
+    "tags": [
+      "reload",
+      "sync",
+      "cycle",
+      "rotate",
+      "arrows",
+      "refresh",
+      "cw"
+    ],
+    "aliases": [
+      "reload",
+      "sync cw"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "rewind",
+    "title": "Rewind",
+    "category": "media",
+    "tags": [
+      "reverse",
+      "playback back",
+      "audio rewind",
+      "media",
+      "rewind"
+    ],
+    "aliases": [
+      "media rewind",
+      "backward play"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "rotate-ccw",
+    "title": "Rotate Counter-Clockwise",
+    "category": "arrows",
+    "tags": [
+      "turn",
+      "counter-clockwise",
+      "spin left",
+      "arrows",
+      "rotate",
+      "ccw"
+    ],
+    "aliases": [
+      "turn counter-clockwise",
+      "rotate left"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "rotate-cw",
+    "title": "Rotate Clockwise",
+    "category": "arrows",
+    "tags": [
+      "turn",
+      "clockwise",
+      "orientation",
+      "spin",
+      "arrows",
+      "rotate",
+      "cw"
+    ],
+    "aliases": [
+      "turn clockwise",
+      "rotate right"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "route",
+    "title": "Route",
+    "category": "navigation",
+    "tags": [
+      "path",
+      "itinerary",
+      "waypoints",
+      "journey",
+      "transit",
+      "navigation",
+      "route"
+    ],
+    "aliases": [
+      "pathway",
+      "journey route"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "route-logistics",
+    "title": "Supply Route",
+    "category": "logistics",
+    "tags": [
+      "navigation",
+      "path",
+      "dispatch",
+      "waypoints",
+      "journey",
+      "logistics",
+      "route"
+    ],
+    "aliases": [
+      "dispatch route",
+      "delivery route"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "router",
+    "title": "Wi-Fi Router",
+    "category": "devices",
+    "tags": [
+      "modem",
+      "gateway",
+      "access point",
+      "switch",
+      "devices",
+      "router"
+    ],
+    "aliases": [
+      "gateway router",
+      "wlan modem"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "rss",
+    "title": "RSS Feed",
+    "category": "communication",
+    "tags": [
+      "syndication",
+      "blog",
+      "feed",
+      "broadcast",
+      "communication",
+      "rss"
+    ],
+    "aliases": [
+      "feed stream",
+      "web syndication"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "scale",
+    "title": "Balance Scale",
+    "category": "finance",
+    "tags": [
+      "justice",
+      "equity",
+      "audit",
+      "compliance",
+      "weigh",
+      "finance",
+      "scale"
+    ],
+    "aliases": [
+      "justice scale",
+      "balance beam"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "scan",
+    "title": "Bio Scan",
+    "category": "security",
+    "tags": [
+      "facial recognition",
+      "frame",
+      "detector",
+      "sensor",
+      "security",
+      "scan"
+    ],
+    "aliases": [
+      "scan frame",
+      "target detector"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "seal-check",
+    "title": "Container Seal Check",
+    "category": "logistics",
+    "tags": [
+      "security seal",
+      "tamper proof",
+      "verified",
+      "passed",
+      "secure",
+      "logistics",
+      "seal",
+      "check"
+    ],
+    "aliases": [
+      "security seal",
+      "tamper verification"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "seal-lock",
+    "title": "High Security Bolt Seal",
+    "category": "logistics",
+    "tags": [
+      "iso 17712",
+      "bolt seal",
+      "container security",
+      "tamper",
+      "logistics",
+      "seal",
+      "lock"
+    ],
+    "aliases": [
+      "bolt seal",
+      "tamper lock"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "search",
+    "title": "Search",
+    "category": "actions",
+    "tags": [
+      "find",
+      "magnifier",
+      "lookup",
+      "explore",
+      "query",
+      "actions",
+      "search"
+    ],
+    "aliases": [
+      "magnifying glass",
+      "lookup query"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "send",
+    "title": "Send Message",
+    "category": "communication",
+    "tags": [
+      "airplane",
+      "transmit",
+      "dispatch",
+      "deliver",
+      "post",
+      "communication",
+      "send"
+    ],
+    "aliases": [
+      "paper plane",
+      "send message"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "server",
+    "title": "Server Rack",
+    "category": "devices",
+    "tags": [
+      "datacenter",
+      "hosting",
+      "hardware",
+      "storage",
+      "cloud host",
+      "devices",
+      "server"
+    ],
+    "aliases": [
+      "server rack",
+      "hosting node"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "server-cog",
+    "title": "Server Operations",
+    "category": "cloud",
+    "tags": [
+      "sysadmin",
+      "server maintenance",
+      "devops node",
+      "cloud",
+      "server",
+      "cog"
+    ],
+    "aliases": [
+      "admin server",
+      "configured node"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "server-crash",
+    "title": "Server Error Incident",
+    "category": "cloud",
+    "tags": [
+      "outage",
+      "downtime",
+      "500 error",
+      "crash",
+      "cloud",
+      "server"
+    ],
+    "aliases": [
+      "server down",
+      "outage crash"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "settings",
+    "title": "Settings",
+    "category": "actions",
+    "tags": [
+      "gear",
+      "cog",
+      "preferences",
+      "configuration",
+      "options",
+      "actions",
+      "settings"
+    ],
+    "aliases": [
+      "gear settings",
+      "cog config"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "share",
+    "title": "Share Export",
+    "category": "communication",
+    "tags": [
+      "send to",
+      "publish",
+      "outbox",
+      "export",
+      "communication",
+      "share"
+    ],
+    "aliases": [
+      "share export",
+      "outward share"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "share-2",
+    "title": "Share",
+    "category": "actions",
+    "tags": [
+      "network",
+      "distribute",
+      "social",
+      "connect",
+      "actions",
+      "share",
+      "2"
+    ],
+    "aliases": [
+      "share nodes",
+      "distribute link"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "shield",
+    "title": "Shield",
+    "category": "security",
+    "tags": [
+      "protection",
+      "defense",
+      "secure",
+      "firewall",
+      "safety",
+      "security",
+      "shield"
+    ],
+    "aliases": [
+      "defense shield",
+      "armor"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "shield-alert",
+    "title": "Shield Warning",
+    "category": "security",
+    "tags": [
+      "breach",
+      "threat detected",
+      "vulnerability",
+      "security",
+      "shield",
+      "alert"
+    ],
+    "aliases": [
+      "security threat",
+      "firewall warning"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "shield-check",
+    "title": "Shield Verified",
+    "category": "security",
+    "tags": [
+      "safe",
+      "protected",
+      "antivirus",
+      "passed",
+      "secure",
+      "security",
+      "shield",
+      "check"
+    ],
+    "aliases": [
+      "safe shield",
+      "protected badge"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "shield-off",
+    "title": "Shield Disabled",
+    "category": "security",
+    "tags": [
+      "insecure",
+      "unprotected",
+      "firewall down",
+      "security",
+      "shield",
+      "off"
+    ],
+    "aliases": [
+      "disabled protection",
+      "security off"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "shield-user",
+    "title": "User Protection",
+    "category": "users",
+    "tags": [
+      "identity assurance",
+      "kyc verified",
+      "secure profile",
+      "users",
+      "shield",
+      "user"
+    ],
+    "aliases": [
+      "secure user",
+      "shield profile"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "shield-x",
+    "title": "Shield Rejected",
+    "category": "security",
+    "tags": [
+      "blocked",
+      "denied",
+      "firewall drop",
+      "security",
+      "shield",
+      "x"
+    ],
+    "aliases": [
+      "shield blocked",
+      "firewall rejected"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "ship",
+    "title": "Cargo Ship",
+    "category": "logistics",
+    "tags": [
+      "vessel",
+      "maritime",
+      "ocean",
+      "sea",
+      "boat",
+      "freighter",
+      "logistics",
+      "ship"
+    ],
+    "aliases": [
+      "container ship",
+      "freight vessel"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "ship-boat",
+    "title": "Passenger Ferry",
+    "category": "transportation",
+    "tags": [
+      "ferry",
+      "boat",
+      "yacht",
+      "cruise",
+      "water taxi",
+      "transportation",
+      "ship"
+    ],
+    "aliases": [
+      "ferry boat",
+      "water taxi"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "shipment",
+    "title": "Shipment",
+    "category": "logistics",
+    "tags": [
+      "freight",
+      "consignment",
+      "package",
+      "dispatch",
+      "order",
+      "logistics",
+      "shipment"
+    ],
+    "aliases": [
+      "consignment",
+      "cargo shipment"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "shopping-bag",
+    "title": "Shopping Bag",
+    "category": "commerce",
+    "tags": [
+      "store",
+      "retail",
+      "merchandise",
+      "purchase",
+      "commerce",
+      "shopping",
+      "bag"
+    ],
+    "aliases": [
+      "retail bag",
+      "tote bag"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "shopping-basket",
+    "title": "Shopping Basket",
+    "category": "commerce",
+    "tags": [
+      "market",
+      "groceries",
+      "supermarket",
+      "cart",
+      "commerce",
+      "shopping",
+      "basket"
+    ],
+    "aliases": [
+      "market basket",
+      "grocery tote"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "shopping-cart",
+    "title": "Shopping Cart",
+    "category": "commerce",
+    "tags": [
+      "store",
+      "ecommerce",
+      "buy",
+      "purchase",
+      "checkout",
+      "commerce",
+      "shopping",
+      "cart"
+    ],
+    "aliases": [
+      "ecommerce trolley",
+      "buy cart"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "shrink",
+    "title": "Shrink Diagonal",
+    "category": "arrows",
+    "tags": [
+      "inward",
+      "compress",
+      "reduce",
+      "arrows",
+      "shrink"
+    ],
+    "aliases": [
+      "shrink diagonal",
+      "inward compress"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "signpost",
+    "title": "Signpost",
+    "category": "navigation",
+    "tags": [
+      "directions",
+      "intersection",
+      "guide",
+      "crossroad",
+      "navigation",
+      "signpost"
+    ],
+    "aliases": [
+      "street sign",
+      "wayfinding pole"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "sliders",
+    "title": "Sliders",
+    "category": "actions",
+    "tags": [
+      "adjust",
+      "tuning",
+      "controls",
+      "levels",
+      "equalizer",
+      "actions",
+      "sliders"
+    ],
+    "aliases": [
+      "adjust knobs",
+      "controls slider"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "sliders-horizontal",
+    "title": "Horizontal Sliders",
+    "category": "system",
+    "tags": [
+      "controls",
+      "filter bars",
+      "equalizer horizontal",
+      "system",
+      "sliders",
+      "horizontal"
+    ],
+    "aliases": [
+      "horizontal equalizer",
+      "tuning bars"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "smartphone",
+    "title": "Smartphone",
+    "category": "devices",
+    "tags": [
+      "mobile",
+      "cellphone",
+      "iphone",
+      "android",
+      "touchscreen",
+      "devices",
+      "smartphone"
+    ],
+    "aliases": [
+      "cell phone",
+      "mobile device"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "snowflake",
+    "title": "Snowflake",
+    "category": "weather",
+    "tags": [
+      "snow",
+      "winter",
+      "cold",
+      "freezing",
+      "ice",
+      "weather",
+      "snowflake"
+    ],
+    "aliases": [
+      "ice crystal",
+      "winter snow"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "sparkles",
+    "title": "Sparkles AI",
+    "category": "ai",
+    "tags": [
+      "magic",
+      "generative",
+      "intelligence",
+      "enhancement",
+      "stars",
+      "ai",
+      "sparkles"
+    ],
+    "aliases": [
+      "generative sparkles",
+      "ai magic"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "speaker",
+    "title": "Audio Speaker",
+    "category": "media",
+    "tags": [
+      "subwoofer",
+      "hifi",
+      "stereo",
+      "boombox",
+      "media",
+      "speaker"
+    ],
+    "aliases": [
+      "stereo speaker",
+      "hifi box"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "square",
+    "title": "Checkbox Empty",
+    "category": "system",
+    "tags": [
+      "box",
+      "uncheck",
+      "empty",
+      "form",
+      "system",
+      "square"
+    ],
+    "aliases": [
+      "empty checkbox",
+      "blank box"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "star",
+    "title": "Star",
+    "category": "actions",
+    "tags": [
+      "favorite",
+      "bookmark",
+      "rating",
+      "like",
+      "feature",
+      "actions",
+      "star"
+    ],
+    "aliases": [
+      "star favorite",
+      "rating star"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "stethoscope",
+    "title": "Stethoscope",
+    "category": "health",
+    "tags": [
+      "doctor",
+      "physician",
+      "checkup",
+      "diagnostic",
+      "health",
+      "stethoscope"
+    ],
+    "aliases": [
+      "doctor tool",
+      "stethoscope diagnostic"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "store",
+    "title": "Storefront",
+    "category": "commerce",
+    "tags": [
+      "shop",
+      "marketplace",
+      "vendor",
+      "retail",
+      "commerce",
+      "store"
+    ],
+    "aliases": [
+      "storefront",
+      "retail shop"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "sun",
+    "title": "Sun Clear",
+    "category": "weather",
+    "tags": [
+      "sunny",
+      "day",
+      "warmth",
+      "bright",
+      "forecast",
+      "weather",
+      "sun"
+    ],
+    "aliases": [
+      "sunny weather",
+      "clear sky"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "sun-beach",
+    "title": "Beach Island",
+    "category": "travel",
+    "tags": [
+      "vacation",
+      "holiday",
+      "tropical",
+      "coast",
+      "resort",
+      "travel",
+      "sun",
+      "beach"
+    ],
+    "aliases": [
+      "tropical beach",
+      "island resort"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "sun-theme",
+    "title": "Light Theme",
+    "category": "system",
+    "tags": [
+      "mode",
+      "brightness",
+      "day",
+      "theme",
+      "system",
+      "sun"
+    ],
+    "aliases": [
+      "light mode",
+      "day toggle"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "syringe",
+    "title": "Syringe Vaccine",
+    "category": "health",
+    "tags": [
+      "injection",
+      "immunization",
+      "treatment",
+      "needle",
+      "health",
+      "syringe"
+    ],
+    "aliases": [
+      "vaccine needle",
+      "injection dose"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "table",
+    "title": "Data Table",
+    "category": "analytics",
+    "tags": [
+      "grid",
+      "cells",
+      "rows",
+      "columns",
+      "spreadsheet",
+      "analytics",
+      "table"
+    ],
+    "aliases": [
+      "grid table",
+      "matrix data"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "tablet",
+    "title": "Tablet",
+    "category": "devices",
+    "tags": [
+      "ipad",
+      "slate",
+      "touchscreen",
+      "portable",
+      "devices",
+      "tablet"
+    ],
+    "aliases": [
+      "tablet screen",
+      "ipad device"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "tag",
+    "title": "Price Tag",
+    "category": "commerce",
+    "tags": [
+      "discount",
+      "price",
+      "label",
+      "sale",
+      "offer",
+      "commerce",
+      "tag"
+    ],
+    "aliases": [
+      "discount tag",
+      "sale label"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "target",
+    "title": "Business Target",
+    "category": "business",
+    "tags": [
+      "objective",
+      "goal",
+      "kpi",
+      "okr",
+      "accuracy",
+      "bullseye",
+      "business",
+      "target"
+    ],
+    "aliases": [
+      "bullseye",
+      "okr target"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "tent",
+    "title": "Camping Tent",
+    "category": "travel",
+    "tags": [
+      "outdoors",
+      "camp",
+      "adventure",
+      "nature",
+      "shelter",
+      "travel",
+      "tent"
+    ],
+    "aliases": [
+      "camp shelter",
+      "outdoor tent"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "terminal",
+    "title": "Terminal",
+    "category": "development",
+    "tags": [
+      "cli",
+      "console",
+      "command line",
+      "bash",
+      "shell",
+      "development",
+      "terminal"
+    ],
+    "aliases": [
+      "command prompt",
+      "shell window"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "thermometer",
+    "title": "Thermometer",
+    "category": "health",
+    "tags": [
+      "temperature",
+      "fever",
+      "celsius",
+      "fahrenheit",
+      "heat",
+      "health",
+      "thermometer"
+    ],
+    "aliases": [
+      "temperature sensor",
+      "fever gauge"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "thermometer-sun",
+    "title": "High Heat Temperature",
+    "category": "weather",
+    "tags": [
+      "hot",
+      "summer",
+      "warm",
+      "heatwave",
+      "weather",
+      "thermometer",
+      "sun"
+    ],
+    "aliases": [
+      "heatwave",
+      "summer temp"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "thumbs-down",
+    "title": "Thumbs Down",
+    "category": "actions",
+    "tags": [
+      "dislike",
+      "disapprove",
+      "negative",
+      "actions",
+      "thumbs",
+      "down"
+    ],
+    "aliases": [
+      "dislike gesture",
+      "disapprove thumbs"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "thumbs-up",
+    "title": "Thumbs Up",
+    "category": "actions",
+    "tags": [
+      "like",
+      "approve",
+      "positive",
+      "agree",
+      "actions",
+      "thumbs",
+      "up"
+    ],
+    "aliases": [
+      "like gesture",
+      "approve thumbs"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "timer",
+    "title": "Timer",
+    "category": "calendar",
+    "tags": [
+      "stopwatch",
+      "countdown",
+      "chronometer",
+      "duration",
+      "calendar",
+      "timer"
+    ],
+    "aliases": [
+      "stopwatch",
+      "countdown timer"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "toggle-left",
+    "title": "Toggle Inactive",
+    "category": "system",
+    "tags": [
+      "switch off",
+      "disabled",
+      "state",
+      "boolean",
+      "system",
+      "toggle",
+      "left"
+    ],
+    "aliases": [
+      "switch off",
+      "toggle false"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "toggle-right",
+    "title": "Toggle Active",
+    "category": "system",
+    "tags": [
+      "switch on",
+      "enabled",
+      "state",
+      "boolean",
+      "system",
+      "toggle",
+      "right"
+    ],
+    "aliases": [
+      "switch on",
+      "toggle true"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "tool",
+    "title": "Tool",
+    "category": "system",
+    "tags": [
+      "wrench",
+      "spanner",
+      "fix",
+      "repair",
+      "service",
+      "system",
+      "tool"
+    ],
+    "aliases": [
+      "wrench tool",
+      "repair utility"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "tracking",
+    "title": "Package Tracking",
+    "category": "logistics",
+    "tags": [
+      "gps",
+      "location",
+      "status",
+      "shipment tracker",
+      "scan",
+      "logistics",
+      "tracking"
+    ],
+    "aliases": [
+      "shipment tracking",
+      "cargo radar"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "train",
+    "title": "Freight Train",
+    "category": "logistics",
+    "tags": [
+      "locomotive",
+      "railroad",
+      "bulk",
+      "cargo train",
+      "logistics",
+      "train"
+    ],
+    "aliases": [
+      "freight engine",
+      "rail car"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "trash-2",
+    "title": "Trash",
+    "category": "actions",
+    "tags": [
+      "delete",
+      "remove",
+      "bin",
+      "garbage",
+      "discard",
+      "actions",
+      "trash",
+      "2"
+    ],
+    "aliases": [
+      "garbage can",
+      "delete bin"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "trending-down",
+    "title": "Trending Down",
+    "category": "analytics",
+    "tags": [
+      "bearish",
+      "loss",
+      "decline",
+      "fall",
+      "decrease",
+      "analytics",
+      "trending",
+      "down"
+    ],
+    "aliases": [
+      "bearish trend",
+      "decline arrow"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "trending-up",
+    "title": "Trending Up",
+    "category": "analytics",
+    "tags": [
+      "bullish",
+      "profit",
+      "growth",
+      "rise",
+      "increase",
+      "analytics",
+      "trending",
+      "up"
+    ],
+    "aliases": [
+      "bullish trend",
+      "growth arrow"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "truck",
+    "title": "Truck",
+    "category": "logistics",
+    "tags": [
+      "delivery",
+      "vehicle",
+      "transport",
+      "freight",
+      "lorry",
+      "logistics",
+      "truck"
+    ],
+    "aliases": [
+      "delivery truck",
+      "semi truck"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "umbrella",
+    "title": "Umbrella",
+    "category": "weather",
+    "tags": [
+      "protection",
+      "rain shield",
+      "monsoon",
+      "shelter",
+      "weather",
+      "umbrella"
+    ],
+    "aliases": [
+      "rain umbrella",
+      "parasol"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "unlock",
+    "title": "Unlock",
+    "category": "actions",
+    "tags": [
+      "open",
+      "access",
+      "permit",
+      "insecure",
+      "unlocked",
+      "actions",
+      "unlock"
+    ],
+    "aliases": [
+      "padlock open",
+      "unrestricted access"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "upload",
+    "title": "Upload",
+    "category": "actions",
+    "tags": [
+      "send",
+      "import",
+      "publish",
+      "cloud upload",
+      "actions",
+      "upload"
+    ],
+    "aliases": [
+      "import file",
+      "publish upload"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "user",
+    "title": "User",
+    "category": "users",
+    "tags": [
+      "person",
+      "profile",
+      "account",
+      "individual",
+      "human",
+      "users",
+      "user"
+    ],
+    "aliases": [
+      "profile person",
+      "single user"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "user-check",
+    "title": "User Verified",
+    "category": "users",
+    "tags": [
+      "confirmed member",
+      "approved profile",
+      "kyc passed",
+      "users",
+      "user",
+      "check"
+    ],
+    "aliases": [
+      "verified user",
+      "approved profile"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "user-minus",
+    "title": "User Remove",
+    "category": "users",
+    "tags": [
+      "remove member",
+      "delete account",
+      "kick",
+      "users",
+      "user",
+      "minus"
+    ],
+    "aliases": [
+      "delete user",
+      "remove contact"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "user-plus",
+    "title": "User Add",
+    "category": "users",
+    "tags": [
+      "invite",
+      "new member",
+      "register",
+      "join",
+      "users",
+      "user",
+      "plus"
+    ],
+    "aliases": [
+      "invite user",
+      "add contact"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "user-x",
+    "title": "User Blocked",
+    "category": "users",
+    "tags": [
+      "banned",
+      "suspended",
+      "rejected account",
+      "users",
+      "user",
+      "x"
+    ],
+    "aliases": [
+      "blocked user",
+      "banned profile"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "users",
+    "title": "Users",
+    "category": "users",
+    "tags": [
+      "group",
+      "team",
+      "people",
+      "organization",
+      "community",
+      "users"
+    ],
+    "aliases": [
+      "team group",
+      "multiple users"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "utensils",
+    "title": "Utensils",
+    "category": "food",
+    "tags": [
+      "dining",
+      "fork",
+      "knife",
+      "restaurant",
+      "meal",
+      "food",
+      "utensils"
+    ],
+    "aliases": [
+      "fork knife",
+      "dining cutlery"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "variable",
+    "title": "Variable Math",
+    "category": "development",
+    "tags": [
+      "math",
+      "declaration",
+      "constant",
+      "function",
+      "development",
+      "variable"
+    ],
+    "aliases": [
+      "variable token",
+      "code value"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "vault",
+    "title": "Safe Vault",
+    "category": "finance",
+    "tags": [
+      "security safe",
+      "bank deposit",
+      "lockbox",
+      "strongroom",
+      "finance",
+      "vault"
+    ],
+    "aliases": [
+      "strongroom safe",
+      "money vault"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "vendor",
+    "title": "Vendor",
+    "category": "logistics",
+    "tags": [
+      "supplier",
+      "distributor",
+      "merchant",
+      "b2b",
+      "partner",
+      "logistics",
+      "vendor"
+    ],
+    "aliases": [
+      "supplier",
+      "distributor"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "video",
+    "title": "Video Camera",
+    "category": "media",
+    "tags": [
+      "movie",
+      "record",
+      "webcam",
+      "film",
+      "stream",
+      "media",
+      "video"
+    ],
+    "aliases": [
+      "camcorder",
+      "video recorder"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "volume-2",
+    "title": "Volume High",
+    "category": "media",
+    "tags": [
+      "loud",
+      "audio",
+      "speaker",
+      "sound",
+      "music",
+      "media",
+      "volume",
+      "2"
+    ],
+    "aliases": [
+      "speaker loud",
+      "high audio"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "volume-x",
+    "title": "Volume Mute",
+    "category": "media",
+    "tags": [
+      "silent",
+      "no audio",
+      "quiet",
+      "mute",
+      "media",
+      "volume",
+      "x"
+    ],
+    "aliases": [
+      "mute speaker",
+      "sound off"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "wallet",
+    "title": "Wallet",
+    "category": "finance",
+    "tags": [
+      "money",
+      "cash",
+      "funds",
+      "crypto",
+      "balance",
+      "finance",
+      "wallet"
+    ],
+    "aliases": [
+      "money wallet",
+      "funds holder"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "warehouse",
+    "title": "Warehouse",
+    "category": "logistics",
+    "tags": [
+      "storage",
+      "depot",
+      "facility",
+      "fulfillment",
+      "distribution",
+      "logistics",
+      "warehouse"
+    ],
+    "aliases": [
+      "storage depot",
+      "fulfillment center"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "webhook",
+    "title": "Webhook Hook",
+    "category": "development",
+    "tags": [
+      "event",
+      "callback",
+      "api",
+      "trigger",
+      "listener",
+      "development",
+      "webhook"
+    ],
+    "aliases": [
+      "api webhook",
+      "event callback"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "weight",
+    "title": "Cargo Weight",
+    "category": "logistics",
+    "tags": [
+      "scale",
+      "payload",
+      "tonnage",
+      "measurement",
+      "heavy",
+      "logistics",
+      "weight"
+    ],
+    "aliases": [
+      "cargo scale",
+      "payload weight"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "wifi",
+    "title": "Wi-Fi",
+    "category": "devices",
+    "tags": [
+      "wireless",
+      "internet",
+      "connection",
+      "wlan",
+      "network",
+      "devices",
+      "wifi"
+    ],
+    "aliases": [
+      "wireless signal",
+      "wlan broadcast"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "wind",
+    "title": "Wind Breeze",
+    "category": "weather",
+    "tags": [
+      "breeze",
+      "air",
+      "gust",
+      "draft",
+      "blow",
+      "weather",
+      "wind"
+    ],
+    "aliases": [
+      "gust breeze",
+      "air current"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "x",
+    "title": "Close",
+    "category": "actions",
+    "tags": [
+      "cancel",
+      "dismiss",
+      "exit",
+      "cross",
+      "actions",
+      "x"
+    ],
+    "aliases": [
+      "cross",
+      "dismiss"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "x-circle",
+    "title": "Cross Circle",
+    "category": "actions",
+    "tags": [
+      "error",
+      "rejected",
+      "cancel",
+      "failed",
+      "stop",
+      "actions",
+      "x",
+      "circle"
+    ],
+    "aliases": [
+      "error icon",
+      "cancel badge"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "name": "zap",
+    "title": "Zap",
+    "category": "actions",
+    "tags": [
+      "lightning",
+      "electricity",
+      "flash",
+      "fast",
+      "power",
+      "instant",
+      "actions",
+      "zap"
+    ],
+    "aliases": [
+      "lightning bolt",
+      "energy flash"
+    ],
+    "style": "outline",
+    "viewBox": "0 0 24 24"
+  }
+]

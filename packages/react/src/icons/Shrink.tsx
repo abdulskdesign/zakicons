@@ -1,0 +1,29 @@
+import * as React from "react";
+import { ZakIconProps } from "../types";
+
+export const Shrink = React.forwardRef<SVGSVGElement, ZakIconProps>(
+  ({ size = 24, strokeWidth = 2, color = "currentColor", className = "", children, ...props }, ref) => {
+    return (
+      <svg
+        ref={ref}
+        xmlns="http://www.w3.org/2000/svg"
+        width={size}
+        height={size}
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke={color}
+        strokeWidth={strokeWidth}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        className={className}
+        aria-hidden="true"
+        {...props}
+      >
+        <path d="M4 14h6v6m4-10 7-7m-1 7h-6V4M3 21l7-7"/>
+        {children}
+      </svg>
+    );
+  }
+);
+
+Shrink.displayName = "Shrink";

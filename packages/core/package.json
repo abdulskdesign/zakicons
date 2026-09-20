@@ -1,0 +1,11 @@
+{
+  "name": "@zak-icons/core",
+  "version": "1.0.0",
+  "description": "Core icon definitions, metadata, and SVG data for ZAK Icons ecosystem",
+  "author": "ZAK Icons Team",
+  "license": "MIT",
+  "main": "./src/index.ts",
+  "module": "./src/index.ts",
+  "types": "./src/index.ts",
+  "sideEffects": false
+}

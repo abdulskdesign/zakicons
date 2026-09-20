@@ -1,0 +1,4975 @@
+{
+  "2": [
+    "share-2",
+    "trash-2",
+    "bar-chart-2",
+    "maximize-2",
+    "minimize-2",
+    "volume-2"
+  ],
+  "a11y": [
+    "accessibility"
+  ],
+  "inclusion": [
+    "accessibility"
+  ],
+  "universal design": [
+    "accessibility"
+  ],
+  "assistive": [
+    "accessibility",
+    "blind"
+  ],
+  "accessibility": [
+    "accessibility",
+    "blind",
+    "ear"
+  ],
+  "vision impaired": [
+    "blind"
+  ],
+  "braille": [
+    "blind"
+  ],
+  "blind cane": [
+    "blind"
+  ],
+  "blind": [
+    "blind"
+  ],
+  "audio": [
+    "ear",
+    "headphones",
+    "music",
+    "play",
+    "volume-2"
+  ],
+  "hearing aid": [
+    "ear"
+  ],
+  "deaf": [
+    "ear"
+  ],
+  "sound": [
+    "ear",
+    "music",
+    "volume-2"
+  ],
+  "ear": [
+    "ear"
+  ],
+  "warning": [
+    "alert-circle",
+    "alert-triangle",
+    "box-alert"
+  ],
+  "caution": [
+    "alert-circle",
+    "alert-triangle"
+  ],
+  "danger": [
+    "alert-circle",
+    "alert-triangle"
+  ],
+  "exclamation": [
+    "alert-circle"
+  ],
+  "actions": [
+    "alert-circle",
+    "alert-triangle",
+    "bookmark",
+    "check-circle",
+    "check",
+    "copy",
+    "download",
+    "edit",
+    "external-link",
+    "eye-off",
+    "eye",
+    "filter",
+    "heart",
+    "help-circle",
+    "info",
+    "link",
+    "lock",
+    "minus",
+    "plus",
+    "search",
+    "settings",
+    "share-2",
+    "sliders",
+    "star",
+    "thumbs-down",
+    "thumbs-up",
+    "trash-2",
+    "unlock",
+    "upload",
+    "x-circle",
+    "x",
+    "zap",
+    "more-horizontal",
+    "more-vertical"
+  ],
+  "alert": [
+    "alert-circle",
+    "alert-triangle",
+    "bell",
+    "box-alert",
+    "shield-alert"
+  ],
+  "circle": [
+    "alert-circle",
+    "check-circle",
+    "help-circle",
+    "x-circle",
+    "message-circle"
+  ],
+  "hazard": [
+    "alert-triangle"
+  ],
+  "triangle": [
+    "alert-triangle"
+  ],
+  "save": [
+    "bookmark",
+    "download"
+  ],
+  "read later": [
+    "bookmark"
+  ],
+  "favorite": [
+    "bookmark",
+    "heart",
+    "star"
+  ],
+  "marker": [
+    "bookmark",
+    "flag",
+    "map-pin",
+    "milestone"
+  ],
+  "bookmark": [
+    "bookmark",
+    "star"
+  ],
+  "success": [
+    "check-circle",
+    "check"
+  ],
+  "approved": [
+    "check-circle"
+  ],
+  "completed": [
+    "check-circle"
+  ],
+  "verified": [
+    "check-circle",
+    "seal-check"
+  ],
+  "check": [
+    "check-circle",
+    "check",
+    "calendar-check",
+    "clipboard-check",
+    "file-check",
+    "folder-check",
+    "box-check",
+    "inspection",
+    "seal-check",
+    "shield-check",
+    "check-square",
+    "badge-check",
+    "user-check"
+  ],
+  "tick": [
+    "check",
+    "check-square"
+  ],
+  "confirm": [
+    "check"
+  ],
+  "done": [
+    "check"
+  ],
+  "ok": [
+    "check"
+  ],
+  "duplicate": [
+    "copy"
+  ],
+  "clone": [
+    "copy"
+  ],
+  "clipboard": [
+    "copy",
+    "clipboard-check",
+    "clipboard"
+  ],
+  "replicate": [
+    "copy"
+  ],
+  "copy": [
+    "copy"
+  ],
+  "export": [
+    "download",
+    "arrow-up-right",
+    "share"
+  ],
+  "receive": [
+    "download"
+  ],
+  "fetch": [
+    "download"
+  ],
+  "download": [
+    "download",
+    "cloud-download"
+  ],
+  "pencil": [
+    "edit"
+  ],
+  "modify": [
+    "edit"
+  ],
+  "write": [
+    "edit"
+  ],
+  "update": [
+    "edit"
+  ],
+  "draft": [
+    "edit",
+    "file-plus",
+    "wind"
+  ],
+  "edit": [
+    "edit"
+  ],
+  "open": [
+    "external-link",
+    "unlock",
+    "folder-open"
+  ],
+  "new tab": [
+    "external-link"
+  ],
+  "outbound": [
+    "external-link",
+    "dispatch"
+  ],
+  "redirect": [
+    "external-link"
+  ],
+  "external": [
+    "external-link",
+    "arrow-up-right"
+  ],
+  "link": [
+    "external-link",
+    "link"
+  ],
+  "hide": [
+    "eye-off"
+  ],
+  "hidden": [
+    "eye-off"
+  ],
+  "private": [
+    "eye-off",
+    "lock"
+  ],
+  "invisible": [
+    "eye-off"
+  ],
+  "conceal": [
+    "eye-off"
+  ],
+  "eye": [
+    "eye-off",
+    "eye"
+  ],
+  "off": [
+    "eye-off",
+    "bell-off",
+    "shield-off",
+    "power-off",
+    "power"
+  ],
+  "view": [
+    "eye"
+  ],
+  "see": [
+    "eye"
+  ],
+  "show": [
+    "eye"
+  ],
+  "preview": [
+    "eye"
+  ],
+  "visible": [
+    "eye"
+  ],
+  "funnel": [
+    "filter",
+    "funnel"
+  ],
+  "refine": [
+    "filter"
+  ],
+  "sort": [
+    "filter"
+  ],
+  "parameters": [
+    "filter"
+  ],
+  "filter": [
+    "filter"
+  ],
+  "love": [
+    "heart"
+  ],
+  "like": [
+    "heart",
+    "star",
+    "thumbs-up"
+  ],
+  "health": [
+    "heart",
+    "activity-square",
+    "cross",
+    "dna",
+    "droplet",
+    "heart-pulse",
+    "pill",
+    "stethoscope",
+    "syringe",
+    "thermometer"
+  ],
+  "wishlist": [
+    "heart"
+  ],
+  "heart": [
+    "heart",
+    "heart-pulse"
+  ],
+  "question": [
+    "help-circle"
+  ],
+  "support": [
+    "help-circle",
+    "phone"
+  ],
+  "faq": [
+    "help-circle"
+  ],
+  "assistance": [
+    "help-circle"
+  ],
+  "help": [
+    "help-circle",
+    "info"
+  ],
+  "information": [
+    "info"
+  ],
+  "details": [
+    "info"
+  ],
+  "about": [
+    "info"
+  ],
+  "info": [
+    "info"
+  ],
+  "chain": [
+    "link"
+  ],
+  "url": [
+    "link"
+  ],
+  "hyperlink": [
+    "link"
+  ],
+  "attach": [
+    "link"
+  ],
+  "security": [
+    "lock",
+    "gate",
+    "anchor",
+    "fingerprint",
+    "key",
+    "passkey",
+    "scan",
+    "shield-alert",
+    "shield-check",
+    "shield-off",
+    "shield-x",
+    "shield"
+  ],
+  "protect": [
+    "lock"
+  ],
+  "password": [
+    "lock"
+  ],
+  "closed": [
+    "lock"
+  ],
+  "lock": [
+    "lock",
+    "folder-lock",
+    "seal-lock"
+  ],
+  "remove": [
+    "minus",
+    "trash-2"
+  ],
+  "delete": [
+    "minus",
+    "trash-2"
+  ],
+  "subtract": [
+    "minus"
+  ],
+  "less": [
+    "minus"
+  ],
+  "minus": [
+    "minus",
+    "file-minus",
+    "folder-minus",
+    "user-minus"
+  ],
+  "add": [
+    "plus"
+  ],
+  "create": [
+    "plus"
+  ],
+  "new": [
+    "plus"
+  ],
+  "more": [
+    "plus",
+    "more-horizontal",
+    "more-vertical"
+  ],
+  "plus": [
+    "plus",
+    "file-plus",
+    "folder-plus",
+    "user-plus"
+  ],
+  "find": [
+    "search"
+  ],
+  "magnifier": [
+    "search"
+  ],
+  "lookup": [
+    "search"
+  ],
+  "explore": [
+    "search",
+    "compass"
+  ],
+  "query": [
+    "search"
+  ],
+  "search": [
+    "search",
+    "package-search"
+  ],
+  "gear": [
+    "settings",
+    "equipment"
+  ],
+  "cog": [
+    "settings",
+    "cloud-cog",
+    "server-cog"
+  ],
+  "preferences": [
+    "settings"
+  ],
+  "configuration": [
+    "settings"
+  ],
+  "options": [
+    "settings",
+    "more-horizontal",
+    "more-vertical"
+  ],
+  "settings": [
+    "settings"
+  ],
+  "network": [
+    "share-2",
+    "network",
+    "wifi",
+    "hub"
+  ],
+  "distribute": [
+    "share-2"
+  ],
+  "social": [
+    "share-2"
+  ],
+  "connect": [
+    "share-2",
+    "bluetooth"
+  ],
+  "share": [
+    "share-2",
+    "share"
+  ],
+  "adjust": [
+    "sliders"
+  ],
+  "tuning": [
+    "sliders"
+  ],
+  "controls": [
+    "sliders",
+    "sliders-horizontal"
+  ],
+  "levels": [
+    "sliders",
+    "layers"
+  ],
+  "equalizer": [
+    "sliders"
+  ],
+  "sliders": [
+    "sliders",
+    "sliders-horizontal"
+  ],
+  "rating": [
+    "star"
+  ],
+  "feature": [
+    "star"
+  ],
+  "star": [
+    "star"
+  ],
+  "dislike": [
+    "thumbs-down"
+  ],
+  "disapprove": [
+    "thumbs-down"
+  ],
+  "negative": [
+    "thumbs-down"
+  ],
+  "thumbs": [
+    "thumbs-down",
+    "thumbs-up"
+  ],
+  "down": [
+    "thumbs-down",
+    "trending-down",
+    "arrow-down-left",
+    "arrow-down-right",
+    "arrow-down-to-dot",
+    "arrow-down",
+    "arrow-up-down",
+    "chevron-down",
+    "chevrons-down"
+  ],
+  "approve": [
+    "thumbs-up"
+  ],
+  "positive": [
+    "thumbs-up"
+  ],
+  "agree": [
+    "thumbs-up"
+  ],
+  "up": [
+    "thumbs-up",
+    "trending-up",
+    "arrow-up-down",
+    "arrow-up-from-dot",
+    "arrow-up-left",
+    "arrow-up-right",
+    "arrow-up",
+    "chevron-up",
+    "chevrons-up",
+    "corner-up-left",
+    "corner-up-right"
+  ],
+  "bin": [
+    "trash-2"
+  ],
+  "garbage": [
+    "trash-2"
+  ],
+  "discard": [
+    "trash-2"
+  ],
+  "trash": [
+    "trash-2"
+  ],
+  "access": [
+    "unlock",
+    "gate",
+    "log-in"
+  ],
+  "permit": [
+    "unlock"
+  ],
+  "insecure": [
+    "unlock",
+    "shield-off"
+  ],
+  "unlocked": [
+    "unlock"
+  ],
+  "unlock": [
+    "unlock",
+    "key"
+  ],
+  "send": [
+    "upload",
+    "send",
+    "dispatch"
+  ],
+  "import": [
+    "upload"
+  ],
+  "publish": [
+    "upload",
+    "share"
+  ],
+  "cloud upload": [
+    "upload"
+  ],
+  "upload": [
+    "upload",
+    "cloud-upload"
+  ],
+  "error": [
+    "x-circle",
+    "bug"
+  ],
+  "rejected": [
+    "x-circle"
+  ],
+  "cancel": [
+    "x-circle",
+    "x"
+  ],
+  "failed": [
+    "x-circle"
+  ],
+  "stop": [
+    "x-circle"
+  ],
+  "x": [
+    "x-circle",
+    "x",
+    "volume-x",
+    "shield-x",
+    "user-x"
+  ],
+  "dismiss": [
+    "x"
+  ],
+  "exit": [
+    "x",
+    "log-out"
+  ],
+  "cross": [
+    "x",
+    "cross"
+  ],
+  "lightning": [
+    "zap",
+    "cloud-lightning"
+  ],
+  "electricity": [
+    "zap",
+    "battery-charging"
+  ],
+  "flash": [
+    "zap",
+    "cloud-lightning"
+  ],
+  "fast": [
+    "zap",
+    "parcel-fast",
+    "fast-forward"
+  ],
+  "power": [
+    "zap",
+    "battery-charging",
+    "power-off",
+    "power"
+  ],
+  "instant": [
+    "zap"
+  ],
+  "zap": [
+    "zap"
+  ],
+  "physics": [
+    "atom"
+  ],
+  "science": [
+    "atom"
+  ],
+  "core": [
+    "atom"
+  ],
+  "orbit": [
+    "atom"
+  ],
+  "quantum": [
+    "atom"
+  ],
+  "ai": [
+    "atom",
+    "bot",
+    "brain",
+    "circuit-board",
+    "lightbulb",
+    "sparkles"
+  ],
+  "atom": [
+    "atom"
+  ],
+  "robot": [
+    "bot"
+  ],
+  "agent": [
+    "bot"
+  ],
+  "assistant": [
+    "bot"
+  ],
+  "automation": [
+    "bot",
+    "conveyor"
+  ],
+  "android": [
+    "bot",
+    "smartphone"
+  ],
+  "bot": [
+    "bot"
+  ],
+  "deep learning": [
+    "brain"
+  ],
+  "cognition": [
+    "brain"
+  ],
+  "llm": [
+    "brain"
+  ],
+  "neural network": [
+    "brain"
+  ],
+  "mind": [
+    "brain"
+  ],
+  "brain": [
+    "brain"
+  ],
+  "electronics": [
+    "circuit-board"
+  ],
+  "silicon": [
+    "circuit-board",
+    "cpu"
+  ],
+  "hardware logic": [
+    "circuit-board"
+  ],
+  "pcb": [
+    "circuit-board"
+  ],
+  "circuit": [
+    "circuit-board"
+  ],
+  "board": [
+    "circuit-board",
+    "clipboard"
+  ],
+  "creativity": [
+    "lightbulb"
+  ],
+  "solution": [
+    "lightbulb"
+  ],
+  "inspiration": [
+    "lightbulb"
+  ],
+  "concept": [
+    "lightbulb"
+  ],
+  "bright": [
+    "lightbulb",
+    "sun"
+  ],
+  "lightbulb": [
+    "lightbulb"
+  ],
+  "magic": [
+    "sparkles"
+  ],
+  "generative": [
+    "sparkles"
+  ],
+  "intelligence": [
+    "sparkles"
+  ],
+  "enhancement": [
+    "sparkles"
+  ],
+  "stars": [
+    "sparkles"
+  ],
+  "sparkles": [
+    "sparkles"
+  ],
+  "ecg": [
+    "activity",
+    "heart-pulse"
+  ],
+  "heartbeat": [
+    "activity"
+  ],
+  "vital": [
+    "activity"
+  ],
+  "monitoring": [
+    "activity",
+    "operations"
+  ],
+  "realtime": [
+    "activity"
+  ],
+  "analytics": [
+    "activity",
+    "bar-chart-2",
+    "funnel",
+    "gauge",
+    "line-chart",
+    "pie-chart-slice",
+    "pie-chart",
+    "table",
+    "trending-down",
+    "trending-up"
+  ],
+  "activity": [
+    "activity",
+    "activity-square"
+  ],
+  "metrics": [
+    "bar-chart-2"
+  ],
+  "stats": [
+    "bar-chart-2"
+  ],
+  "graph": [
+    "bar-chart-2"
+  ],
+  "performance": [
+    "bar-chart-2"
+  ],
+  "kpi": [
+    "bar-chart-2",
+    "target",
+    "gauge-speed"
+  ],
+  "bar": [
+    "bar-chart-2"
+  ],
+  "chart": [
+    "bar-chart-2",
+    "line-chart",
+    "pie-chart-slice",
+    "pie-chart"
+  ],
+  "conversion": [
+    "funnel"
+  ],
+  "pipeline": [
+    "funnel"
+  ],
+  "stages": [
+    "funnel"
+  ],
+  "drop-off": [
+    "funnel"
+  ],
+  "dashboard meter": [
+    "gauge"
+  ],
+  "speed": [
+    "gauge",
+    "gauge-speed"
+  ],
+  "pressure": [
+    "gauge"
+  ],
+  "dial": [
+    "gauge"
+  ],
+  "gauge": [
+    "gauge",
+    "gauge-speed"
+  ],
+  "trend": [
+    "line-chart"
+  ],
+  "forecast": [
+    "line-chart",
+    "sun"
+  ],
+  "growth": [
+    "line-chart",
+    "trending-up"
+  ],
+  "timeseries": [
+    "line-chart"
+  ],
+  "line": [
+    "line-chart",
+    "conveyor"
+  ],
+  "percentage": [
+    "pie-chart-slice"
+  ],
+  "slice": [
+    "pie-chart-slice"
+  ],
+  "portion": [
+    "pie-chart-slice"
+  ],
+  "pie": [
+    "pie-chart-slice",
+    "pie-chart"
+  ],
+  "proportions": [
+    "pie-chart"
+  ],
+  "breakdown": [
+    "pie-chart"
+  ],
+  "segment": [
+    "pie-chart"
+  ],
+  "division": [
+    "pie-chart"
+  ],
+  "grid": [
+    "table",
+    "grid"
+  ],
+  "cells": [
+    "table"
+  ],
+  "rows": [
+    "table",
+    "list"
+  ],
+  "columns": [
+    "table"
+  ],
+  "spreadsheet": [
+    "table",
+    "file-spreadsheet"
+  ],
+  "table": [
+    "table",
+    "database"
+  ],
+  "bearish": [
+    "trending-down"
+  ],
+  "loss": [
+    "trending-down"
+  ],
+  "decline": [
+    "trending-down"
+  ],
+  "fall": [
+    "trending-down"
+  ],
+  "decrease": [
+    "trending-down"
+  ],
+  "trending": [
+    "trending-down",
+    "trending-up"
+  ],
+  "bullish": [
+    "trending-up"
+  ],
+  "profit": [
+    "trending-up"
+  ],
+  "rise": [
+    "trending-up"
+  ],
+  "increase": [
+    "trending-up"
+  ],
+  "southwest": [
+    "arrow-down-left"
+  ],
+  "diagonal": [
+    "arrow-down-left",
+    "arrow-down-right",
+    "arrow-up-left",
+    "arrow-up-right"
+  ],
+  "direction": [
+    "arrow-down-left",
+    "arrow-down-right",
+    "arrow-down",
+    "arrow-left",
+    "arrow-right",
+    "arrow-up-left",
+    "arrow-up",
+    "corner-up-left",
+    "corner-up-right",
+    "compass"
+  ],
+  "arrows": [
+    "arrow-down-left",
+    "arrow-down-right",
+    "arrow-down-to-dot",
+    "arrow-down",
+    "arrow-left-right",
+    "arrow-left",
+    "arrow-right",
+    "arrow-up-down",
+    "arrow-up-from-dot",
+    "arrow-up-left",
+    "arrow-up-right",
+    "arrow-up",
+    "chevron-down",
+    "chevron-left",
+    "chevron-right",
+    "chevron-up",
+    "chevrons-down",
+    "chevrons-left",
+    "chevrons-right",
+    "chevrons-up",
+    "corner-up-left",
+    "corner-up-right",
+    "expand",
+    "maximize-2",
+    "minimize-2",
+    "move",
+    "refresh-ccw",
+    "refresh-cw",
+    "rotate-ccw",
+    "rotate-cw",
+    "shrink"
+  ],
+  "arrow": [
+    "arrow-down-left",
+    "arrow-down-right",
+    "arrow-down-to-dot",
+    "arrow-down",
+    "arrow-left-right",
+    "arrow-left",
+    "arrow-right",
+    "arrow-up-down",
+    "arrow-up-from-dot",
+    "arrow-up-left",
+    "arrow-up-right",
+    "arrow-up",
+    "navigation-arrow"
+  ],
+  "left": [
+    "arrow-down-left",
+    "arrow-left-right",
+    "arrow-left",
+    "arrow-up-left",
+    "chevron-left",
+    "chevrons-left",
+    "corner-up-left",
+    "toggle-left"
+  ],
+  "southeast": [
+    "arrow-down-right"
+  ],
+  "right": [
+    "arrow-down-right",
+    "arrow-left-right",
+    "arrow-right",
+    "arrow-up-right",
+    "chevron-right",
+    "chevrons-right",
+    "corner-up-right",
+    "toggle-right"
+  ],
+  "drop point": [
+    "arrow-down-to-dot"
+  ],
+  "destination": [
+    "arrow-down-to-dot"
+  ],
+  "pin down": [
+    "arrow-down-to-dot"
+  ],
+  "to": [
+    "arrow-down-to-dot"
+  ],
+  "dot": [
+    "arrow-down-to-dot",
+    "arrow-up-from-dot"
+  ],
+  "south": [
+    "arrow-down"
+  ],
+  "bottom": [
+    "arrow-down",
+    "chevron-down"
+  ],
+  "lower": [
+    "arrow-down"
+  ],
+  "horizontal": [
+    "arrow-left-right",
+    "more-horizontal",
+    "sliders-horizontal"
+  ],
+  "bidirectional": [
+    "arrow-left-right",
+    "arrow-up-down"
+  ],
+  "swap": [
+    "arrow-left-right"
+  ],
+  "exchange": [
+    "arrow-left-right"
+  ],
+  "back": [
+    "arrow-left",
+    "chevron-left"
+  ],
+  "west": [
+    "arrow-left"
+  ],
+  "previous": [
+    "arrow-left"
+  ],
+  "forward": [
+    "arrow-right",
+    "chevron-right",
+    "corner-up-right",
+    "fast-forward"
+  ],
+  "east": [
+    "arrow-right"
+  ],
+  "next": [
+    "arrow-right"
+  ],
+  "vertical": [
+    "arrow-up-down",
+    "more-vertical"
+  ],
+  "height": [
+    "arrow-up-down"
+  ],
+  "sort vertical": [
+    "arrow-up-down"
+  ],
+  "origin point": [
+    "arrow-up-from-dot"
+  ],
+  "launch": [
+    "arrow-up-from-dot"
+  ],
+  "source": [
+    "arrow-up-from-dot",
+    "code"
+  ],
+  "from": [
+    "arrow-up-from-dot"
+  ],
+  "northwest": [
+    "arrow-up-left"
+  ],
+  "northeast": [
+    "arrow-up-right"
+  ],
+  "north": [
+    "arrow-up",
+    "compass"
+  ],
+  "top": [
+    "arrow-up",
+    "chevron-up"
+  ],
+  "higher": [
+    "arrow-up"
+  ],
+  "dropdown": [
+    "chevron-down"
+  ],
+  "navigation": [
+    "chevron-down",
+    "chevron-left",
+    "chevron-right",
+    "chevron-up",
+    "route-logistics",
+    "anchor",
+    "compass",
+    "crosshair",
+    "flag",
+    "globe",
+    "layers",
+    "locate",
+    "map-pin",
+    "map",
+    "milestone",
+    "navigation-arrow",
+    "route",
+    "signpost",
+    "menu"
+  ],
+  "chevron": [
+    "chevron-down",
+    "chevron-left",
+    "chevron-right",
+    "chevron-up"
+  ],
+  "expand": [
+    "chevron-left",
+    "chevron-right",
+    "expand",
+    "maximize-2"
+  ],
+  "collapse": [
+    "chevron-up"
+  ],
+  "scroll to bottom": [
+    "chevrons-down"
+  ],
+  "double arrow": [
+    "chevrons-down",
+    "chevrons-left",
+    "chevrons-right",
+    "chevrons-up"
+  ],
+  "chevrons": [
+    "chevrons-down",
+    "chevrons-left",
+    "chevrons-right",
+    "chevrons-up"
+  ],
+  "rewind": [
+    "chevrons-left",
+    "rewind"
+  ],
+  "first": [
+    "chevrons-left"
+  ],
+  "fast forward": [
+    "chevrons-right"
+  ],
+  "last": [
+    "chevrons-right"
+  ],
+  "scroll to top": [
+    "chevrons-up"
+  ],
+  "reply": [
+    "corner-up-left"
+  ],
+  "turn": [
+    "corner-up-left",
+    "corner-up-right",
+    "rotate-ccw",
+    "rotate-cw"
+  ],
+  "return": [
+    "corner-up-left"
+  ],
+  "corner": [
+    "corner-up-left",
+    "corner-up-right"
+  ],
+  "outward": [
+    "expand"
+  ],
+  "spread": [
+    "expand"
+  ],
+  "enlarge": [
+    "expand",
+    "maximize-2"
+  ],
+  "fullscreen": [
+    "maximize-2"
+  ],
+  "grow": [
+    "maximize-2"
+  ],
+  "maximize": [
+    "maximize-2"
+  ],
+  "exit fullscreen": [
+    "minimize-2"
+  ],
+  "shrink": [
+    "minimize-2",
+    "shrink"
+  ],
+  "reduce": [
+    "minimize-2",
+    "shrink"
+  ],
+  "minimize": [
+    "minimize-2"
+  ],
+  "drag": [
+    "move"
+  ],
+  "position": [
+    "move",
+    "locate"
+  ],
+  "pan": [
+    "move"
+  ],
+  "move": [
+    "move"
+  ],
+  "reload": [
+    "refresh-ccw",
+    "refresh-cw"
+  ],
+  "undo": [
+    "refresh-ccw"
+  ],
+  "cycle": [
+    "refresh-ccw",
+    "refresh-cw"
+  ],
+  "reverse": [
+    "refresh-ccw",
+    "rewind"
+  ],
+  "refresh": [
+    "refresh-ccw",
+    "refresh-cw"
+  ],
+  "ccw": [
+    "refresh-ccw",
+    "rotate-ccw"
+  ],
+  "sync": [
+    "refresh-cw"
+  ],
+  "rotate": [
+    "refresh-cw",
+    "rotate-ccw",
+    "rotate-cw"
+  ],
+  "cw": [
+    "refresh-cw",
+    "rotate-cw"
+  ],
+  "counter-clockwise": [
+    "rotate-ccw"
+  ],
+  "spin left": [
+    "rotate-ccw"
+  ],
+  "clockwise": [
+    "rotate-cw"
+  ],
+  "orientation": [
+    "rotate-cw",
+    "compass"
+  ],
+  "spin": [
+    "rotate-cw"
+  ],
+  "inward": [
+    "shrink"
+  ],
+  "compress": [
+    "shrink"
+  ],
+  "trophy": [
+    "award"
+  ],
+  "medal": [
+    "award"
+  ],
+  "achievement": [
+    "award"
+  ],
+  "first place": [
+    "award"
+  ],
+  "winner": [
+    "award"
+  ],
+  "business": [
+    "award",
+    "badge-percent",
+    "briefcase",
+    "building",
+    "presentation",
+    "target"
+  ],
+  "award": [
+    "award"
+  ],
+  "promotion": [
+    "badge-percent"
+  ],
+  "coupon": [
+    "badge-percent"
+  ],
+  "offer": [
+    "badge-percent",
+    "tag"
+  ],
+  "deal": [
+    "badge-percent"
+  ],
+  "badge": [
+    "badge-percent",
+    "badge-check",
+    "id-card"
+  ],
+  "percent": [
+    "badge-percent",
+    "percent"
+  ],
+  "work": [
+    "briefcase"
+  ],
+  "career": [
+    "briefcase"
+  ],
+  "job": [
+    "briefcase"
+  ],
+  "portfolio": [
+    "briefcase"
+  ],
+  "corporate": [
+    "briefcase"
+  ],
+  "briefcase": [
+    "briefcase"
+  ],
+  "headquarters": [
+    "building"
+  ],
+  "office": [
+    "building"
+  ],
+  "company": [
+    "building"
+  ],
+  "firm": [
+    "building"
+  ],
+  "skyline": [
+    "building"
+  ],
+  "building": [
+    "building"
+  ],
+  "pitch": [
+    "presentation"
+  ],
+  "deck": [
+    "presentation"
+  ],
+  "meeting": [
+    "presentation"
+  ],
+  "briefing": [
+    "presentation"
+  ],
+  "slides": [
+    "presentation"
+  ],
+  "presentation": [
+    "presentation"
+  ],
+  "objective": [
+    "target"
+  ],
+  "goal": [
+    "target",
+    "flag"
+  ],
+  "okr": [
+    "target"
+  ],
+  "accuracy": [
+    "target"
+  ],
+  "bullseye": [
+    "target"
+  ],
+  "target": [
+    "target",
+    "crosshair",
+    "milestone"
+  ],
+  "scheduled": [
+    "calendar-check"
+  ],
+  "booked": [
+    "calendar-check"
+  ],
+  "meeting confirmed": [
+    "calendar-check"
+  ],
+  "calendar": [
+    "calendar-check",
+    "calendar-days",
+    "calendar",
+    "clock",
+    "hourglass",
+    "timer"
+  ],
+  "days": [
+    "calendar-days"
+  ],
+  "timetable": [
+    "calendar-days"
+  ],
+  "appointments": [
+    "calendar-days"
+  ],
+  "dates": [
+    "calendar-days"
+  ],
+  "date": [
+    "calendar"
+  ],
+  "month": [
+    "calendar"
+  ],
+  "schedule": [
+    "calendar",
+    "clock"
+  ],
+  "planner": [
+    "calendar"
+  ],
+  "event": [
+    "calendar",
+    "webhook"
+  ],
+  "time": [
+    "clock"
+  ],
+  "hours": [
+    "clock"
+  ],
+  "watch": [
+    "clock"
+  ],
+  "alarm": [
+    "clock",
+    "bell"
+  ],
+  "clock": [
+    "clock"
+  ],
+  "waiting": [
+    "hourglass",
+    "loader"
+  ],
+  "sand": [
+    "hourglass"
+  ],
+  "duration": [
+    "hourglass",
+    "timer"
+  ],
+  "pending": [
+    "hourglass"
+  ],
+  "expire": [
+    "hourglass"
+  ],
+  "hourglass": [
+    "hourglass"
+  ],
+  "stopwatch": [
+    "timer"
+  ],
+  "countdown": [
+    "timer"
+  ],
+  "chronometer": [
+    "timer"
+  ],
+  "timer": [
+    "timer"
+  ],
+  "devops": [
+    "cloud-cog"
+  ],
+  "cloud ops": [
+    "cloud-cog"
+  ],
+  "infrastructure": [
+    "cloud-cog"
+  ],
+  "iac": [
+    "cloud-cog"
+  ],
+  "cloud": [
+    "cloud-cog",
+    "cloud-download",
+    "cloud-upload",
+    "cloud",
+    "network",
+    "server-cog",
+    "server-crash",
+    "cloud-fog",
+    "cloud-lightning",
+    "cloud-rain"
+  ],
+  "restore": [
+    "cloud-download"
+  ],
+  "sync from cloud": [
+    "cloud-download"
+  ],
+  "pull files": [
+    "cloud-download"
+  ],
+  "backup": [
+    "cloud-upload"
+  ],
+  "sync to cloud": [
+    "cloud-upload"
+  ],
+  "push to host": [
+    "cloud-upload"
+  ],
+  "serverless": [
+    "cloud"
+  ],
+  "storage": [
+    "cloud",
+    "database",
+    "server",
+    "folder",
+    "pallet",
+    "warehouse"
+  ],
+  "hosting": [
+    "cloud",
+    "server"
+  ],
+  "aws": [
+    "cloud"
+  ],
+  "azure": [
+    "cloud"
+  ],
+  "lan": [
+    "network"
+  ],
+  "wan": [
+    "network"
+  ],
+  "nodes": [
+    "network"
+  ],
+  "topology": [
+    "network"
+  ],
+  "mesh": [
+    "network"
+  ],
+  "sysadmin": [
+    "server-cog"
+  ],
+  "server maintenance": [
+    "server-cog"
+  ],
+  "devops node": [
+    "server-cog"
+  ],
+  "server": [
+    "server-cog",
+    "server-crash",
+    "server"
+  ],
+  "outage": [
+    "server-crash"
+  ],
+  "downtime": [
+    "server-crash"
+  ],
+  "500 error": [
+    "server-crash"
+  ],
+  "crash": [
+    "server-crash"
+  ],
+  "sku": [
+    "barcode"
+  ],
+  "upc": [
+    "barcode"
+  ],
+  "product code": [
+    "barcode"
+  ],
+  "scan": [
+    "barcode",
+    "qr-code",
+    "barcode-scanner",
+    "tracking",
+    "scan"
+  ],
+  "commerce": [
+    "barcode",
+    "credit-card",
+    "gift",
+    "qr-code",
+    "receipt",
+    "shopping-bag",
+    "shopping-basket",
+    "shopping-cart",
+    "store",
+    "tag"
+  ],
+  "barcode": [
+    "barcode",
+    "barcode-scanner"
+  ],
+  "payment": [
+    "credit-card",
+    "dollar-sign",
+    "invoice"
+  ],
+  "visa": [
+    "credit-card"
+  ],
+  "mastercard": [
+    "credit-card"
+  ],
+  "debit": [
+    "credit-card"
+  ],
+  "banking": [
+    "credit-card"
+  ],
+  "credit": [
+    "credit-card"
+  ],
+  "card": [
+    "credit-card",
+    "id-card"
+  ],
+  "present": [
+    "gift"
+  ],
+  "reward": [
+    "gift"
+  ],
+  "bonus": [
+    "gift"
+  ],
+  "loyalty": [
+    "gift"
+  ],
+  "package": [
+    "gift",
+    "package-search",
+    "package",
+    "shipment"
+  ],
+  "gift": [
+    "gift"
+  ],
+  "matrix": [
+    "qr-code",
+    "grid"
+  ],
+  "quick response": [
+    "qr-code"
+  ],
+  "mobile pay": [
+    "qr-code"
+  ],
+  "qr": [
+    "qr-code"
+  ],
+  "code": [
+    "qr-code",
+    "code-xml",
+    "code",
+    "file-code"
+  ],
+  "bill": [
+    "receipt",
+    "banknote"
+  ],
+  "transaction": [
+    "receipt"
+  ],
+  "proof": [
+    "receipt"
+  ],
+  "payment slip": [
+    "receipt"
+  ],
+  "receipt": [
+    "receipt"
+  ],
+  "store": [
+    "shopping-bag",
+    "shopping-cart",
+    "store"
+  ],
+  "retail": [
+    "shopping-bag",
+    "store"
+  ],
+  "merchandise": [
+    "shopping-bag"
+  ],
+  "purchase": [
+    "shopping-bag",
+    "shopping-cart"
+  ],
+  "shopping": [
+    "shopping-bag",
+    "shopping-basket",
+    "shopping-cart"
+  ],
+  "bag": [
+    "shopping-bag"
+  ],
+  "market": [
+    "shopping-basket"
+  ],
+  "groceries": [
+    "shopping-basket"
+  ],
+  "supermarket": [
+    "shopping-basket"
+  ],
+  "cart": [
+    "shopping-basket",
+    "shopping-cart",
+    "dolly"
+  ],
+  "basket": [
+    "shopping-basket"
+  ],
+  "ecommerce": [
+    "shopping-cart"
+  ],
+  "buy": [
+    "shopping-cart"
+  ],
+  "checkout": [
+    "shopping-cart"
+  ],
+  "shop": [
+    "store"
+  ],
+  "marketplace": [
+    "store"
+  ],
+  "vendor": [
+    "store",
+    "vendor"
+  ],
+  "discount": [
+    "tag",
+    "percent"
+  ],
+  "price": [
+    "tag"
+  ],
+  "label": [
+    "tag"
+  ],
+  "sale": [
+    "tag"
+  ],
+  "tag": [
+    "tag"
+  ],
+  "mention": [
+    "at-sign"
+  ],
+  "email symbol": [
+    "at-sign"
+  ],
+  "user tag": [
+    "at-sign"
+  ],
+  "communication": [
+    "at-sign",
+    "bell-off",
+    "bell",
+    "inbox",
+    "mail",
+    "message-circle",
+    "message-square",
+    "phone-call",
+    "phone",
+    "rss",
+    "send",
+    "share"
+  ],
+  "at": [
+    "at-sign"
+  ],
+  "sign": [
+    "at-sign",
+    "dollar-sign"
+  ],
+  "silent": [
+    "bell-off",
+    "volume-x"
+  ],
+  "do not disturb": [
+    "bell-off"
+  ],
+  "mute alerts": [
+    "bell-off"
+  ],
+  "quiet": [
+    "bell-off",
+    "volume-x"
+  ],
+  "bell": [
+    "bell-off",
+    "bell"
+  ],
+  "chime": [
+    "bell"
+  ],
+  "reminder": [
+    "bell"
+  ],
+  "updates": [
+    "bell"
+  ],
+  "mail container": [
+    "inbox"
+  ],
+  "incoming": [
+    "inbox",
+    "phone-call"
+  ],
+  "archive": [
+    "inbox",
+    "file-archive",
+    "folder"
+  ],
+  "tray": [
+    "inbox"
+  ],
+  "inbox": [
+    "inbox",
+    "mail"
+  ],
+  "email": [
+    "mail"
+  ],
+  "message": [
+    "mail",
+    "message-circle",
+    "message-square"
+  ],
+  "letter": [
+    "mail"
+  ],
+  "correspondence": [
+    "mail"
+  ],
+  "mail": [
+    "mail"
+  ],
+  "chat": [
+    "message-circle",
+    "message-square"
+  ],
+  "conversation": [
+    "message-circle"
+  ],
+  "round bubble": [
+    "message-circle"
+  ],
+  "sms": [
+    "message-circle"
+  ],
+  "comment": [
+    "message-square"
+  ],
+  "discussion": [
+    "message-square"
+  ],
+  "bubble": [
+    "message-square"
+  ],
+  "feedback": [
+    "message-square"
+  ],
+  "square": [
+    "message-square",
+    "activity-square",
+    "check-square",
+    "square"
+  ],
+  "ringing": [
+    "phone-call"
+  ],
+  "answering": [
+    "phone-call"
+  ],
+  "dialing": [
+    "phone-call"
+  ],
+  "phone": [
+    "phone-call",
+    "phone"
+  ],
+  "call": [
+    "phone-call",
+    "phone"
+  ],
+  "telephone": [
+    "phone"
+  ],
+  "mobile": [
+    "phone",
+    "smartphone"
+  ],
+  "hotline": [
+    "phone"
+  ],
+  "syndication": [
+    "rss"
+  ],
+  "blog": [
+    "rss"
+  ],
+  "feed": [
+    "rss"
+  ],
+  "broadcast": [
+    "rss"
+  ],
+  "rss": [
+    "rss"
+  ],
+  "airplane": [
+    "send"
+  ],
+  "transmit": [
+    "send"
+  ],
+  "dispatch": [
+    "send",
+    "delivery",
+    "dispatch",
+    "fleet",
+    "operations",
+    "route-logistics",
+    "shipment"
+  ],
+  "deliver": [
+    "send"
+  ],
+  "post": [
+    "send"
+  ],
+  "send to": [
+    "share"
+  ],
+  "outbox": [
+    "share"
+  ],
+  "defect": [
+    "bug"
+  ],
+  "issue": [
+    "bug"
+  ],
+  "debugger": [
+    "bug"
+  ],
+  "glitch": [
+    "bug"
+  ],
+  "development": [
+    "bug",
+    "code-xml",
+    "code",
+    "database",
+    "git-branch",
+    "git-commit",
+    "git-merge",
+    "git-pull-request",
+    "terminal",
+    "variable",
+    "webhook"
+  ],
+  "bug": [
+    "bug"
+  ],
+  "tags": [
+    "code-xml"
+  ],
+  "jsx": [
+    "code-xml"
+  ],
+  "components": [
+    "code-xml",
+    "layers-system"
+  ],
+  "markup": [
+    "code-xml"
+  ],
+  "xml": [
+    "code-xml"
+  ],
+  "brackets": [
+    "code"
+  ],
+  "html": [
+    "code",
+    "file-code"
+  ],
+  "syntax": [
+    "code"
+  ],
+  "programming": [
+    "code"
+  ],
+  "sql": [
+    "database"
+  ],
+  "postgres": [
+    "database"
+  ],
+  "data warehouse": [
+    "database"
+  ],
+  "database": [
+    "database"
+  ],
+  "vcs": [
+    "git-branch",
+    "git-merge",
+    "git-pull-request"
+  ],
+  "fork": [
+    "git-branch",
+    "utensils"
+  ],
+  "version control": [
+    "git-branch"
+  ],
+  "merge line": [
+    "git-branch"
+  ],
+  "git": [
+    "git-branch",
+    "git-commit",
+    "git-merge",
+    "git-pull-request"
+  ],
+  "branch": [
+    "git-branch"
+  ],
+  "snapshot": [
+    "git-commit",
+    "camera"
+  ],
+  "revision": [
+    "git-commit"
+  ],
+  "hash": [
+    "git-commit"
+  ],
+  "git node": [
+    "git-commit"
+  ],
+  "commit": [
+    "git-commit"
+  ],
+  "rebase": [
+    "git-merge"
+  ],
+  "integration": [
+    "git-merge"
+  ],
+  "branch join": [
+    "git-merge"
+  ],
+  "merge": [
+    "git-merge",
+    "git-pull-request"
+  ],
+  "pr": [
+    "git-pull-request"
+  ],
+  "review": [
+    "git-pull-request"
+  ],
+  "github": [
+    "git-pull-request"
+  ],
+  "pull": [
+    "git-pull-request"
+  ],
+  "request": [
+    "git-pull-request"
+  ],
+  "cli": [
+    "terminal"
+  ],
+  "console": [
+    "terminal"
+  ],
+  "command line": [
+    "terminal"
+  ],
+  "bash": [
+    "terminal"
+  ],
+  "shell": [
+    "terminal"
+  ],
+  "terminal": [
+    "terminal",
+    "barcode-scanner",
+    "container-stacked",
+    "port"
+  ],
+  "math": [
+    "variable",
+    "calculator"
+  ],
+  "declaration": [
+    "variable",
+    "customs"
+  ],
+  "constant": [
+    "variable"
+  ],
+  "function": [
+    "variable"
+  ],
+  "variable": [
+    "variable"
+  ],
+  "callback": [
+    "webhook"
+  ],
+  "api": [
+    "webhook"
+  ],
+  "trigger": [
+    "webhook"
+  ],
+  "listener": [
+    "webhook"
+  ],
+  "webhook": [
+    "webhook"
+  ],
+  "energy": [
+    "battery-charging"
+  ],
+  "recharge": [
+    "battery-charging"
+  ],
+  "level": [
+    "battery-charging"
+  ],
+  "devices": [
+    "battery-charging",
+    "bluetooth",
+    "cpu",
+    "hard-drive",
+    "headphones",
+    "keyboard",
+    "laptop",
+    "monitor",
+    "mouse",
+    "printer",
+    "router",
+    "server",
+    "smartphone",
+    "tablet",
+    "wifi"
+  ],
+  "battery": [
+    "battery-charging"
+  ],
+  "charging": [
+    "battery-charging"
+  ],
+  "wireless": [
+    "bluetooth",
+    "wifi"
+  ],
+  "pairing": [
+    "bluetooth"
+  ],
+  "rf": [
+    "bluetooth"
+  ],
+  "bluetooth": [
+    "bluetooth"
+  ],
+  "chip": [
+    "cpu"
+  ],
+  "microprocessor": [
+    "cpu"
+  ],
+  "hardware": [
+    "cpu",
+    "keyboard",
+    "mouse",
+    "server"
+  ],
+  "soc": [
+    "cpu"
+  ],
+  "cpu": [
+    "cpu"
+  ],
+  "hdd": [
+    "hard-drive"
+  ],
+  "ssd": [
+    "hard-drive"
+  ],
+  "disk": [
+    "hard-drive"
+  ],
+  "storage unit": [
+    "hard-drive"
+  ],
+  "hard": [
+    "hard-drive"
+  ],
+  "drive": [
+    "hard-drive",
+    "car"
+  ],
+  "headset": [
+    "headphones"
+  ],
+  "listen": [
+    "headphones"
+  ],
+  "earphones": [
+    "headphones"
+  ],
+  "music": [
+    "headphones",
+    "music",
+    "volume-2"
+  ],
+  "headphones": [
+    "headphones"
+  ],
+  "type": [
+    "keyboard"
+  ],
+  "input": [
+    "keyboard"
+  ],
+  "keys": [
+    "keyboard"
+  ],
+  "qwerty": [
+    "keyboard"
+  ],
+  "keyboard": [
+    "keyboard"
+  ],
+  "computer": [
+    "laptop"
+  ],
+  "notebook": [
+    "laptop"
+  ],
+  "portable": [
+    "laptop",
+    "tablet"
+  ],
+  "screen": [
+    "laptop"
+  ],
+  "macbook": [
+    "laptop"
+  ],
+  "laptop": [
+    "laptop"
+  ],
+  "desktop": [
+    "monitor"
+  ],
+  "display": [
+    "monitor"
+  ],
+  "tv": [
+    "monitor"
+  ],
+  "workstation": [
+    "monitor"
+  ],
+  "monitor": [
+    "monitor"
+  ],
+  "pointer": [
+    "mouse"
+  ],
+  "click": [
+    "mouse"
+  ],
+  "peripheral": [
+    "mouse"
+  ],
+  "mouse": [
+    "mouse"
+  ],
+  "paper": [
+    "printer"
+  ],
+  "print": [
+    "printer"
+  ],
+  "document output": [
+    "printer"
+  ],
+  "fax": [
+    "printer"
+  ],
+  "printer": [
+    "printer"
+  ],
+  "modem": [
+    "router"
+  ],
+  "gateway": [
+    "router"
+  ],
+  "access point": [
+    "router"
+  ],
+  "switch": [
+    "router",
+    "power"
+  ],
+  "router": [
+    "router"
+  ],
+  "datacenter": [
+    "server"
+  ],
+  "cloud host": [
+    "server"
+  ],
+  "cellphone": [
+    "smartphone"
+  ],
+  "iphone": [
+    "smartphone"
+  ],
+  "touchscreen": [
+    "smartphone",
+    "tablet"
+  ],
+  "smartphone": [
+    "smartphone"
+  ],
+  "ipad": [
+    "tablet"
+  ],
+  "slate": [
+    "tablet"
+  ],
+  "tablet": [
+    "tablet",
+    "pill"
+  ],
+  "internet": [
+    "wifi"
+  ],
+  "connection": [
+    "wifi"
+  ],
+  "wlan": [
+    "wifi"
+  ],
+  "wifi": [
+    "wifi"
+  ],
+  "completed tasks": [
+    "clipboard-check"
+  ],
+  "audit done": [
+    "clipboard-check"
+  ],
+  "verified checklist": [
+    "clipboard-check"
+  ],
+  "files": [
+    "clipboard-check",
+    "clipboard",
+    "file-archive",
+    "file-check",
+    "file-code",
+    "file-minus",
+    "file-plus",
+    "file-signature",
+    "file-spreadsheet",
+    "file-text",
+    "file"
+  ],
+  "task": [
+    "clipboard"
+  ],
+  "checklist": [
+    "clipboard"
+  ],
+  "survey": [
+    "clipboard"
+  ],
+  "inspection": [
+    "clipboard",
+    "customs",
+    "inspection"
+  ],
+  "compressed": [
+    "file-archive"
+  ],
+  "zip": [
+    "file-archive"
+  ],
+  "tar": [
+    "file-archive"
+  ],
+  "gzip": [
+    "file-archive"
+  ],
+  "bundle": [
+    "file-archive"
+  ],
+  "file": [
+    "file-archive",
+    "file-check",
+    "file-code",
+    "file-minus",
+    "file-plus",
+    "file-signature",
+    "file-spreadsheet",
+    "file-text",
+    "file"
+  ],
+  "approved document": [
+    "file-check"
+  ],
+  "signed": [
+    "file-check"
+  ],
+  "certified": [
+    "file-check",
+    "badge-check"
+  ],
+  "compliance": [
+    "file-check",
+    "scale"
+  ],
+  "source code": [
+    "file-code"
+  ],
+  "script": [
+    "file-code"
+  ],
+  "program": [
+    "file-code"
+  ],
+  "developer": [
+    "file-code"
+  ],
+  "delete document": [
+    "file-minus"
+  ],
+  "exclude": [
+    "file-minus"
+  ],
+  "drop sheet": [
+    "file-minus"
+  ],
+  "create document": [
+    "file-plus"
+  ],
+  "new sheet": [
+    "file-plus"
+  ],
+  "esign": [
+    "file-signature"
+  ],
+  "contract": [
+    "file-signature",
+    "file-text"
+  ],
+  "legal": [
+    "file-signature"
+  ],
+  "docusign": [
+    "file-signature"
+  ],
+  "approval": [
+    "file-signature"
+  ],
+  "signature": [
+    "file-signature"
+  ],
+  "excel": [
+    "file-spreadsheet"
+  ],
+  "csv": [
+    "file-spreadsheet"
+  ],
+  "sheets": [
+    "file-spreadsheet"
+  ],
+  "data table": [
+    "file-spreadsheet"
+  ],
+  "calc": [
+    "file-spreadsheet"
+  ],
+  "document": [
+    "file-text",
+    "file"
+  ],
+  "article": [
+    "file-text"
+  ],
+  "report": [
+    "file-text"
+  ],
+  "notes": [
+    "file-text"
+  ],
+  "text": [
+    "file-text"
+  ],
+  "sheet": [
+    "file"
+  ],
+  "page": [
+    "file"
+  ],
+  "blank": [
+    "file"
+  ],
+  "currency": [
+    "banknote",
+    "coins",
+    "dollar-sign"
+  ],
+  "cash": [
+    "banknote",
+    "wallet"
+  ],
+  "dollar": [
+    "banknote",
+    "dollar-sign"
+  ],
+  "paper money": [
+    "banknote"
+  ],
+  "finance": [
+    "banknote",
+    "calculator",
+    "coins",
+    "dollar-sign",
+    "landmark",
+    "percent",
+    "piggy-bank",
+    "scale",
+    "vault",
+    "wallet"
+  ],
+  "banknote": [
+    "banknote"
+  ],
+  "accounting": [
+    "calculator"
+  ],
+  "computation": [
+    "calculator"
+  ],
+  "tax": [
+    "calculator"
+  ],
+  "estimate": [
+    "calculator"
+  ],
+  "calculator": [
+    "calculator"
+  ],
+  "gold": [
+    "coins"
+  ],
+  "change": [
+    "coins"
+  ],
+  "tokens": [
+    "coins"
+  ],
+  "cents": [
+    "coins"
+  ],
+  "coins": [
+    "coins"
+  ],
+  "usd": [
+    "dollar-sign"
+  ],
+  "money": [
+    "dollar-sign",
+    "wallet"
+  ],
+  "wealth": [
+    "dollar-sign"
+  ],
+  "institution": [
+    "landmark"
+  ],
+  "federal": [
+    "landmark"
+  ],
+  "court": [
+    "landmark"
+  ],
+  "treasury": [
+    "landmark"
+  ],
+  "landmark": [
+    "landmark"
+  ],
+  "rate": [
+    "percent"
+  ],
+  "interest": [
+    "percent",
+    "piggy-bank"
+  ],
+  "commission": [
+    "percent"
+  ],
+  "ratio": [
+    "percent"
+  ],
+  "savings": [
+    "piggy-bank"
+  ],
+  "deposit": [
+    "piggy-bank"
+  ],
+  "money box": [
+    "piggy-bank"
+  ],
+  "piggy": [
+    "piggy-bank"
+  ],
+  "bank": [
+    "piggy-bank"
+  ],
+  "justice": [
+    "scale"
+  ],
+  "equity": [
+    "scale"
+  ],
+  "audit": [
+    "scale",
+    "inspection"
+  ],
+  "weigh": [
+    "scale"
+  ],
+  "scale": [
+    "scale",
+    "weight"
+  ],
+  "security safe": [
+    "vault"
+  ],
+  "bank deposit": [
+    "vault"
+  ],
+  "lockbox": [
+    "vault"
+  ],
+  "strongroom": [
+    "vault"
+  ],
+  "vault": [
+    "vault"
+  ],
+  "funds": [
+    "wallet"
+  ],
+  "crypto": [
+    "wallet"
+  ],
+  "balance": [
+    "wallet"
+  ],
+  "wallet": [
+    "wallet"
+  ],
+  "approved folder": [
+    "folder-check"
+  ],
+  "synchronized": [
+    "folder-check"
+  ],
+  "ready": [
+    "folder-check"
+  ],
+  "folders": [
+    "folder-check",
+    "folder-lock",
+    "folder-minus",
+    "folder-open",
+    "folder-plus",
+    "folder"
+  ],
+  "folder": [
+    "folder-check",
+    "folder-lock",
+    "folder-minus",
+    "folder-open",
+    "folder-plus",
+    "folder"
+  ],
+  "encrypted directory": [
+    "folder-lock"
+  ],
+  "confidential": [
+    "folder-lock"
+  ],
+  "private folder": [
+    "folder-lock"
+  ],
+  "delete folder": [
+    "folder-minus"
+  ],
+  "remove directory": [
+    "folder-minus"
+  ],
+  "expanded": [
+    "folder-open"
+  ],
+  "active directory": [
+    "folder-open"
+  ],
+  "browse": [
+    "folder-open"
+  ],
+  "new folder": [
+    "folder-plus"
+  ],
+  "create directory": [
+    "folder-plus"
+  ],
+  "organize": [
+    "folder-plus"
+  ],
+  "directory": [
+    "folder",
+    "contact"
+  ],
+  "group": [
+    "folder",
+    "users"
+  ],
+  "fruit": [
+    "apple"
+  ],
+  "healthy": [
+    "apple"
+  ],
+  "diet": [
+    "apple"
+  ],
+  "nutrition": [
+    "apple"
+  ],
+  "snack": [
+    "apple",
+    "pizza"
+  ],
+  "food": [
+    "apple",
+    "cake",
+    "coffee",
+    "cup-soda",
+    "pizza",
+    "utensils"
+  ],
+  "apple": [
+    "apple"
+  ],
+  "celebration": [
+    "cake"
+  ],
+  "dessert": [
+    "cake"
+  ],
+  "party": [
+    "cake"
+  ],
+  "candles": [
+    "cake"
+  ],
+  "sweet": [
+    "cake"
+  ],
+  "cake": [
+    "cake"
+  ],
+  "espresso": [
+    "coffee"
+  ],
+  "tea": [
+    "coffee"
+  ],
+  "cafe": [
+    "coffee"
+  ],
+  "hot drink": [
+    "coffee"
+  ],
+  "break": [
+    "coffee",
+    "pause"
+  ],
+  "coffee": [
+    "coffee"
+  ],
+  "drink": [
+    "cup-soda"
+  ],
+  "juice": [
+    "cup-soda"
+  ],
+  "straw": [
+    "cup-soda"
+  ],
+  "refreshment": [
+    "cup-soda"
+  ],
+  "soda": [
+    "cup-soda"
+  ],
+  "cup": [
+    "cup-soda"
+  ],
+  "fast food": [
+    "pizza"
+  ],
+  "cheese": [
+    "pizza"
+  ],
+  "italian": [
+    "pizza"
+  ],
+  "meal": [
+    "pizza",
+    "utensils"
+  ],
+  "pizza": [
+    "pizza"
+  ],
+  "dining": [
+    "utensils"
+  ],
+  "knife": [
+    "utensils"
+  ],
+  "restaurant": [
+    "utensils"
+  ],
+  "utensils": [
+    "utensils"
+  ],
+  "telemetry": [
+    "activity-square"
+  ],
+  "cardiac tracker": [
+    "activity-square"
+  ],
+  "health widget": [
+    "activity-square"
+  ],
+  "hospital": [
+    "cross"
+  ],
+  "clinic": [
+    "cross"
+  ],
+  "emergency": [
+    "cross"
+  ],
+  "medical center": [
+    "cross"
+  ],
+  "genetics": [
+    "dna"
+  ],
+  "biology": [
+    "dna"
+  ],
+  "genome": [
+    "dna"
+  ],
+  "medical science": [
+    "dna"
+  ],
+  "dna": [
+    "dna"
+  ],
+  "water": [
+    "droplet"
+  ],
+  "blood": [
+    "droplet"
+  ],
+  "fluid": [
+    "droplet"
+  ],
+  "hydration": [
+    "droplet"
+  ],
+  "moisture": [
+    "droplet"
+  ],
+  "droplet": [
+    "droplet"
+  ],
+  "medical": [
+    "heart-pulse"
+  ],
+  "cardio": [
+    "heart-pulse"
+  ],
+  "vitality": [
+    "heart-pulse"
+  ],
+  "healthcare": [
+    "heart-pulse"
+  ],
+  "pulse": [
+    "heart-pulse"
+  ],
+  "pharmacy": [
+    "pill"
+  ],
+  "capsule": [
+    "pill"
+  ],
+  "drug": [
+    "pill"
+  ],
+  "treatment": [
+    "pill",
+    "syringe"
+  ],
+  "pill": [
+    "pill"
+  ],
+  "doctor": [
+    "stethoscope"
+  ],
+  "physician": [
+    "stethoscope"
+  ],
+  "checkup": [
+    "stethoscope"
+  ],
+  "diagnostic": [
+    "stethoscope"
+  ],
+  "stethoscope": [
+    "stethoscope"
+  ],
+  "injection": [
+    "syringe"
+  ],
+  "immunization": [
+    "syringe"
+  ],
+  "needle": [
+    "syringe"
+  ],
+  "syringe": [
+    "syringe"
+  ],
+  "temperature": [
+    "thermometer"
+  ],
+  "fever": [
+    "thermometer"
+  ],
+  "celsius": [
+    "thermometer"
+  ],
+  "fahrenheit": [
+    "thermometer"
+  ],
+  "heat": [
+    "thermometer"
+  ],
+  "thermometer": [
+    "thermometer",
+    "thermometer-sun"
+  ],
+  "docking": [
+    "anchor-dock"
+  ],
+  "berth": [
+    "anchor-dock",
+    "anchor"
+  ],
+  "mooring": [
+    "anchor-dock"
+  ],
+  "pier": [
+    "anchor-dock"
+  ],
+  "seaport": [
+    "anchor-dock"
+  ],
+  "logistics": [
+    "anchor-dock",
+    "barcode-scanner",
+    "box-alert",
+    "box-check",
+    "cargo-hold",
+    "cargo",
+    "container-refrigerated",
+    "container-stacked",
+    "container",
+    "conveyor-box",
+    "conveyor",
+    "crane-arm",
+    "crane",
+    "customs-stamp",
+    "customs",
+    "delivery",
+    "dispatch",
+    "dolly",
+    "equipment",
+    "fleet",
+    "forklift",
+    "freight",
+    "gate",
+    "gauge-speed",
+    "hub",
+    "inspection",
+    "invoice",
+    "operations",
+    "package-search",
+    "package",
+    "pallet-truck",
+    "pallet",
+    "parcel-fast",
+    "port",
+    "rail",
+    "route-logistics",
+    "seal-check",
+    "seal-lock",
+    "ship",
+    "shipment",
+    "tracking",
+    "train",
+    "truck",
+    "vendor",
+    "warehouse",
+    "weight"
+  ],
+  "anchor": [
+    "anchor-dock",
+    "anchor"
+  ],
+  "dock": [
+    "anchor-dock",
+    "port"
+  ],
+  "pda": [
+    "barcode-scanner"
+  ],
+  "inventory": [
+    "barcode-scanner",
+    "cargo"
+  ],
+  "rfid": [
+    "barcode-scanner"
+  ],
+  "scanner": [
+    "barcode-scanner"
+  ],
+  "cargo exception": [
+    "box-alert"
+  ],
+  "incident": [
+    "box-alert"
+  ],
+  "fragile issue": [
+    "box-alert"
+  ],
+  "box": [
+    "box-alert",
+    "box-check",
+    "container",
+    "conveyor-box",
+    "package",
+    "square"
+  ],
+  "order fulfilled": [
+    "box-check"
+  ],
+  "delivered": [
+    "box-check"
+  ],
+  "package done": [
+    "box-check"
+  ],
+  "vessel hold": [
+    "cargo-hold"
+  ],
+  "bulk cargo": [
+    "cargo-hold"
+  ],
+  "stowage": [
+    "cargo-hold"
+  ],
+  "maritime": [
+    "cargo-hold",
+    "port",
+    "ship"
+  ],
+  "cargo": [
+    "cargo-hold",
+    "cargo",
+    "container",
+    "freight"
+  ],
+  "hold": [
+    "cargo-hold",
+    "pause"
+  ],
+  "freight": [
+    "cargo",
+    "container",
+    "freight",
+    "shipment",
+    "truck"
+  ],
+  "boxes": [
+    "cargo"
+  ],
+  "goods": [
+    "cargo",
+    "package"
+  ],
+  "shipment": [
+    "cargo",
+    "shipment"
+  ],
+  "cold chain": [
+    "container-refrigerated"
+  ],
+  "perishable": [
+    "container-refrigerated"
+  ],
+  "temperature controlled": [
+    "container-refrigerated"
+  ],
+  "ice": [
+    "container-refrigerated",
+    "snowflake"
+  ],
+  "container": [
+    "container-refrigerated",
+    "container-stacked",
+    "container"
+  ],
+  "refrigerated": [
+    "container-refrigerated"
+  ],
+  "yard": [
+    "container-stacked"
+  ],
+  "storage stack": [
+    "container-stacked"
+  ],
+  "teu": [
+    "container-stacked"
+  ],
+  "stacked": [
+    "container-stacked"
+  ],
+  "shipping": [
+    "container",
+    "package"
+  ],
+  "intermodal": [
+    "container",
+    "rail"
+  ],
+  "steel": [
+    "container"
+  ],
+  "sorting": [
+    "conveyor-box",
+    "conveyor"
+  ],
+  "assembly": [
+    "conveyor-box",
+    "conveyor"
+  ],
+  "automation line": [
+    "conveyor-box"
+  ],
+  "packaging": [
+    "conveyor-box"
+  ],
+  "conveyor": [
+    "conveyor-box",
+    "conveyor"
+  ],
+  "facility": [
+    "conveyor",
+    "warehouse"
+  ],
+  "heavy lift": [
+    "crane-arm"
+  ],
+  "boom crane": [
+    "crane-arm"
+  ],
+  "rigging": [
+    "crane-arm"
+  ],
+  "crane": [
+    "crane-arm",
+    "crane"
+  ],
+  "arm": [
+    "crane-arm"
+  ],
+  "hoist": [
+    "crane"
+  ],
+  "lifting": [
+    "crane",
+    "forklift"
+  ],
+  "heavy": [
+    "crane",
+    "weight"
+  ],
+  "container crane": [
+    "crane"
+  ],
+  "docks": [
+    "crane"
+  ],
+  "border stamp": [
+    "customs-stamp"
+  ],
+  "duty approved": [
+    "customs-stamp"
+  ],
+  "customs entry": [
+    "customs-stamp"
+  ],
+  "customs": [
+    "customs-stamp",
+    "customs"
+  ],
+  "stamp": [
+    "customs-stamp"
+  ],
+  "border": [
+    "customs"
+  ],
+  "clearance": [
+    "customs"
+  ],
+  "duty": [
+    "customs"
+  ],
+  "fast shipping": [
+    "delivery"
+  ],
+  "courier": [
+    "delivery",
+    "dispatch"
+  ],
+  "express": [
+    "delivery"
+  ],
+  "rush": [
+    "delivery"
+  ],
+  "delivery": [
+    "delivery",
+    "package",
+    "truck"
+  ],
+  "fleet": [
+    "dispatch",
+    "fleet"
+  ],
+  "transit": [
+    "dispatch",
+    "route"
+  ],
+  "hand truck": [
+    "dolly"
+  ],
+  "porter": [
+    "dolly"
+  ],
+  "moving": [
+    "dolly"
+  ],
+  "warehouse": [
+    "dolly",
+    "forklift",
+    "warehouse"
+  ],
+  "dolly": [
+    "dolly"
+  ],
+  "machinery": [
+    "equipment"
+  ],
+  "tools": [
+    "equipment"
+  ],
+  "rig": [
+    "equipment"
+  ],
+  "maintenance": [
+    "equipment"
+  ],
+  "equipment": [
+    "equipment",
+    "forklift"
+  ],
+  "vehicles": [
+    "fleet"
+  ],
+  "trucks": [
+    "fleet"
+  ],
+  "convoy": [
+    "fleet"
+  ],
+  "fleet tracking": [
+    "fleet"
+  ],
+  "loader": [
+    "forklift",
+    "loader"
+  ],
+  "pallet jack": [
+    "forklift"
+  ],
+  "forklift": [
+    "forklift",
+    "pallet"
+  ],
+  "bulk": [
+    "freight",
+    "train"
+  ],
+  "commercial": [
+    "freight"
+  ],
+  "barrier": [
+    "gate"
+  ],
+  "entry": [
+    "gate"
+  ],
+  "checkpoint": [
+    "gate",
+    "flag"
+  ],
+  "toll": [
+    "gate"
+  ],
+  "gate": [
+    "gate"
+  ],
+  "velocity": [
+    "gauge-speed"
+  ],
+  "odometer": [
+    "gauge-speed"
+  ],
+  "speedometer": [
+    "gauge-speed"
+  ],
+  "dispatch rate": [
+    "gauge-speed"
+  ],
+  "central": [
+    "hub"
+  ],
+  "node": [
+    "hub"
+  ],
+  "transfer": [
+    "hub"
+  ],
+  "nexus": [
+    "hub"
+  ],
+  "hub": [
+    "hub"
+  ],
+  "verify": [
+    "inspection"
+  ],
+  "quality": [
+    "inspection"
+  ],
+  "assessment": [
+    "inspection"
+  ],
+  "billing": [
+    "invoice"
+  ],
+  "waybill": [
+    "invoice"
+  ],
+  "bill of lading": [
+    "invoice"
+  ],
+  "customs doc": [
+    "invoice"
+  ],
+  "invoice": [
+    "invoice"
+  ],
+  "management": [
+    "operations"
+  ],
+  "control": [
+    "operations"
+  ],
+  "workflow": [
+    "operations"
+  ],
+  "operations": [
+    "operations"
+  ],
+  "track and trace": [
+    "package-search"
+  ],
+  "find package": [
+    "package-search"
+  ],
+  "locate shipment": [
+    "package-search"
+  ],
+  "parcel": [
+    "package",
+    "parcel-fast"
+  ],
+  "pump truck": [
+    "pallet-truck"
+  ],
+  "warehouse jack": [
+    "pallet-truck"
+  ],
+  "manual lift": [
+    "pallet-truck"
+  ],
+  "pallet": [
+    "pallet-truck",
+    "pallet"
+  ],
+  "truck": [
+    "pallet-truck",
+    "truck"
+  ],
+  "skid": [
+    "pallet"
+  ],
+  "handling": [
+    "pallet"
+  ],
+  "rack": [
+    "pallet"
+  ],
+  "rush delivery": [
+    "parcel-fast"
+  ],
+  "express box": [
+    "parcel-fast"
+  ],
+  "speed shipment": [
+    "parcel-fast"
+  ],
+  "harbor": [
+    "port",
+    "anchor"
+  ],
+  "quay": [
+    "port"
+  ],
+  "port": [
+    "port"
+  ],
+  "train": [
+    "rail",
+    "train"
+  ],
+  "tracks": [
+    "rail"
+  ],
+  "railway": [
+    "rail"
+  ],
+  "transport": [
+    "rail",
+    "truck"
+  ],
+  "rail": [
+    "rail"
+  ],
+  "path": [
+    "route-logistics",
+    "route"
+  ],
+  "waypoints": [
+    "route-logistics",
+    "route"
+  ],
+  "journey": [
+    "route-logistics",
+    "route"
+  ],
+  "route": [
+    "route-logistics",
+    "navigation-arrow",
+    "route"
+  ],
+  "security seal": [
+    "seal-check"
+  ],
+  "tamper proof": [
+    "seal-check"
+  ],
+  "passed": [
+    "seal-check",
+    "shield-check"
+  ],
+  "secure": [
+    "seal-check",
+    "shield-check",
+    "shield"
+  ],
+  "seal": [
+    "seal-check",
+    "seal-lock"
+  ],
+  "iso 17712": [
+    "seal-lock"
+  ],
+  "bolt seal": [
+    "seal-lock"
+  ],
+  "container security": [
+    "seal-lock"
+  ],
+  "tamper": [
+    "seal-lock"
+  ],
+  "vessel": [
+    "ship"
+  ],
+  "ocean": [
+    "ship"
+  ],
+  "sea": [
+    "ship"
+  ],
+  "boat": [
+    "ship",
+    "ship-boat"
+  ],
+  "freighter": [
+    "ship"
+  ],
+  "ship": [
+    "ship",
+    "ship-boat"
+  ],
+  "consignment": [
+    "shipment"
+  ],
+  "order": [
+    "shipment",
+    "list"
+  ],
+  "gps": [
+    "tracking",
+    "locate",
+    "map-pin",
+    "navigation-arrow"
+  ],
+  "location": [
+    "tracking",
+    "map-pin"
+  ],
+  "status": [
+    "tracking"
+  ],
+  "shipment tracker": [
+    "tracking"
+  ],
+  "tracking": [
+    "tracking"
+  ],
+  "locomotive": [
+    "train"
+  ],
+  "railroad": [
+    "train"
+  ],
+  "cargo train": [
+    "train"
+  ],
+  "vehicle": [
+    "truck",
+    "car"
+  ],
+  "lorry": [
+    "truck"
+  ],
+  "supplier": [
+    "vendor"
+  ],
+  "distributor": [
+    "vendor"
+  ],
+  "merchant": [
+    "vendor"
+  ],
+  "b2b": [
+    "vendor"
+  ],
+  "partner": [
+    "vendor"
+  ],
+  "depot": [
+    "warehouse"
+  ],
+  "fulfillment": [
+    "warehouse"
+  ],
+  "distribution": [
+    "warehouse"
+  ],
+  "payload": [
+    "weight"
+  ],
+  "tonnage": [
+    "weight"
+  ],
+  "measurement": [
+    "weight"
+  ],
+  "weight": [
+    "weight"
+  ],
+  "photo": [
+    "camera",
+    "image"
+  ],
+  "picture": [
+    "camera",
+    "image"
+  ],
+  "lens": [
+    "camera"
+  ],
+  "media": [
+    "camera",
+    "cast",
+    "disc",
+    "fast-forward",
+    "film",
+    "image",
+    "mic",
+    "music",
+    "pause",
+    "play",
+    "rewind",
+    "speaker",
+    "video",
+    "volume-2",
+    "volume-x"
+  ],
+  "camera": [
+    "camera"
+  ],
+  "chromecast": [
+    "cast"
+  ],
+  "airplay": [
+    "cast"
+  ],
+  "stream": [
+    "cast",
+    "play",
+    "video"
+  ],
+  "broadcast display": [
+    "cast"
+  ],
+  "cast": [
+    "cast"
+  ],
+  "cd": [
+    "disc"
+  ],
+  "dvd": [
+    "disc"
+  ],
+  "vinyl": [
+    "disc"
+  ],
+  "album": [
+    "disc"
+  ],
+  "record": [
+    "disc",
+    "mic",
+    "video"
+  ],
+  "disc": [
+    "disc"
+  ],
+  "speed up": [
+    "fast-forward"
+  ],
+  "advance": [
+    "fast-forward"
+  ],
+  "audio skip": [
+    "fast-forward"
+  ],
+  "cinema": [
+    "film"
+  ],
+  "motion picture": [
+    "film"
+  ],
+  "reel": [
+    "film"
+  ],
+  "production": [
+    "film"
+  ],
+  "film": [
+    "film",
+    "video"
+  ],
+  "gallery": [
+    "image"
+  ],
+  "graphic": [
+    "image"
+  ],
+  "wallpaper": [
+    "image"
+  ],
+  "image": [
+    "image"
+  ],
+  "voice": [
+    "mic"
+  ],
+  "podcast": [
+    "mic"
+  ],
+  "speech": [
+    "mic"
+  ],
+  "audio input": [
+    "mic"
+  ],
+  "mic": [
+    "mic"
+  ],
+  "song": [
+    "music"
+  ],
+  "tune": [
+    "music"
+  ],
+  "melody": [
+    "music"
+  ],
+  "freeze": [
+    "pause"
+  ],
+  "halt": [
+    "pause"
+  ],
+  "pause": [
+    "pause"
+  ],
+  "start": [
+    "play"
+  ],
+  "video": [
+    "play",
+    "video"
+  ],
+  "resume": [
+    "play"
+  ],
+  "play": [
+    "play"
+  ],
+  "playback back": [
+    "rewind"
+  ],
+  "audio rewind": [
+    "rewind"
+  ],
+  "subwoofer": [
+    "speaker"
+  ],
+  "hifi": [
+    "speaker"
+  ],
+  "stereo": [
+    "speaker"
+  ],
+  "boombox": [
+    "speaker"
+  ],
+  "speaker": [
+    "speaker",
+    "volume-2"
+  ],
+  "movie": [
+    "video"
+  ],
+  "webcam": [
+    "video"
+  ],
+  "loud": [
+    "volume-2"
+  ],
+  "volume": [
+    "volume-2",
+    "volume-x"
+  ],
+  "no audio": [
+    "volume-x"
+  ],
+  "mute": [
+    "volume-x"
+  ],
+  "marine": [
+    "anchor"
+  ],
+  "nautical": [
+    "anchor"
+  ],
+  "safari": [
+    "compass"
+  ],
+  "compass": [
+    "compass"
+  ],
+  "aim": [
+    "crosshair"
+  ],
+  "focus": [
+    "crosshair"
+  ],
+  "precise": [
+    "crosshair"
+  ],
+  "locate": [
+    "crosshair",
+    "locate"
+  ],
+  "crosshair": [
+    "crosshair"
+  ],
+  "milestone": [
+    "flag",
+    "milestone"
+  ],
+  "country": [
+    "flag"
+  ],
+  "flag": [
+    "flag"
+  ],
+  "earth": [
+    "globe"
+  ],
+  "world": [
+    "globe"
+  ],
+  "international": [
+    "globe"
+  ],
+  "planet": [
+    "globe"
+  ],
+  "web": [
+    "globe"
+  ],
+  "globe": [
+    "globe"
+  ],
+  "gis": [
+    "layers"
+  ],
+  "stack": [
+    "layers"
+  ],
+  "overlay": [
+    "layers"
+  ],
+  "terrain": [
+    "layers"
+  ],
+  "layers": [
+    "layers",
+    "layers-system"
+  ],
+  "current location": [
+    "locate"
+  ],
+  "find me": [
+    "locate"
+  ],
+  "place": [
+    "map-pin"
+  ],
+  "geo": [
+    "map-pin"
+  ],
+  "map": [
+    "map-pin",
+    "map"
+  ],
+  "pin": [
+    "map-pin"
+  ],
+  "cartography": [
+    "map"
+  ],
+  "geography": [
+    "map"
+  ],
+  "plan": [
+    "map"
+  ],
+  "territory": [
+    "map"
+  ],
+  "streets": [
+    "map"
+  ],
+  "progress": [
+    "milestone",
+    "loader"
+  ],
+  "distance": [
+    "milestone"
+  ],
+  "kilometer": [
+    "milestone"
+  ],
+  "heading": [
+    "navigation-arrow"
+  ],
+  "guide": [
+    "navigation-arrow",
+    "signpost"
+  ],
+  "compass needle": [
+    "navigation-arrow"
+  ],
+  "itinerary": [
+    "route"
+  ],
+  "directions": [
+    "signpost"
+  ],
+  "intersection": [
+    "signpost"
+  ],
+  "crossroad": [
+    "signpost"
+  ],
+  "signpost": [
+    "signpost"
+  ],
+  "biometrics": [
+    "fingerprint"
+  ],
+  "identity": [
+    "fingerprint",
+    "contact"
+  ],
+  "touch id": [
+    "fingerprint"
+  ],
+  "authentication": [
+    "fingerprint"
+  ],
+  "fingerprint": [
+    "fingerprint"
+  ],
+  "credential": [
+    "key",
+    "passkey",
+    "id-card"
+  ],
+  "token": [
+    "key"
+  ],
+  "auth": [
+    "key"
+  ],
+  "secret": [
+    "key"
+  ],
+  "key": [
+    "key"
+  ],
+  "fido": [
+    "passkey"
+  ],
+  "webauthn": [
+    "passkey"
+  ],
+  "passwordless": [
+    "passkey"
+  ],
+  "passkey": [
+    "passkey"
+  ],
+  "facial recognition": [
+    "scan"
+  ],
+  "frame": [
+    "scan"
+  ],
+  "detector": [
+    "scan"
+  ],
+  "sensor": [
+    "scan"
+  ],
+  "breach": [
+    "shield-alert"
+  ],
+  "threat detected": [
+    "shield-alert"
+  ],
+  "vulnerability": [
+    "shield-alert"
+  ],
+  "shield": [
+    "shield-alert",
+    "shield-check",
+    "shield-off",
+    "shield-x",
+    "shield",
+    "shield-user"
+  ],
+  "safe": [
+    "shield-check"
+  ],
+  "protected": [
+    "shield-check"
+  ],
+  "antivirus": [
+    "shield-check"
+  ],
+  "unprotected": [
+    "shield-off"
+  ],
+  "firewall down": [
+    "shield-off"
+  ],
+  "blocked": [
+    "shield-x"
+  ],
+  "denied": [
+    "shield-x"
+  ],
+  "firewall drop": [
+    "shield-x"
+  ],
+  "protection": [
+    "shield",
+    "umbrella"
+  ],
+  "defense": [
+    "shield"
+  ],
+  "firewall": [
+    "shield"
+  ],
+  "safety": [
+    "shield"
+  ],
+  "checkbox": [
+    "check-square"
+  ],
+  "form": [
+    "check-square",
+    "square"
+  ],
+  "select": [
+    "check-square"
+  ],
+  "system": [
+    "check-square",
+    "grid",
+    "layers-system",
+    "layout",
+    "list",
+    "loader",
+    "log-in",
+    "log-out",
+    "menu",
+    "moon-theme",
+    "more-horizontal",
+    "more-vertical",
+    "power-off",
+    "power",
+    "radio-button",
+    "sliders-horizontal",
+    "square",
+    "sun-theme",
+    "toggle-left",
+    "toggle-right",
+    "tool"
+  ],
+  "layout": [
+    "grid",
+    "layout"
+  ],
+  "cards": [
+    "grid"
+  ],
+  "blocks": [
+    "grid"
+  ],
+  "depth": [
+    "layers-system"
+  ],
+  "arrangement": [
+    "layers-system"
+  ],
+  "z-index": [
+    "layers-system"
+  ],
+  "wireframe": [
+    "layout"
+  ],
+  "dashboard layout": [
+    "layout"
+  ],
+  "ui sections": [
+    "layout"
+  ],
+  "lines": [
+    "list"
+  ],
+  "bullet": [
+    "list"
+  ],
+  "list": [
+    "list"
+  ],
+  "spinner": [
+    "loader"
+  ],
+  "loading": [
+    "loader"
+  ],
+  "sign in": [
+    "log-in"
+  ],
+  "enter": [
+    "log-in"
+  ],
+  "portal": [
+    "log-in"
+  ],
+  "log": [
+    "log-in",
+    "log-out"
+  ],
+  "in": [
+    "log-in"
+  ],
+  "sign out": [
+    "log-out"
+  ],
+  "leave": [
+    "log-out"
+  ],
+  "disconnect": [
+    "log-out"
+  ],
+  "out": [
+    "log-out"
+  ],
+  "hamburger": [
+    "menu"
+  ],
+  "drawer": [
+    "menu"
+  ],
+  "bars": [
+    "menu"
+  ],
+  "menu": [
+    "menu"
+  ],
+  "mode": [
+    "moon-theme",
+    "sun-theme"
+  ],
+  "night": [
+    "moon-theme"
+  ],
+  "dark": [
+    "moon-theme"
+  ],
+  "theme": [
+    "moon-theme",
+    "sun-theme"
+  ],
+  "moon": [
+    "moon-theme"
+  ],
+  "dots": [
+    "more-horizontal",
+    "more-vertical"
+  ],
+  "ellipsis": [
+    "more-horizontal"
+  ],
+  "kebab": [
+    "more-vertical"
+  ],
+  "disconnected": [
+    "power-off"
+  ],
+  "offline": [
+    "power-off"
+  ],
+  "deactivated": [
+    "power-off"
+  ],
+  "on": [
+    "power"
+  ],
+  "shutdown": [
+    "power"
+  ],
+  "reboot": [
+    "power"
+  ],
+  "form radio": [
+    "radio-button"
+  ],
+  "choice": [
+    "radio-button"
+  ],
+  "single select": [
+    "radio-button"
+  ],
+  "radio": [
+    "radio-button"
+  ],
+  "button": [
+    "radio-button"
+  ],
+  "filter bars": [
+    "sliders-horizontal"
+  ],
+  "equalizer horizontal": [
+    "sliders-horizontal"
+  ],
+  "uncheck": [
+    "square"
+  ],
+  "empty": [
+    "square"
+  ],
+  "brightness": [
+    "sun-theme"
+  ],
+  "day": [
+    "sun-theme",
+    "sun"
+  ],
+  "sun": [
+    "sun-theme",
+    "sun-beach",
+    "sun",
+    "thermometer-sun"
+  ],
+  "switch off": [
+    "toggle-left"
+  ],
+  "disabled": [
+    "toggle-left"
+  ],
+  "state": [
+    "toggle-left",
+    "toggle-right"
+  ],
+  "boolean": [
+    "toggle-left",
+    "toggle-right"
+  ],
+  "toggle": [
+    "toggle-left",
+    "toggle-right"
+  ],
+  "switch on": [
+    "toggle-right"
+  ],
+  "enabled": [
+    "toggle-right"
+  ],
+  "wrench": [
+    "tool"
+  ],
+  "spanner": [
+    "tool"
+  ],
+  "fix": [
+    "tool"
+  ],
+  "repair": [
+    "tool"
+  ],
+  "service": [
+    "tool"
+  ],
+  "tool": [
+    "tool"
+  ],
+  "cycling": [
+    "bike"
+  ],
+  "eco": [
+    "bike"
+  ],
+  "commute": [
+    "bike",
+    "bus"
+  ],
+  "pedal": [
+    "bike"
+  ],
+  "two wheels": [
+    "bike"
+  ],
+  "transportation": [
+    "bike",
+    "bus",
+    "car",
+    "fuel",
+    "plane-landing",
+    "plane-takeoff",
+    "plane",
+    "ship-boat"
+  ],
+  "bike": [
+    "bike"
+  ],
+  "public transit": [
+    "bus"
+  ],
+  "coach": [
+    "bus"
+  ],
+  "shuttle": [
+    "bus"
+  ],
+  "bus": [
+    "bus"
+  ],
+  "automobile": [
+    "car"
+  ],
+  "road": [
+    "car"
+  ],
+  "taxi": [
+    "car"
+  ],
+  "car": [
+    "car"
+  ],
+  "gas": [
+    "fuel"
+  ],
+  "petrol": [
+    "fuel"
+  ],
+  "diesel": [
+    "fuel"
+  ],
+  "station": [
+    "fuel"
+  ],
+  "charge": [
+    "fuel"
+  ],
+  "fuel": [
+    "fuel"
+  ],
+  "landing": [
+    "plane-landing"
+  ],
+  "arrive": [
+    "plane-landing"
+  ],
+  "descend": [
+    "plane-landing"
+  ],
+  "touchdown": [
+    "plane-landing"
+  ],
+  "plane": [
+    "plane-landing",
+    "plane-takeoff",
+    "plane"
+  ],
+  "takeoff": [
+    "plane-takeoff"
+  ],
+  "depart": [
+    "plane-takeoff"
+  ],
+  "ascend": [
+    "plane-takeoff"
+  ],
+  "flight start": [
+    "plane-takeoff"
+  ],
+  "aviation": [
+    "plane"
+  ],
+  "travel": [
+    "plane",
+    "hotel",
+    "luggage",
+    "mountain",
+    "sun-beach",
+    "tent"
+  ],
+  "flight": [
+    "plane"
+  ],
+  "aerospace": [
+    "plane"
+  ],
+  "trip": [
+    "plane",
+    "luggage"
+  ],
+  "ferry": [
+    "ship-boat"
+  ],
+  "yacht": [
+    "ship-boat"
+  ],
+  "cruise": [
+    "ship-boat"
+  ],
+  "water taxi": [
+    "ship-boat"
+  ],
+  "accommodation": [
+    "hotel"
+  ],
+  "hospitality": [
+    "hotel"
+  ],
+  "lodging": [
+    "hotel"
+  ],
+  "resort": [
+    "hotel",
+    "sun-beach"
+  ],
+  "hotel": [
+    "hotel"
+  ],
+  "baggage": [
+    "luggage"
+  ],
+  "traveler": [
+    "luggage"
+  ],
+  "vacation": [
+    "luggage",
+    "sun-beach"
+  ],
+  "packing": [
+    "luggage"
+  ],
+  "luggage": [
+    "luggage"
+  ],
+  "summit": [
+    "mountain"
+  ],
+  "peak": [
+    "mountain"
+  ],
+  "alpine": [
+    "mountain"
+  ],
+  "hike": [
+    "mountain"
+  ],
+  "nature": [
+    "mountain",
+    "tent"
+  ],
+  "mountain": [
+    "mountain"
+  ],
+  "holiday": [
+    "sun-beach"
+  ],
+  "tropical": [
+    "sun-beach"
+  ],
+  "coast": [
+    "sun-beach"
+  ],
+  "beach": [
+    "sun-beach"
+  ],
+  "outdoors": [
+    "tent"
+  ],
+  "camp": [
+    "tent"
+  ],
+  "adventure": [
+    "tent"
+  ],
+  "shelter": [
+    "tent",
+    "umbrella"
+  ],
+  "tent": [
+    "tent"
+  ],
+  "official": [
+    "badge-check"
+  ],
+  "rosette": [
+    "badge-check"
+  ],
+  "trusted": [
+    "badge-check"
+  ],
+  "users": [
+    "badge-check",
+    "contact",
+    "crown",
+    "id-card",
+    "shield-user",
+    "user-check",
+    "user-minus",
+    "user-plus",
+    "user-x",
+    "user",
+    "users"
+  ],
+  "rolodex": [
+    "contact"
+  ],
+  "vcard": [
+    "contact"
+  ],
+  "contact": [
+    "contact"
+  ],
+  "vip": [
+    "crown"
+  ],
+  "premium": [
+    "crown"
+  ],
+  "admin": [
+    "crown"
+  ],
+  "owner": [
+    "crown"
+  ],
+  "tier": [
+    "crown"
+  ],
+  "pro": [
+    "crown"
+  ],
+  "crown": [
+    "crown"
+  ],
+  "license": [
+    "id-card"
+  ],
+  "identification": [
+    "id-card"
+  ],
+  "pass": [
+    "id-card"
+  ],
+  "id": [
+    "id-card"
+  ],
+  "identity assurance": [
+    "shield-user"
+  ],
+  "kyc verified": [
+    "shield-user"
+  ],
+  "secure profile": [
+    "shield-user"
+  ],
+  "user": [
+    "shield-user",
+    "user-check",
+    "user-minus",
+    "user-plus",
+    "user-x",
+    "user"
+  ],
+  "confirmed member": [
+    "user-check"
+  ],
+  "approved profile": [
+    "user-check"
+  ],
+  "kyc passed": [
+    "user-check"
+  ],
+  "remove member": [
+    "user-minus"
+  ],
+  "delete account": [
+    "user-minus"
+  ],
+  "kick": [
+    "user-minus"
+  ],
+  "invite": [
+    "user-plus"
+  ],
+  "new member": [
+    "user-plus"
+  ],
+  "register": [
+    "user-plus"
+  ],
+  "join": [
+    "user-plus"
+  ],
+  "banned": [
+    "user-x"
+  ],
+  "suspended": [
+    "user-x"
+  ],
+  "rejected account": [
+    "user-x"
+  ],
+  "person": [
+    "user"
+  ],
+  "profile": [
+    "user"
+  ],
+  "account": [
+    "user"
+  ],
+  "individual": [
+    "user"
+  ],
+  "human": [
+    "user"
+  ],
+  "team": [
+    "users"
+  ],
+  "people": [
+    "users"
+  ],
+  "organization": [
+    "users"
+  ],
+  "community": [
+    "users"
+  ],
+  "haze": [
+    "cloud-fog"
+  ],
+  "mist": [
+    "cloud-fog"
+  ],
+  "smog": [
+    "cloud-fog"
+  ],
+  "visibility low": [
+    "cloud-fog"
+  ],
+  "weather": [
+    "cloud-fog",
+    "cloud-lightning",
+    "cloud-rain",
+    "snowflake",
+    "sun",
+    "thermometer-sun",
+    "umbrella",
+    "wind"
+  ],
+  "fog": [
+    "cloud-fog"
+  ],
+  "thunder": [
+    "cloud-lightning"
+  ],
+  "storm": [
+    "cloud-lightning",
+    "cloud-rain"
+  ],
+  "tempest": [
+    "cloud-lightning"
+  ],
+  "precipitation": [
+    "cloud-rain"
+  ],
+  "drops": [
+    "cloud-rain"
+  ],
+  "wet": [
+    "cloud-rain"
+  ],
+  "rain": [
+    "cloud-rain"
+  ],
+  "snow": [
+    "snowflake"
+  ],
+  "winter": [
+    "snowflake"
+  ],
+  "cold": [
+    "snowflake"
+  ],
+  "freezing": [
+    "snowflake"
+  ],
+  "snowflake": [
+    "snowflake"
+  ],
+  "sunny": [
+    "sun"
+  ],
+  "warmth": [
+    "sun"
+  ],
+  "hot": [
+    "thermometer-sun"
+  ],
+  "summer": [
+    "thermometer-sun"
+  ],
+  "warm": [
+    "thermometer-sun"
+  ],
+  "heatwave": [
+    "thermometer-sun"
+  ],
+  "rain shield": [
+    "umbrella"
+  ],
+  "monsoon": [
+    "umbrella"
+  ],
+  "umbrella": [
+    "umbrella"
+  ],
+  "breeze": [
+    "wind"
+  ],
+  "air": [
+    "wind"
+  ],
+  "gust": [
+    "wind"
+  ],
+  "blow": [
+    "wind"
+  ],
+  "wind": [
+    "wind"
+  ]
+}

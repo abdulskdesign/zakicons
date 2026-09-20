@@ -1,0 +1,537 @@
+[
+  {
+    "id": "accessibility",
+    "title": "Accessibility",
+    "description": "Universal design, assistive technology, and sensory accessibility indicators.",
+    "count": 3,
+    "icons": [
+      "accessibility",
+      "blind",
+      "ear"
+    ]
+  },
+  {
+    "id": "actions",
+    "title": "Actions",
+    "description": "Core interactive controls, editing operations, state toggles, and user actions.",
+    "count": 32,
+    "icons": [
+      "alert-circle",
+      "alert-triangle",
+      "bookmark",
+      "check",
+      "check-circle",
+      "copy",
+      "download",
+      "edit",
+      "external-link",
+      "eye",
+      "eye-off",
+      "filter",
+      "heart",
+      "help-circle",
+      "info",
+      "link",
+      "lock",
+      "minus",
+      "plus",
+      "search",
+      "settings",
+      "share-2",
+      "sliders",
+      "star",
+      "thumbs-down",
+      "thumbs-up",
+      "trash-2",
+      "unlock",
+      "upload",
+      "x",
+      "x-circle",
+      "zap"
+    ]
+  },
+  {
+    "id": "ai",
+    "title": "Ai",
+    "description": "Artificial intelligence models, neural networks, automation bots, and smart agents.",
+    "count": 6,
+    "icons": [
+      "atom",
+      "bot",
+      "brain",
+      "circuit-board",
+      "lightbulb",
+      "sparkles"
+    ]
+  },
+  {
+    "id": "analytics",
+    "title": "Analytics",
+    "description": "Performance metrics, time series graphs, conversion funnels, and data visualizations.",
+    "count": 10,
+    "icons": [
+      "activity",
+      "bar-chart-2",
+      "funnel",
+      "gauge",
+      "line-chart",
+      "pie-chart",
+      "pie-chart-slice",
+      "table",
+      "trending-down",
+      "trending-up"
+    ]
+  },
+  {
+    "id": "arrows",
+    "title": "Arrows",
+    "description": "Directional indicators, navigation chevrons, pointers, and spatial transformation controls.",
+    "count": 31,
+    "icons": [
+      "arrow-down",
+      "arrow-down-left",
+      "arrow-down-right",
+      "arrow-down-to-dot",
+      "arrow-left",
+      "arrow-left-right",
+      "arrow-right",
+      "arrow-up",
+      "arrow-up-down",
+      "arrow-up-from-dot",
+      "arrow-up-left",
+      "arrow-up-right",
+      "chevron-down",
+      "chevron-left",
+      "chevron-right",
+      "chevron-up",
+      "chevrons-down",
+      "chevrons-left",
+      "chevrons-right",
+      "chevrons-up",
+      "corner-up-left",
+      "corner-up-right",
+      "expand",
+      "maximize-2",
+      "minimize-2",
+      "move",
+      "refresh-ccw",
+      "refresh-cw",
+      "rotate-ccw",
+      "rotate-cw",
+      "shrink"
+    ]
+  },
+  {
+    "id": "business",
+    "title": "Business",
+    "description": "Comprehensive collection of business icons.",
+    "count": 6,
+    "icons": [
+      "award",
+      "badge-percent",
+      "briefcase",
+      "building",
+      "presentation",
+      "target"
+    ]
+  },
+  {
+    "id": "calendar",
+    "title": "Calendar",
+    "description": "Comprehensive collection of calendar icons.",
+    "count": 6,
+    "icons": [
+      "calendar",
+      "calendar-check",
+      "calendar-days",
+      "clock",
+      "hourglass",
+      "timer"
+    ]
+  },
+  {
+    "id": "cloud",
+    "title": "Cloud",
+    "description": "Infrastructure nodes, serverless deployments, backups, and network topologies.",
+    "count": 7,
+    "icons": [
+      "cloud",
+      "cloud-cog",
+      "cloud-download",
+      "cloud-upload",
+      "network",
+      "server-cog",
+      "server-crash"
+    ]
+  },
+  {
+    "id": "commerce",
+    "title": "Commerce",
+    "description": "E-commerce stores, shopping carts, transactions, checkout flows, and retail tags.",
+    "count": 10,
+    "icons": [
+      "barcode",
+      "credit-card",
+      "gift",
+      "qr-code",
+      "receipt",
+      "shopping-bag",
+      "shopping-basket",
+      "shopping-cart",
+      "store",
+      "tag"
+    ]
+  },
+  {
+    "id": "communication",
+    "title": "Communication",
+    "description": "Messaging, voice calls, emails, feedback channels, and notification alerts.",
+    "count": 12,
+    "icons": [
+      "at-sign",
+      "bell",
+      "bell-off",
+      "inbox",
+      "mail",
+      "message-circle",
+      "message-square",
+      "phone",
+      "phone-call",
+      "rss",
+      "send",
+      "share"
+    ]
+  },
+  {
+    "id": "development",
+    "title": "Development",
+    "description": "Code brackets, version control commits, pull requests, terminals, and debugging.",
+    "count": 11,
+    "icons": [
+      "bug",
+      "code",
+      "code-xml",
+      "database",
+      "git-branch",
+      "git-commit",
+      "git-merge",
+      "git-pull-request",
+      "terminal",
+      "variable",
+      "webhook"
+    ]
+  },
+  {
+    "id": "devices",
+    "title": "Devices",
+    "description": "Hardware workstations, mobile devices, displays, peripherals, and connectivity.",
+    "count": 15,
+    "icons": [
+      "battery-charging",
+      "bluetooth",
+      "cpu",
+      "hard-drive",
+      "headphones",
+      "keyboard",
+      "laptop",
+      "monitor",
+      "mouse",
+      "printer",
+      "router",
+      "server",
+      "smartphone",
+      "tablet",
+      "wifi"
+    ]
+  },
+  {
+    "id": "files",
+    "title": "Files",
+    "description": "Document types, contracts, spreadsheets, archives, and digital media records.",
+    "count": 11,
+    "icons": [
+      "clipboard",
+      "clipboard-check",
+      "file",
+      "file-archive",
+      "file-check",
+      "file-code",
+      "file-minus",
+      "file-plus",
+      "file-signature",
+      "file-spreadsheet",
+      "file-text"
+    ]
+  },
+  {
+    "id": "finance",
+    "title": "Finance",
+    "description": "Banking institutions, currencies, ledgers, assets, payments, and accounting.",
+    "count": 10,
+    "icons": [
+      "banknote",
+      "calculator",
+      "coins",
+      "dollar-sign",
+      "landmark",
+      "percent",
+      "piggy-bank",
+      "scale",
+      "vault",
+      "wallet"
+    ]
+  },
+  {
+    "id": "folders",
+    "title": "Folders",
+    "description": "Directories, project workspaces, collections, and file system management.",
+    "count": 6,
+    "icons": [
+      "folder",
+      "folder-check",
+      "folder-lock",
+      "folder-minus",
+      "folder-open",
+      "folder-plus"
+    ]
+  },
+  {
+    "id": "food",
+    "title": "Food",
+    "description": "Culinary dining, beverages, produce, meal services, and cafe lifestyle.",
+    "count": 6,
+    "icons": [
+      "apple",
+      "cake",
+      "coffee",
+      "cup-soda",
+      "pizza",
+      "utensils"
+    ]
+  },
+  {
+    "id": "health",
+    "title": "Health",
+    "description": "Medical monitoring, vitality metrics, pharmaceuticals, and healthcare equipment.",
+    "count": 9,
+    "icons": [
+      "activity-square",
+      "cross",
+      "dna",
+      "droplet",
+      "heart-pulse",
+      "pill",
+      "stethoscope",
+      "syringe",
+      "thermometer"
+    ]
+  },
+  {
+    "id": "logistics",
+    "title": "Logistics",
+    "description": "Industrial supply chain, freight, maritime, container handling, and warehousing operations.",
+    "count": 46,
+    "icons": [
+      "anchor-dock",
+      "barcode-scanner",
+      "box-alert",
+      "box-check",
+      "cargo",
+      "cargo-hold",
+      "container",
+      "container-refrigerated",
+      "container-stacked",
+      "conveyor",
+      "conveyor-box",
+      "crane",
+      "crane-arm",
+      "customs",
+      "customs-stamp",
+      "delivery",
+      "dispatch",
+      "dolly",
+      "equipment",
+      "fleet",
+      "forklift",
+      "freight",
+      "gate",
+      "gauge-speed",
+      "hub",
+      "inspection",
+      "invoice",
+      "operations",
+      "package",
+      "package-search",
+      "pallet",
+      "pallet-truck",
+      "parcel-fast",
+      "port",
+      "rail",
+      "route-logistics",
+      "seal-check",
+      "seal-lock",
+      "ship",
+      "shipment",
+      "tracking",
+      "train",
+      "truck",
+      "vendor",
+      "warehouse",
+      "weight"
+    ]
+  },
+  {
+    "id": "media",
+    "title": "Media",
+    "description": "Audio and video playback, studio recording, photography, and stream controls.",
+    "count": 15,
+    "icons": [
+      "camera",
+      "cast",
+      "disc",
+      "fast-forward",
+      "film",
+      "image",
+      "mic",
+      "music",
+      "pause",
+      "play",
+      "rewind",
+      "speaker",
+      "video",
+      "volume-2",
+      "volume-x"
+    ]
+  },
+  {
+    "id": "navigation",
+    "title": "Navigation",
+    "description": "Wayfinding, geolocation, maps, markers, routes, and geographic orientation.",
+    "count": 13,
+    "icons": [
+      "anchor",
+      "compass",
+      "crosshair",
+      "flag",
+      "globe",
+      "layers",
+      "locate",
+      "map",
+      "map-pin",
+      "milestone",
+      "navigation-arrow",
+      "route",
+      "signpost"
+    ]
+  },
+  {
+    "id": "security",
+    "title": "Security",
+    "description": "Encryption locks, shields, biometric verification, and authentication keys.",
+    "count": 9,
+    "icons": [
+      "fingerprint",
+      "key",
+      "passkey",
+      "scan",
+      "shield",
+      "shield-alert",
+      "shield-check",
+      "shield-off",
+      "shield-x"
+    ]
+  },
+  {
+    "id": "system",
+    "title": "System",
+    "description": "Layout controls, theme toggles, status loaders, and configuration utilities.",
+    "count": 21,
+    "icons": [
+      "check-square",
+      "grid",
+      "layers-system",
+      "layout",
+      "list",
+      "loader",
+      "log-in",
+      "log-out",
+      "menu",
+      "moon-theme",
+      "more-horizontal",
+      "more-vertical",
+      "power",
+      "power-off",
+      "radio-button",
+      "sliders-horizontal",
+      "square",
+      "sun-theme",
+      "toggle-left",
+      "toggle-right",
+      "tool"
+    ]
+  },
+  {
+    "id": "transportation",
+    "title": "Transportation",
+    "description": "Ground, rail, sea, and aviation transit vehicles and infrastructure.",
+    "count": 8,
+    "icons": [
+      "bike",
+      "bus",
+      "car",
+      "fuel",
+      "plane",
+      "plane-landing",
+      "plane-takeoff",
+      "ship-boat"
+    ]
+  },
+  {
+    "id": "travel",
+    "title": "Travel",
+    "description": "Hospitality, luggage packing, vacations, outdoor expeditions, and tourism.",
+    "count": 5,
+    "icons": [
+      "hotel",
+      "luggage",
+      "mountain",
+      "sun-beach",
+      "tent"
+    ]
+  },
+  {
+    "id": "users",
+    "title": "Users",
+    "description": "Identity profiles, user management, permissions, teams, and member credentials.",
+    "count": 11,
+    "icons": [
+      "badge-check",
+      "contact",
+      "crown",
+      "id-card",
+      "shield-user",
+      "user",
+      "user-check",
+      "user-minus",
+      "user-plus",
+      "user-x",
+      "users"
+    ]
+  },
+  {
+    "id": "weather",
+    "title": "Weather",
+    "description": "Meteorological forecasts, atmospheric conditions, temperature, and climate.",
+    "count": 8,
+    "icons": [
+      "cloud-fog",
+      "cloud-lightning",
+      "cloud-rain",
+      "snowflake",
+      "sun",
+      "thermometer-sun",
+      "umbrella",
+      "wind"
+    ]
+  }
+]
