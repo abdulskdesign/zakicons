@@ -2,8 +2,21 @@
   "$schema": "https://turbo.build/schema.json",
   "tasks": {
     "build": {
-      "dependsOn": ["^build"],
-      "outputs": [".next/**", "dist/**", "!.next/cache/**"]
+      "dependsOn": [
+        "^build"
+      ],
+      "outputs": [
+        ".next/**",
+        "dist/**",
+        "!.next/cache/**"
+      ]
+    },
+    "icons:generate": {
+      "outputs": [
+        "packages/**/dist/**",
+        "packages/**/src/**"
+      ],
+      "cache": false
     },
     "lint": {},
     "dev": {
