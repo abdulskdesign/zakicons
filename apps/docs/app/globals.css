@@ -4,16 +4,19 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #09090b;
+  --foreground: #0f172a;
   --card: #ffffff;
   --card-foreground: #09090b;
   --border: #e4e4e7;
   --primary: #713deb;
   --primary-foreground: #fafafa;
   --muted: #f4f4f5;
-  --muted-foreground: #71717a;
+  --muted-foreground: #64748b;
   --accent: #f4f4f5;
   --accent-foreground: #18181b;
+  --cyan-accent: #00d2c4;
+  --purple-main: #6c38ee;
+  --purple-light: #8a57ff;
 }
 
 .dark {
@@ -65,4 +68,94 @@ body {
 :focus-visible {
   outline: 2px solid var(--primary);
   outline-offset: 2px;
+}
+
+.h1 {
+  font-size: clamp(42px, 6.5vw, 76px) !important;
+  animation: fadeUp 0.9s 0.1s ease both;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.grid-bg {
+  position: absolute;
+  inset: 0;
+  z-index: -5;
+  background-image:
+    linear-gradient(rgba(15, 23, 42, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(15, 23, 42, 0.03) 1px, transparent 1px);
+  background-size: 48px 48px;
+  mask-image: radial-gradient(ellipse at center, black 30%, transparent 80%);
+}
+
+.ambient-glow {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(100px);
+  z-index: -3;
+  pointer-events: none;
+  opacity: 0.6;
+}
+
+.glow-purple {
+  width: 600px;
+  height: 600px;
+  background: radial-gradient(circle, rgba(108, 56, 238, 0.18) 0%, rgba(255, 255, 255, 0) 70%);
+  top: -100px;
+  left: 50%;
+  transform: translateX(-50%) translate(var(--mouse-x, 0px), var(--mouse-y, 0px));
+  animation: pulseGlow 8s ease-in-out infinite alternate;
+}
+
+.glow-cyan {
+  width: 450px;
+  height: 450px;
+  background: radial-gradient(circle, rgba(0, 210, 196, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+  bottom: 50px;
+  right: 10%;
+  animation: pulseGlow 10s ease-in-out infinite alternate-reverse;
+}
+
+@keyframes pulseGlow {
+  0% {
+    scale: 0.9;
+    opacity: 0.5;
+  }
+
+  100% {
+    scale: 1.1;
+    opacity: 0.8;
+  }
+}
+
+.gradient-text {
+  background: linear-gradient(135deg, var(--purple-main) 20%, var(--purple-light) 50%, var(--cyan-accent) 90%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shimmer 6s linear infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
 }

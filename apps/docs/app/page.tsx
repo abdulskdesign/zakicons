@@ -26,8 +26,8 @@ export default function HomePage() {
           <span>Release 1.0 — 320+ Production-Ready Vector Icons</span>
         </div>
 
-        <h1 className="text-4xl sm:text-6xl font-extrabold tracking-tight text-foreground leading-[1.1]">
-          Beautiful icons for modern applications.
+        <h1 className="h1 text-4xl sm:text-6xl font-extrabold tracking-tight text-foreground leading-[1.1]">
+          Beautiful icons for <br /> <span className="gradient-text">modern applications.</span>
         </h1>
 
         <p className="text-base sm:text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">
